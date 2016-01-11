@@ -12,7 +12,9 @@ A list of open source front-end tools and resources for web designers and develo
 * HTML forms
 * Web tools
 * CDN library
-* Testing tools
+* Browser compatibility wiki
+* Responsiveness testing tools
+* Performance testing tools
 * Image placeholder
 * Mockup placeholder
 * Free inspirational snippets and tutorials
@@ -127,14 +129,26 @@ A list of open source front-end tools and resources for web designers and develo
 | [Open Source Software CDN](http://osscdn.com/) | Open source software CDN by MaxCDN. |
 | [Yandex CDN](https://tech.yandex.ru/jslibs/) | Service hosts JavaScript libraries that provides site developers with access to the Yandex content delivery (CDN) and can handle a variety of open source JavaScript-frameworks and libraries from Yandex servers. |
 
-### Testing tools
+### Browser compatibility wiki
+| Name | Description |
+|---|---|
+| [Can I Use](http://caniuse.com/) | Check the browser compatibility of CSS3 and HTML5 properties. |
+
+### Responsiveness testing tools
 
 | Name | Description |
 |---|---|
 | [Am I Responsive?](http://ami.responsivedesign.is/) | See how your site looks on desktop, laptop, ipad & iphone. |
 | [BrowserStack](https://www.browserstack.com/) | Use the browser device tester and download Internet Explorer images for your VM. |
-| [Can I Use](http://caniuse.com/) | Check the browser compatibility of CSS3 and HTML5 properties. |
 | [Deviceponsive](http://deviceponsive.com/) | Show a quick preview of your website's responsive to different device resolutions like Macbook, iPad, or iPhone. share this preview with your client. |
+
+### Performance testing tools
+
+| Name | Description |
+|---|---|
+| [Google PageSpeed Tools](https://developers.google.com/speed/pagespeed/) | The PageSpeed tools analyze and optimize your site following web best practices. |
+| [WebPagetest](http://www.webpagetest.org/) | Run a free website speed test from multiple locations around the globe using real browsers and at real consumer connection speeds. |
+| [Website speed test](http://tools.pingdom.com/) | Use this free Website Speed Test to analyze the load speed of your websites, and learn how to make them faster. |
 
 ### Image placeholder
 
@@ -191,6 +205,7 @@ A list of open source front-end tools and resources for web designers and develo
 | [Awesome](https://github.com/sindresorhus/awesome) | A curated list of awesome lists. |
 | [Bootstrap Resources](http://startbootstrap.com/bootstrap-resources/) | A comprehensive list of Bootstrap and related resources. |
 | [Stock photos that don't suck](https://medium.com/@dustin/stock-photos-that-dont-suck-62ae4bcbe01b) | A list of places to find the best free stock photos. |
+| [JavaScript Plugins Repository](https://plainjs.com/javascript/plugins/) | Vanilla JS tools for writing powerful web applications without jQuery. |
 | [Javascript Territory](http://jster.net/) | JSter Javascript catalog. |
 | [JavaScripting](http://www.javascripting.com/) | The database of JavaScript libraries, frameworks, and plugins. |
 | [Unheap](http://www.unheap.com/) | A tidy repository of jQuery plugins classified in categories. |
