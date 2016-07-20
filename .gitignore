@@ -21,10 +21,24 @@
 /test/version_tmp/
 /tmp/
 
+# Used by dotenv library to load environment variables.
+# .env
+
 ## Specific to RubyMotion:
 .dat*
 .repl_history
 build/
+*.bridgesupport
+build-iPhoneOS/
+build-iPhoneSimulator/
+
+## Specific to RubyMotion (use of CocoaPods):
+#
+# We recommend against adding the Pods directory to your .gitignore. However
+# you should judge for yourself, the pros and cons are mentioned at:
+# https://guides.cocoapods.org/using/using-cocoapods.html#should-i-check-the-pods-directory-into-source-control
+#
+# vendor/Pods/
 
 ## Documentation cache and generated files:
 /.yardoc/
@@ -68,7 +82,9 @@ _site/
 *.swp
 *.vi
 
+
 # Compiled source
+# =========================
 *.com
 *.class
 *.dll
@@ -76,22 +92,48 @@ _site/
 *.o
 *.so
 
-# Packages
+
+# Archives
+# =========================
+
+# It's better to unpack these files and commit the raw source because
+# git has its own built in compression methods.
 *.7z
-*.dmg
-*.gz
-*.iso
 *.jar
 *.rar
-*.tar
 *.zip
+*.gz
+*.bzip
+*.bz2
+*.xz
+*.lzma
+*.cab
+
+# packing-only formats
+*.iso
+*.tar
+
+# package management formats
+*.dmg
+*.xpi
+*.gem
+*.egg
+*.deb
+*.rpm
+*.msi
+*.msm
+*.msp
+
 
 # Logs and databases
+# =========================
 *.log
 *.sql
 *.sqlite
 
+
 # OS or editor generated files
+# =========================
 .cache
 .idea
 .project
@@ -100,11 +142,15 @@ _site/
 *.esproj
 nbproject
 
+
 # Komodo
+# =========================
 .komodotools
 *.komodoproject
 
+
 # grunt-html-validation
+# =========================
 validation-report.json
 validation-status.json
 
@@ -129,6 +175,9 @@ lib-cov
 # Coverage directory used by tools like istanbul
 coverage
 
+# nyc test coverage
+.nyc_output
+
 # Grunt intermediate storage (http://gruntjs.com/creating-plugins#storing-task-files)
 .grunt
 
@@ -138,16 +187,15 @@ coverage
 # Compiled binary addons (http://nodejs.org/api/addons.html)
 build/Release
 
-# Dependency directory
-# https://docs.npmjs.com/misc/faq#should-i-check-my-node-modules-folder-into-git
+# Dependency directories
 node_modules
+jspm_packages
 
 # Optional npm cache directory
 .npm
 
 # Optional REPL history
 .node_repl_history
-node_modules
 
 
 # ----------------------------------------------------------------------
@@ -171,6 +219,19 @@ node_modules
 
 # sftp configuration file
 sftp-config.json
+
+# Package control specific files
+Package Control.last-run
+Package Control.ca-list
+Package Control.ca-bundle
+Package Control.system-ca-bundle
+Package Control.cache/
+Package Control.ca-certs/
+bh_unicode_properties.cache
+
+# Sublime-github package stores a github token in this file
+# https://packagecontrol.io/packages/sublime-github
+GitHub.sublime-settings
 
 
 # Notepad++
@@ -196,6 +257,9 @@ sftp-config.json
 
 # PowerPoint temporary
 ~$*.ppt*
+
+# Visio autosave temporary files
+*.~vsdx
 
 
 # LibreOffice
@@ -232,10 +296,10 @@ $RECYCLE.BIN/
 *.lnk
 
 
-# OSX
+# macOS
 # =========================
 
-.DS_Store
+*.DS_Store
 .AppleDouble
 .LSOverride
 
@@ -252,6 +316,7 @@ Icon
 .TemporaryItems
 .Trashes
 .VolumeIcon.icns
+.com.apple.timemachine.donotpresent
 
 # Directories potentially created on remote AFP share
 .AppleDB
@@ -265,6 +330,9 @@ Temporary Items
 # =========================
 
 *~
+
+# temporary files which can be created if a process still has a handle open of a deleted file
+.fuse_hidden*
 
 # KDE directory preferences
 .directory

@@ -6,6 +6,12 @@ A list of open source front-end tools and resources for web designers and develo
 
 * Frameworks
 * Themes
+* HTML preprocessor
+* CSS preprocessor
+* JavaScript preprocessor
+* Sass framework
+* JavaScript library
+* Node.js feature module
 * Vanilla JavaScript plugins
 * jQuery plugins
 * CSS
@@ -55,6 +61,59 @@ A list of open source front-end tools and resources for web designers and develo
 | [HTML5 UP!](http://html5up.net/) | Responsive HTML5 and CSS3 site templates. |
 | [Start Bootstrap](http://startbootstrap.com/) | A library of free to download Bootstrap themes and templates. |
 
+### HTML preprocessor
+
+| Name | Description |
+|---|---|
+| [Haml](http://haml.info/) | HTML abstraction markup language |
+| [Markdown](https://daringfireball.net/projects/markdown/) | A text-to-HTML conversion tool for web writers. |
+| [Slim](http://slim-lang.com/) | A lightweight templating engine. |
+| [Jade](http://jade-lang.com/) | Node template engine. |
+
+### CSS preprocessor
+
+| Name | Description |
+|---|---|
+| [LESS](http://lesscss.org/) | Node CSS pre-processor |
+| [SCSS / Sass](http://sass-lang.com/) |  The most mature, stable, and powerful professional grade CSS extension language in the world. |
+| [Stylus](http://stylus-lang.com/) | Expressive, dynamic, robust, feature-rich CSS preprocessor. |
+| [PostCSS](http://postcss.org/) | A tool for transforming CSS with JavaScript. |
+
+### JavaScript preprocessor
+
+| Name | Description |
+|---|---|
+| [CoffeeScript](http://coffeescript.org/) | A little language that compiles into JavaScript. |
+| [LiveScript](http://livescript.net/) | A language which compiles to JavaScript. |
+| [TypeScript](https://www.typescriptlang.org/) | JavaScript that scales. |
+| [Babel](https://babeljs.io/) | The compiler for writing next generation JavaScript. |
+
+### Sass frameworks
+
+| Name | Description |
+|---|---|
+| [Bourbon](http://bourbon.io/) | A simple and lightweight mixin library for Sass. |
+| [Compass](http://compass-style.org/) | An open-source CSS Authoring Framework. |
+| [Susy](http://susy.oddbird.net/) | Custom layout engine for Sass. |
+
+### JavaScript library
+
+| Name | Description |
+|---|---|
+| [jQuery](http://jquery.com/) | The write less, do more, JavaScript library. |
+| [Modernizr](https://modernizr.com/) | Modernizr tells you what HTML, CSS and JavaScript features the user’s browser has to offer. |
+
+### [Node.js](http://nodejs.org/) feature module
+
+| Name | Description |
+|---|---|
+| [Bower](https://bower.io/)| A package manager for the web |
+| [Browserify](http://browserify.org/) | browser-side `require()` the node way |
+| [Grunt](http://gruntjs.com/) | The JavaScript task runner |
+| [Gulp](http://gulpjs.com/) | The streaming build system |
+| [npm](https://www.npmjs.com/) | The package manager for JavaScript. |
+| [Webpack](https://webpack.github.io/) | Packs CommonJs/AMD modules for the browser. |
+
 ### [Vanilla JavaScript](https://plainjs.com/) plugins
 
 | Name | Description |
@@ -66,11 +125,15 @@ A list of open source front-end tools and resources for web designers and develo
 | [Favico.js](http://lab.ejci.net/favico.js/) | Make use of your favicon with badges, images or videos. |
 | [FluidVids.js](https://github.com/toddmotto/fluidvids) | Fluid width (responsive) videos module, 1KB, custom players, dynamic elements/XHR support. |
 | [Headroom.js](http://wicky.nillia.ms/headroom.js/) | Hide your header until you need it. |
+| [Holder.js](http://holderjs.com/) | Client side image placeholders. |
+| [lazysizes.js](https://github.com/aFarkas/lazysizes) | High performance and SEO friendly lazy loader for images (responsive and normal), iframes and more. |
+| [lunr.js](http://lunrjs.com/) | Simple full-text search in your browser. |
 | [NProgress.js](http://ricostacruz.com/nprogress/) | A nanoscopic progress bar. |
 | [Smartcrop.js](https://github.com/jwagner/smartcrop.js/) | Content aware image cropping. |
 | [Tabella.js](http://iliketomatoes.github.io/tabellajs/) | Responsive table. |
 | [Tether](http://github.hubspot.com/tether/) | A JavaScript library for efficiently making an absolutely positioned element stay next to another element on the page. |
 | [Typeset](https://blot.im/typeset/) | A ty­po­graphic pre-proces­sor for your HTML which uses zero client-side JavaScript. |
+| [ZeroClipboard.js](http://zeroclipboard.org/) | An easy way to copy text to the clipboard. |
 
 ### [jQuery](http://jquery.com/) plugins
 
@@ -87,7 +150,11 @@ A list of open source front-end tools and resources for web designers and develo
 | Name | Description |
 |---|---|
 | [Animate.css](http://daneden.github.io/animate.css/) |  A cross-browser library of CSS animations. |
+| [Flex Grid](http://flexboxgrid.com/) | A grid system based on the flex display property. |
+| [Mastering the `:nth-child`](http://nthmaster.com/) | CSS3 pseudo classes and :nth-child ranges. |
+| [Eric Meyer CSS reset](http://meyerweb.com/eric/tools/css/reset/) | Eric Meyer CSS reset |
 | [Mueller Grid System](http://muellergridsystem.com/) | A modular grid system for responsive/adaptive and non–responsive layouts, based on Compass. |
+| [Normalize.css](http://necolas.github.io/normalize.css/) | A modern, HTML5-ready alternative to CSS resets. |
 | [Toast](http://daneden.github.io/Toast/) | Insane, no-nonsense CSS grid. |
 
 ### HTML forms
@@ -130,6 +197,7 @@ A list of open source front-end tools and resources for web designers and develo
 | [Yandex CDN](https://tech.yandex.ru/jslibs/) | Service hosts JavaScript libraries that provides site developers with access to the Yandex content delivery (CDN) and can handle a variety of open source JavaScript-frameworks and libraries from Yandex servers. |
 
 ### Browser compatibility wiki
+
 | Name | Description |
 |---|---|
 | [Can I Use](http://caniuse.com/) | Check the browser compatibility of CSS3 and HTML5 properties. |
@@ -204,8 +272,9 @@ A list of open source front-end tools and resources for web designers and develo
 |---|---|
 | [Awesome](https://github.com/sindresorhus/awesome) | A curated list of awesome lists. |
 | [Bootstrap Resources](http://startbootstrap.com/bootstrap-resources/) | A comprehensive list of Bootstrap and related resources. |
-| [Stock photos that don't suck](https://medium.com/@dustin/stock-photos-that-dont-suck-62ae4bcbe01b) | A list of places to find the best free stock photos. |
 | [JavaScript Plugins Repository](https://plainjs.com/javascript/plugins/) | Vanilla JS tools for writing powerful web applications without jQuery. |
 | [Javascript Territory](http://jster.net/) | JSter Javascript catalog. |
 | [JavaScripting](http://www.javascripting.com/) | The database of JavaScript libraries, frameworks, and plugins. |
+| [Stock photos that don't suck](https://medium.com/@dustin/stock-photos-that-dont-suck-62ae4bcbe01b) | A list of places to find the best free stock photos. |
+| [StaticGen](https://www.staticgen.com/) | Top open-source static site generators list. |
 | [Unheap](http://www.unheap.com/) | A tidy repository of jQuery plugins classified in categories. |
