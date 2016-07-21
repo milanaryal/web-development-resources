@@ -174,6 +174,7 @@ A list of open source front-end tools and resources for web designers and develo
 |---|---|
 | [Color Hunt](http://www.colorhunt.co/) | Curated collection of beautiful colors, updated daily. |
 | [CSS3 Generator](http://css3generator.com/) | CSS3 classics |
+| [CSSmatic](http://www.cssmatic.com/) | The ultimate CSS tools for web designers. |
 | [Flat Colors](http://flatcolors.net/) | Browse over 11,000 flat colors in over 2,300 flat color palettes. Copy them or download the `.ACO` file for use in Photoshop. |
 | [SRI Hash Generator](https://www.srihash.org/) | Use of SRI is recommended as a best-practice, whenever libraries are loaded from a third-party source. |
 | [Create LaTeX tables online](http://www.tablesgenerator.com/) | Quickly create even complex LaTeX tables with online generator - cells merging is supported together with borders editing. |
