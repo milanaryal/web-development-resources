@@ -23,6 +23,7 @@ A list of open source front-end tools and resources for web designers and develo
 * Performance testing tools
 * Image placeholder
 * Mockup placeholder
+* Website icons for browsers
 * Free inspirational snippets and tutorials
 * Design inspiration
 * List of lists of lists
@@ -231,6 +232,16 @@ A list of open source front-end tools and resources for web designers and develo
 | Name | Description |
 |---|---|
 | [Placeit](https://placeit.net/) | The best one to drop your project in any device context. |
+
+### Website icons for browsers
+
+| Name | Description |
+|---|---|
+| [Favicon Generator](https://realfavicongenerator.net/) | Online Favicon Generator. For real.|
+| [Build My Pinned Site](http://www.buildmypinnedsite.com/) | Online tool to create a custom Windows Start Screen tile for your site in less than a minute. |
+| [Pinned site enhancements on Windows](https://msdn.microsoft.com/en-us/library/bg183312(v=vs.85).aspx) / [Creating custom tiles for IE11 websites](https://msdn.microsoft.com/en-us/library/dn455106(v=vs.85).aspx) | Setting up live tiles and notifications for Windows |
+| [Configuring Web Applications for Apple](https://developer.apple.com/library/ios/documentation/AppleApplications/Reference/SafariWebContent/ConfiguringWebApplications/ConfiguringWebApplications.html) | Conceptual information and techniques on creating effective web content for Safari and WebKit using HTML and CSS. |
+| [Installable Web Apps with the Web App Manifest in Chrome for Android](https://developers.google.com/web/updates/2014/11/Support-for-installable-web-apps-with-webapp-manifest-in-chrome-38-for-Android?hl=en) / [Manifest File Format](https://developer.chrome.com/extensions/manifest) | Use the web app manifest to control how your web app launches. |
 
 ### Free inspirational snippets and tutorials
 
