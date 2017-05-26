@@ -160,7 +160,7 @@ A list of open source front-end tools and resources for web designers and develo
 | [Graaf](http://graaf.space/) | Pure CSS grid overlays for designing. |
 | [Mueller Grid System](http://muellergridsystem.com/) | A modular grid system for responsive/adaptive and non–responsive layouts, based on Compass. |
 | [Normalize.css](http://necolas.github.io/normalize.css/) | A modern, HTML5-ready alternative to CSS resets. |
-| [RTLCSS](http://rtlcss.com/) | | Framework for converting Left-To-Right (LTR) Cascading Style Sheets(CSS) to Right-To-Left (RTL). |
+| [RTLCSS](http://rtlcss.com/) | Framework for converting Left-To-Right (LTR) Cascading Style Sheets(CSS) to Right-To-Left (RTL). |
 | [Toast](http://daneden.github.io/Toast/) | Insane, no-nonsense CSS grid. |
 
 ### HTML forms
