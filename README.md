@@ -177,6 +177,7 @@ A list of open source front-end tools and resources for web designers and develo
 
 | Name | Description |
 |---|---|
+| [AutoDraw](https://www.autodraw.com/) | Fast drawing for everyone. AutoDraw pairs machine learning with drawings from talented artists to help you draw stuff fast. |
 | [Color Hunt](http://www.colorhunt.co/) | Curated collection of beautiful colors, updated daily. |
 | [CSS3 Generator](http://css3generator.com/) | CSS3 classics |
 | [CSSmatic](http://www.cssmatic.com/) | The ultimate CSS tools for web designers. |
@@ -185,6 +186,7 @@ A list of open source front-end tools and resources for web designers and develo
 | [Create LaTeX tables online](http://www.tablesgenerator.com/) | Quickly create even complex LaTeX tables with online generator - cells merging is supported together with borders editing. |
 | [uiGradients](http://uigradients.com/) | A handpicked collection of beautiful colour gradients for designers and developers. |
 | [Web Code Tools](http://webcodetools.com/) | CSS3, HTML5, Microdata, Open Graph and Twitter Card Generators |
+| [Superdomain](http://superdomain.io) | Check domain availability. |
 | [What's My Screen Resolution](http://whatsmyscreenresolution.com/) | An Online tool to check screen resolution of any display device. |
 
 ### CDN library
@@ -251,10 +253,10 @@ A list of open source front-end tools and resources for web designers and develo
 
 | Name | Description |
 |---|---|
-| [Can I use... ](https://caniuse.com/) | Support tables for HTML5, CSS3, etc. |
 | [CodeMyUI](http://codemyui.com/) | Handpicked code snippets you can use in your web projects. Find web design inspiration with code samples. |
 | [CodyHouse](https://codyhouse.co/) | A free library of HTML, CSS, JS nuggets. |
 | [Codrops](http://tympanus.net/codrops/) | Codrops is a web design and development blog that publishes articles and tutorials about the latest web trends, techniques and new possibilities. |
+| [Papersizes.io - The best resource for Paper Sizes](http://papersizes.io/) | A simple, free resource for finding the international standards for paper sizes in metric and imperial. |
 | [Scotch](https://scotch.io/) | A web development blog discussing all things programming, development, web and life. |
 | [Smashing Magazine](http://www.smashingmagazine.com/) | An online magazine for professional Web designers and developers, with a focus on useful techniques, best practices and valuable resources. |
 | [W3Schools Online Web Tutorials](https://www.w3schools.com/) | The world's largest web developer site. |
