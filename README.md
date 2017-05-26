@@ -25,6 +25,7 @@ A list of open source front-end tools and resources for web designers and develo
 * Mockup placeholder
 * Website icons for browsers
 * Free inspirational snippets and tutorials
+* CSS tutorials
 * Design inspiration
 * List of lists of lists
 
@@ -151,11 +152,14 @@ A list of open source front-end tools and resources for web designers and develo
 | Name | Description |
 |---|---|
 | [Animate.css](http://daneden.github.io/animate.css/) |  A cross-browser library of CSS animations. |
+| [CSSgram](https://una.im/CSSgram/) | A tiny `(<1kb gzipped!)` library for recreating Instagram filters with CSS filters and blend modes. |
+| [EQCSS](http://elementqueries.com/) | A spec for a container-style element query syntax in CSS. |
 | [Flex Grid](http://flexboxgrid.com/) | A grid system based on the flex display property. |
 | [Mastering the `:nth-child`](http://nthmaster.com/) | CSS3 pseudo classes and :nth-child ranges. |
 | [Eric Meyer CSS reset](http://meyerweb.com/eric/tools/css/reset/) | Eric Meyer CSS reset |
 | [Mueller Grid System](http://muellergridsystem.com/) | A modular grid system for responsive/adaptive and non–responsive layouts, based on Compass. |
 | [Normalize.css](http://necolas.github.io/normalize.css/) | A modern, HTML5-ready alternative to CSS resets. |
+| [RTLCSS](http://rtlcss.com/) | | Framework for converting Left-To-Right (LTR) Cascading Style Sheets(CSS) to Right-To-Left (RTL). |
 | [Toast](http://daneden.github.io/Toast/) | Insane, no-nonsense CSS grid. |
 
 ### HTML forms
@@ -247,11 +251,34 @@ A list of open source front-end tools and resources for web designers and develo
 
 | Name | Description |
 |---|---|
+| [Can I use... ](https://caniuse.com/) | Support tables for HTML5, CSS3, etc. |
 | [CodeMyUI](http://codemyui.com/) | Handpicked code snippets you can use in your web projects. Find web design inspiration with code samples. |
 | [CodyHouse](https://codyhouse.co/) | A free library of HTML, CSS, JS nuggets. |
 | [Codrops](http://tympanus.net/codrops/) | Codrops is a web design and development blog that publishes articles and tutorials about the latest web trends, techniques and new possibilities. |
 | [Scotch](https://scotch.io/) | A web development blog discussing all things programming, development, web and life. |
 | [Smashing Magazine](http://www.smashingmagazine.com/) | An online magazine for professional Web designers and developers, with a focus on useful techniques, best practices and valuable resources. |
+| [W3Schools Online Web Tutorials](https://www.w3schools.com/) | The world's largest web developer site. |
+
+### CSS tutorials
+
+| Name | Description |
+|---|---|
+| [Browser safe fonts](http://www.ampsoft.net/webdesign-l/WindowsMacFonts.html) | Common fonts to all versions of Windows & Mac equivalents. |
+| [CSS Font Stack](http://www.cssfontstack.com/) | A complete collection of web safe CSS font stacks. |
+| [CSS outline property - outline: none and outline: 0](http://outlinenone.com/) | The CSS outline property is an accessibility requirement, yet often abused by many web designers, why do they do it? |
+| [CSS Selector Reference](https://www.w3schools.com/cssref/css_selectors.asp) | In CSS, selectors are patterns used to select the element(s) you want to style. |
+| [CSS Specificity](http://cssspecificity.com) | CSS Specificity. CSS specificity assigns a numerical representation of a selector in order to compare in case there are style conflicts. Web poster displays CSS specificity with icons from Stanley Kubrick's 'The Shining' film. |
+| [Grid by Example](https://gridbyexample.com/) | Everything you need to learn CSS Grid Layout. |
+| [Grid Garden](https://cssgridgarden.com/) | A game for learning CSS grid. |
+| [Griddy](http://griddy.io/) | Learn the CSS Grid! |
+| [Hash tag links that don't headbutt the browser window](https://css-tricks.com/hash-tag-links-padding/) | CSS-Tricks post by Chris Coyier. |
+| [Learn CSS Grid](http://learncssgrid.com/) | A guide to learning CSS grid. |
+| [Learn CSS Grid](http://jensimmons.com/post/feb-27-2017/learn-css-grid) | A lot of fantastic resources out there by Jen Simmons. |
+| [Learn CSS Layout](http://learnlayout.com/) | This site teaches the CSS fundamentals that are used in any website's layout. |
+| [Overriding the default text selection color with CSS](https://css-tricks.com/overriding-the-default-text-selection-color-with-css/) | CSS-Tricks post by Chris Coyier. |
+| [Smarter link underlines for every website](https://eager.io/blog/smarter-link-underlines/) | Post by Adam Schwartz. |
+| [What is the browser-default background color when selecting text?](https://stackoverflow.com/questions/16094837/what-is-the-browser-default-background-color-when-selecting-text) | Answer on Stack Overflow |
+| [Why I switched from LESS to Sass?](http://hugogiraudel.com/2012/11/13/less-to-sass/) | Post by Hugo Giraudel. |
 
 ### Design inspiration
 
