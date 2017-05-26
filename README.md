@@ -157,6 +157,7 @@ A list of open source front-end tools and resources for web designers and develo
 | [Flex Grid](http://flexboxgrid.com/) | A grid system based on the flex display property. |
 | [Mastering the `:nth-child`](http://nthmaster.com/) | CSS3 pseudo classes and :nth-child ranges. |
 | [Eric Meyer CSS reset](http://meyerweb.com/eric/tools/css/reset/) | Eric Meyer CSS reset |
+| [Graaf](http://graaf.space/) | Pure CSS grid overlays for designing. |
 | [Mueller Grid System](http://muellergridsystem.com/) | A modular grid system for responsive/adaptive and non–responsive layouts, based on Compass. |
 | [Normalize.css](http://necolas.github.io/normalize.css/) | A modern, HTML5-ready alternative to CSS resets. |
 | [RTLCSS](http://rtlcss.com/) | | Framework for converting Left-To-Right (LTR) Cascading Style Sheets(CSS) to Right-To-Left (RTL). |
@@ -178,6 +179,7 @@ A list of open source front-end tools and resources for web designers and develo
 | Name | Description |
 |---|---|
 | [AutoDraw](https://www.autodraw.com/) | Fast drawing for everyone. AutoDraw pairs machine learning with drawings from talented artists to help you draw stuff fast. |
+| [Binary Translator](http://binarytranslator.com/) | Free binary code translator, translate binary code to text. |
 | [Color Hunt](http://www.colorhunt.co/) | Curated collection of beautiful colors, updated daily. |
 | [CSS3 Generator](http://css3generator.com/) | CSS3 classics |
 | [CSSmatic](http://www.cssmatic.com/) | The ultimate CSS tools for web designers. |
@@ -317,6 +319,7 @@ A list of open source front-end tools and resources for web designers and develo
 | [Javascript Territory](http://jster.net/) | JSter Javascript catalog. |
 | [JavaScripting](http://www.javascripting.com/) | The database of JavaScript libraries, frameworks, and plugins. |
 | [Libraries.io](https://libraries.io/) | The Open Source Discovery Service. |
+| [List of HTTP status codes](https://en.wikipedia.org/wiki/List_of_HTTP_status_codes) | A list of Hypertext Transfer Protocol (HTTP) response status codes. |
 | [Stock photos that don't suck](https://medium.com/@dustin/stock-photos-that-dont-suck-62ae4bcbe01b) | A list of places to find the best free stock photos. |
 | [StaticGen](https://www.staticgen.com/) | Top open-source static site generators list. |
 | [Unheap](http://www.unheap.com/) | A tidy repository of jQuery plugins classified in categories. |
