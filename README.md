@@ -164,17 +164,20 @@ A list of open source front-end tools and resources for web designers and develo
 | [RTLCSS](http://rtlcss.com/) | Framework for converting Left-To-Right (LTR) Cascading Style Sheets(CSS) to Right-To-Left (RTL). |
 | [Toast](http://daneden.github.io/Toast/) | Insane, no-nonsense CSS grid. |
 
-#### SVG, PNG, or Font icons
+### SVG, PNG, or Font icons
 | Name | Description |
 |---|---|
+| [Creative Commons license icons](https://creativecommons.org/about/downloads/) | Download SVG, EPS, and PNG Creative Commons license icons to use in your site. |
 | [Flaticon](http://www.flaticon.com/) | The largest database of free icons available in PNG, SVG, EPS, PSD and BASE 64 formats. |
 | [Font Awesome](http://fontawesome.io/) | The iconic font and CSS toolkit. |
 | [Font-Awesome-SVG-PNG](https://github.com/encharm/Font-Awesome-SVG-PNG) | Font Awesome split to individual SVG and PNG files of different sizes along with Node.JS based generator. |
+| [FontForge](https://fontforge.github.io/en-US/) | A free and open source font editor brought to you by a community of fellow type lovers. |
 | [Fontello](http://fontello.com/) | An easy way to create a custom icon font for your site. Select images from our large collection, and make a webfont pack with one click. |
 | [IcoMoon](https://icomoon.io/) | IcoMoon provides a package of vector icons, along with a free HTML5 app for making custom icon fonts or SVG sprites. Browse among thousands of pixel perfect icons or import your own vectors. |
 | [Material Design Icons](https://materialdesignicons.com/) | View all the Material Design icons and more from the community. |
 | [The Big List of Flat Icons & Icon Fonts](https://css-tricks.com/flat-icons-icon-fonts/) by CSS-Triks | There are many such roundups. This one is mine. |
 | [Octicons](https://octicons.github.com/) | A scalable icon font handcrafted with &lt;3 by GitHub. |
+| [Perfect Icons](http://perfecticons.com/) | The easiest way to create resolution independent social icons. |
 | [Simple Icons](https://simpleicons.org/) | Free SVG icons for popular brands. |
 | [svg-icon](https://leungwensen.github.io/svg-icon/) | An ultimate SVG icons collection DONE RIGHT. |
 | [Vector Icons Roundup](https://tagliala.github.io/vectoriconsroundup/) | A side-by-side comparison between popular icon fonts. |
