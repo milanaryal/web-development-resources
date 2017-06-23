@@ -147,6 +147,7 @@ A list of open source front-end tools and resources for web designers and develo
 | [FitVids.js](http://fitvidsjs.com/) | A lightweight, easy-to-use jQuery plugin for fluid width video embeds. |
 | [fullPage.js](http://alvarotrigo.com/fullPage/) | One page scroll sections site plugin. |
 | [Lazy Load](http://www.appelsiini.net/projects/lazyload) | Lazy Load is delays loading of images in long web pages. |
+| [Lity](http://sorgalla.com/lity/) | A ultra-lightweight, accessible and responsive lightbox plugin which supports images, iframes and inline content out of the box. |
 
 ### CSS
 
