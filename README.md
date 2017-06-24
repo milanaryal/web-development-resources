@@ -41,6 +41,7 @@ A list of open source front-end tools and resources for web designers and develo
 | - | - |
 | [Base](http://getbase.org/) | A Rock Solid, Responsive HTML/CSS Framework. |
 | [Basscss](http://www.basscss.com/) | Low-level CSS toolkit. |
+| [Bulma](http://bulma.io/) | A modern CSS framework based on Flexbox. |
 | [Concise Framework](http://concisecss.com/) | A lightweight front-end framework that provides a number of great features without the bloat. |
 | [Cardinal](http://cardinalcss.com/) | Cardinal is a modular, "mobile-first" CSS framework built with performance and scalability in mind. |
 | [Furtive CSS](http://furtive.co/) | A forward-thinking, CSS micro-framework. |
@@ -132,6 +133,8 @@ A list of open source front-end tools and resources for web designers and develo
 | [lazysizes.js](https://github.com/aFarkas/lazysizes) | High performance and SEO friendly lazy loader for images (responsive and normal), iframes and more. |
 | [lunr.js](http://lunrjs.com/) | Simple full-text search in your browser. |
 | [NProgress.js](http://ricostacruz.com/nprogress/) | A nanoscopic progress bar. |
+| [react-burger-menu](https://github.com/negomi/react-burger-menu) | An off-canvas sidebar React component with a collection of effects and styles using CSS transitions and SVG path animations. |
+| [Slideout.js](https://slideout.js.org/) | A touch slideout navigation menu for your mobile web apps. |
 | [Smartcrop.js](https://github.com/jwagner/smartcrop.js/) | Content aware image cropping. |
 | [Tabella.js](http://iliketomatoes.github.io/tabellajs/) | Responsive table. |
 | [Tether](http://github.hubspot.com/tether/) | A JavaScript library for efficiently making an absolutely positioned element stay next to another element on the page. |
@@ -155,11 +158,13 @@ A list of open source front-end tools and resources for web designers and develo
 |---|---|
 | [Animate.css](http://daneden.github.io/animate.css/) |  A cross-browser library of CSS animations. |
 | [CSSgram](https://una.im/CSSgram/) | A tiny `(<1kb gzipped!)` library for recreating Instagram filters with CSS filters and blend modes. |
+| [CSS Filters Playground](http://bennettfeely.com/filters/) | Play with the new CSS3 Filter Effects. |
 | [EQCSS](http://elementqueries.com/) | A spec for a container-style element query syntax in CSS. |
 | [Flex Grid](http://flexboxgrid.com/) | A grid system based on the flex display property. |
 | [Mastering the `:nth-child`](http://nthmaster.com/) | CSS3 pseudo classes and :nth-child ranges. |
 | [Eric Meyer CSS reset](http://meyerweb.com/eric/tools/css/reset/) | Eric Meyer CSS reset |
 | [Graaf](http://graaf.space/) | Pure CSS grid overlays for designing. |
+| [Hamburgers](https://jonsuh.com/hamburgers/) | Tasty CSS-animated Hamburgers. |
 | [Mueller Grid System](http://muellergridsystem.com/) | A modular grid system for responsive/adaptive and non–responsive layouts, based on Compass. |
 | [Normalize.css](http://necolas.github.io/normalize.css/) | A modern, HTML5-ready alternative to CSS resets. |
 | [RTLCSS](http://rtlcss.com/) | Framework for converting Left-To-Right (LTR) Cascading Style Sheets(CSS) to Right-To-Left (RTL). |
@@ -177,6 +182,7 @@ A list of open source front-end tools and resources for web designers and develo
 | [IcoMoon](https://icomoon.io/) | IcoMoon provides a package of vector icons, along with a free HTML5 app for making custom icon fonts or SVG sprites. Browse among thousands of pixel perfect icons or import your own vectors. |
 | [Material Design Icons](https://materialdesignicons.com/) | View all the Material Design icons and more from the community. |
 | [The Big List of Flat Icons & Icon Fonts](https://css-tricks.com/flat-icons-icon-fonts/) by CSS-Triks | There are many such roundups. This one is mine. |
+| [Noun Project - Icons for everything](https://thenounproject.com/) | Nearly a million curated icons, created by a global community. |
 | [Octicons](https://octicons.github.com/) | A scalable icon font handcrafted with &lt;3 by GitHub. |
 | [Perfect Icons](http://perfecticons.com/) | The easiest way to create resolution independent social icons. |
 | [Simple Icons](https://simpleicons.org/) | Free SVG icons for popular brands. |
@@ -211,6 +217,7 @@ A list of open source front-end tools and resources for web designers and develo
 | [Web Code Tools](http://webcodetools.com/) | CSS3, HTML5, Microdata, Open Graph and Twitter Card Generators |
 | [Superdomain](http://superdomain.io) | Check domain availability. |
 | [What's My Screen Resolution](http://whatsmyscreenresolution.com/) | An Online tool to check screen resolution of any display device. |
+| [WebGradients](https://webgradients.com/) | Free collection of background gradients that you can use as content backdrops in any part of your website. |
 
 ### CDN library
 
