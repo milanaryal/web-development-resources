@@ -27,6 +27,7 @@ A list of open source front-end tools and resources for web designers and develo
 * Website icons for browsers
 * Free inspirational snippets and tutorials
 * CSS tutorials
+* Infographics
 * Design inspiration
 * List of lists of lists
 
@@ -312,6 +313,11 @@ A list of open source front-end tools and resources for web designers and develo
 | [What is the browser-default background color when selecting text?](https://stackoverflow.com/questions/16094837/what-is-the-browser-default-background-color-when-selecting-text) | Answer on Stack Overflow |
 | [Why I switched from LESS to Sass?](http://hugogiraudel.com/2012/11/13/less-to-sass/) | Post by Hugo Giraudel. |
 
+### Infographics
+| Name | Description |
+|---|---|
+| [Home Office Posters](https://github.com/UKHomeOffice/posters) | Home Office repository of posters covering different topics - research, access needs, accessibility, design. |
+
 ### Design inspiration
 
 | Name |
@@ -343,6 +349,7 @@ A list of open source front-end tools and resources for web designers and develo
 |---|---|
 | [Awesome](https://github.com/sindresorhus/awesome) | A curated list of awesome lists. |
 | [Bootstrap Resources](http://startbootstrap.com/bootstrap-resources/) | A comprehensive list of Bootstrap and related resources. |
+| [GitHub - Open source showcases](https://github.com/showcases) | Browse popular repositories based on the topic that interests you most. |
 | [JavaScript Plugins Repository](https://plainjs.com/javascript/plugins/) | Vanilla JS tools for writing powerful web applications without jQuery. |
 | [Javascript Territory](http://jster.net/) | JSter Javascript catalog. |
 | [JavaScripting](http://www.javascripting.com/) | The database of JavaScript libraries, frameworks, and plugins. |
