@@ -5,6 +5,8 @@ A list of open source front-end tools and resources for web designers and develo
 ### Table of contents
 
 * Frameworks
+* Mobile Web apps frameworks
+* Front-end components
 * Themes
 * HTML preprocessor
 * CSS preprocessor
@@ -57,6 +59,19 @@ A list of open source front-end tools and resources for web designers and develo
 | [Skel](https://github.com/n33/skel) | A lightweight responsive framework for the www. |
 | [Skeleton](http://getskeleton.com/) | A dead simple, responsive boilerplate. |
 | [UIkit](http://getuikit.com/) | A lightweight and modular front-end framework for developing fast and powerful web interfaces. |
+
+### Mobile Web apps frameworks
+
+| Name | Description |
+|---|---|
+| [Onsen UI](https://onsen.io/) | The most beautiful and efficient way to develop HTML5 hybrid and mobile web apps. |
+
+### Front-end components
+
+| Name | Description |
+|---|---|
+| [Formstone](https://formstone.it/) | Formstone is a collection of front end components. |
+| [Le Wagon UI components](https://lewagon.github.io/ui-components/) | - |
 
 ### Themes
 
@@ -135,10 +150,13 @@ A list of open source front-end tools and resources for web designers and develo
 | [lunr.js](http://lunrjs.com/) | Simple full-text search in your browser. |
 | [NProgress.js](http://ricostacruz.com/nprogress/) | A nanoscopic progress bar. |
 | [react-burger-menu](https://github.com/negomi/react-burger-menu) | An off-canvas sidebar React component with a collection of effects and styles using CSS transitions and SVG path animations. |
+| [Responsive nav](http://responsive-nav.com/) | Responsive navigation plugin without library dependencies and with fast touch screen support. |
 | [Slideout.js](https://slideout.js.org/) | A touch slideout navigation menu for your mobile web apps. |
 | [Smartcrop.js](https://github.com/jwagner/smartcrop.js/) | Content aware image cropping. |
 | [Tabella.js](http://iliketomatoes.github.io/tabellajs/) | Responsive table. |
 | [Tether](http://github.hubspot.com/tether/) | A JavaScript library for efficiently making an absolutely positioned element stay next to another element on the page. |
+| [Tippy.js](https://atomiks.github.io/tippyjs/) | A lightweight, vanilla JavaScript tooltip library. |
+| [Tooltip.js](https://github.com/HubSpot/tooltip) | Tooltip.js is a Javascript and CSS library for creating styleable tooltips. |
 | [Typeset](https://blot.im/typeset/) | A ty­po­graphic pre-proces­sor for your HTML which uses zero client-side JavaScript. |
 | [ZeroClipboard.js](http://zeroclipboard.org/) | An easy way to copy text to the clipboard. |
 
@@ -148,6 +166,7 @@ A list of open source front-end tools and resources for web designers and develo
 |---|---|
 | [Formstone - Background](https://formstone.it/components/background/) | A jQuery plugin for full-frame image and video backgrounds.|
 | [Bigfoot.js](http://www.bigfootjs.com/) | A jQuery plugin for empowering footnotes. |
+| [bigSlide.js](https://ascott1.github.io/bigSlide.js/) | A tiny slide panel navigation jQuery plugin with big dreams. |
 | [FitVids.js](http://fitvidsjs.com/) | A lightweight, easy-to-use jQuery plugin for fluid width video embeds. |
 | [fullPage.js](http://alvarotrigo.com/fullPage/) | One page scroll sections site plugin. |
 | [Lazy Load](http://www.appelsiini.net/projects/lazyload) | Lazy Load is delays loading of images in long web pages. |
@@ -174,6 +193,8 @@ A list of open source front-end tools and resources for web designers and develo
 ### SVG, PNG, or Font icons
 | Name | Description |
 |---|---|
+| [How to work with SVG icons](https://fvsch.com/code/svg-icons/how-to/) | - |
+| [Align SVG Icons to Text and Say Goodbye to Font Icons](https://blog.prototypr.io/align-svg-icons-to-text-and-say-goodbye-to-font-icons-d44b3d7b26b4) | - |
 | [Creative Commons license icons](https://creativecommons.org/about/downloads/) | Download SVG, EPS, and PNG Creative Commons license icons to use in your site. |
 | [Flaticon](http://www.flaticon.com/) | The largest database of free icons available in PNG, SVG, EPS, PSD and BASE 64 formats. |
 | [Font Awesome](http://fontawesome.io/) | The iconic font and CSS toolkit. |
@@ -181,6 +202,7 @@ A list of open source front-end tools and resources for web designers and develo
 | [FontForge](https://fontforge.github.io/en-US/) | A free and open source font editor brought to you by a community of fellow type lovers. |
 | [Fontello](http://fontello.com/) | An easy way to create a custom icon font for your site. Select images from our large collection, and make a webfont pack with one click. |
 | [IcoMoon](https://icomoon.io/) | IcoMoon provides a package of vector icons, along with a free HTML5 app for making custom icon fonts or SVG sprites. Browse among thousands of pixel perfect icons or import your own vectors. |
+| [Ionicons](http://ionicons.com/) | The premium icon font for [Ionic Framework](http://ionicframework.com/). |
 | [Material Design Icons](https://materialdesignicons.com/) | View all the Material Design icons and more from the community. |
 | [The Big List of Flat Icons & Icon Fonts](https://css-tricks.com/flat-icons-icon-fonts/) by CSS-Triks | There are many such roundups. This one is mine. |
 | [Noun Project - Icons for everything](https://thenounproject.com/) | Nearly a million curated icons, created by a global community. |
@@ -188,6 +210,7 @@ A list of open source front-end tools and resources for web designers and develo
 | [Perfect Icons](http://perfecticons.com/) | The easiest way to create resolution independent social icons. |
 | [Simple Icons](https://simpleicons.org/) | Free SVG icons for popular brands. |
 | [svg-icon](https://leungwensen.github.io/svg-icon/) | An ultimate SVG icons collection DONE RIGHT. |
+| [SVG Icons](http://svgicons.sparkk.fr/) | Ready to use SVG icons for the web. |
 | [Vector Icons Roundup](https://tagliala.github.io/vectoriconsroundup/) | A side-by-side comparison between popular icon fonts. |
 | [We Love Icon Fonts](http://weloveiconfonts.com/) | A free & open source icon fonts hosting service for testing purposes. |
 
@@ -213,10 +236,11 @@ A list of open source front-end tools and resources for web designers and develo
 | [CSSmatic](http://www.cssmatic.com/) | The ultimate CSS tools for web designers. |
 | [Flat Colors](http://flatcolors.net/) | Browse over 11,000 flat colors in over 2,300 flat color palettes. Copy them or download the `.ACO` file for use in Photoshop. |
 | [SRI Hash Generator](https://www.srihash.org/) | Use of SRI is recommended as a best-practice, whenever libraries are loaded from a third-party source. |
+| [Superdomain](http://superdomain.io) | Check domain availability. |
 | [Create LaTeX tables online](http://www.tablesgenerator.com/) | Quickly create even complex LaTeX tables with online generator - cells merging is supported together with borders editing. |
 | [uiGradients](http://uigradients.com/) | A handpicked collection of beautiful colour gradients for designers and developers. |
+| [Unminify](http://unminify.com/) | Free online tool to unminify (unpack, deobfuscate) JavaScript, CSS and HTML code, making it readable and pretty. |
 | [Web Code Tools](http://webcodetools.com/) | CSS3, HTML5, Microdata, Open Graph and Twitter Card Generators |
-| [Superdomain](http://superdomain.io) | Check domain availability. |
 | [What's My Screen Resolution](http://whatsmyscreenresolution.com/) | An Online tool to check screen resolution of any display device. |
 | [WebGradients](https://webgradients.com/) | Free collection of background gradients that you can use as content backdrops in any part of your website. |
 
@@ -287,6 +311,8 @@ A list of open source front-end tools and resources for web designers and develo
 | [CodeMyUI](http://codemyui.com/) | Handpicked code snippets you can use in your web projects. Find web design inspiration with code samples. |
 | [CodyHouse](https://codyhouse.co/) | A free library of HTML, CSS, JS nuggets. |
 | [Codrops](http://tympanus.net/codrops/) | Codrops is a web design and development blog that publishes articles and tutorials about the latest web trends, techniques and new possibilities. |
+| [Moving to HTTPS](https://movingtohttps.com/) | Migrate from HTTP to HTTPS with ease. |
+| [NavNav](http://navnav.co/) | A ton of CSS, jQuery, and JavaScript responsive navigation examples, demos, and tutorials from all over the web. |
 | [Papersizes.io - The best resource for Paper Sizes](http://papersizes.io/) | A simple, free resource for finding the international standards for paper sizes in metric and imperial. |
 | [Scotch](https://scotch.io/) | A web development blog discussing all things programming, development, web and life. |
 | [Smashing Magazine](http://www.smashingmagazine.com/) | An online magazine for professional Web designers and developers, with a focus on useful techniques, best practices and valuable resources. |
@@ -333,8 +359,10 @@ A list of open source front-end tools and resources for web designers and develo
 | [DeviantArt](http://www.deviantart.com/) |
 | [Dribble](https://dribbble.com/) |
 | [Favourite Website Awards (FWA)](http://www.thefwa.com/) |
+| [GoodUI](http://www.goodui.org/) | |
 | [Google Design](https://design.google.com/) |
 | [html inspiration](http://htmlinspiration.com/) |
+| [Inspiration for Search UI Effects](https://tympanus.net/Development/SearchUIEffects/) |
 | [One Page Love](https://onepagelove.com/) |
 | [Nice One I Like](http://www.niceoneilike.com/) |
 | [Siiimple](http://www.siiimple.com/) |
