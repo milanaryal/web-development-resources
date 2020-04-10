@@ -383,6 +383,7 @@ A list of open source front-end tools and resources for web designers and develo
 | [JavaScripting](http://www.javascripting.com/) | The database of JavaScript libraries, frameworks, and plugins. |
 | [Libraries.io](https://libraries.io/) | The Open Source Discovery Service. |
 | [List of HTTP status codes](https://en.wikipedia.org/wiki/List_of_HTTP_status_codes) | A list of Hypertext Transfer Protocol (HTTP) response status codes. |
+| [Social Share URLs](https://github.com/bradvin/social-share-urls#readme) | This project is intended to help you integrate sharing on social media within your code. |
 | [Stock photos that don't suck](https://medium.com/@dustin/stock-photos-that-dont-suck-62ae4bcbe01b) | A list of places to find the best free stock photos. |
 | [StaticGen](https://www.staticgen.com/) | Top open-source static site generators list. |
 | [Unheap](http://www.unheap.com/) | A tidy repository of jQuery plugins classified in categories. |
