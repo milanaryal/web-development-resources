@@ -16,6 +16,7 @@ A list of open source front-end tools and resources for web designers and develo
 * Node.js feature module
 * Vanilla JavaScript plugins
 * jQuery plugins
+* JavaScript compressor toolkit
 * CSS
 * SVG, PNG, or Font icons
 * HTML forms
@@ -172,6 +173,13 @@ A list of open source front-end tools and resources for web designers and develo
 | [Lazy Load](http://www.appelsiini.net/projects/lazyload) | Lazy Load is delays loading of images in long web pages. |
 | [Lity](http://sorgalla.com/lity/) | A ultra-lightweight, accessible and responsive lightbox plugin which supports images, iframes and inline content out of the box. |
 
+### JavaScript compressor toolkit
+
+| Name | Description |
+|---|---|
+| [Terser](https://github.com/terser/terser) | 🗜 JavaScript parser, mangler and compressor toolkit for ES6+ |
+| [UglifyJS](https://github.com/mishoo/UglifyJS2) | UglifyJS is a JavaScript parser, minifier, compressor and beautifier toolkit. |
+
 ### CSS
 
 | Name | Description |
@@ -191,6 +199,7 @@ A list of open source front-end tools and resources for web designers and develo
 | [Toast](http://daneden.github.io/Toast/) | Insane, no-nonsense CSS grid. |
 
 ### SVG, PNG, or Font icons
+
 | Name | Description |
 |---|---|
 | [How to work with SVG icons](https://fvsch.com/code/svg-icons/how-to/) | - |
