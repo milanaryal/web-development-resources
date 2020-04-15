@@ -389,6 +389,7 @@ A list of open source front-end tools and resources for web designers and develo
 | [Awesome Awesomeness](https://github.com/bayandin/awesome-awesomeness) | A curated list of amazingly awesome awesomeness. |
 | [Awesome Awesome](https://github.com/emijrp/awesome-awesome) | A curated list of awesome curated lists of many topics. |
 | [Bootstrap Resources](http://startbootstrap.com/bootstrap-resources/) | A comprehensive list of Bootstrap and related resources. |
+| [Design essentials, GitHub collections](https://github.com/collections/design-essentials) | This collection of design libraries are the best on the web, and will complete your toolset for designing stunning products. |
 | [GitHub - Open source showcases](https://github.com/showcases) | Browse popular repositories based on the topic that interests you most. |
 | [JavaScript Plugins Repository](https://plainjs.com/javascript/plugins/) | Vanilla JS tools for writing powerful web applications without jQuery. |
 | [Javascript Territory](http://jster.net/) | JSter Javascript catalog. |
