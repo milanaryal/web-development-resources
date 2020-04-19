@@ -244,6 +244,7 @@ A list of open source front-end tools and resources for web designers and develo
 | [CSS3 Generator](http://css3generator.com/) | CSS3 classics |
 | [CSSmatic](http://www.cssmatic.com/) | The ultimate CSS tools for web designers. |
 | [Flat Colors](http://flatcolors.net/) | Browse over 11,000 flat colors in over 2,300 flat color palettes. Copy them or download the `.ACO` file for use in Photoshop. |
+| [Gradient Backgrounds](https://cssgradient.io/gradient-backgrounds/) | As a curated list of the best gradient websites across the internet, Gradient Backgrounds allows you to explore, try and choose from hundreds of beautiful blended color palettes. |
 | [SRI Hash Generator](https://www.srihash.org/) | Use of SRI is recommended as a best-practice, whenever libraries are loaded from a third-party source. |
 | [Superdomain](http://superdomain.io) | Check domain availability. |
 | [Create LaTeX tables online](http://www.tablesgenerator.com/) | Quickly create even complex LaTeX tables with online generator - cells merging is supported together with borders editing. |
@@ -391,6 +392,7 @@ A list of open source front-end tools and resources for web designers and develo
 | [Bootstrap Resources](http://startbootstrap.com/bootstrap-resources/) | A comprehensive list of Bootstrap and related resources. |
 | [Design essentials, GitHub collections](https://github.com/collections/design-essentials) | This collection of design libraries are the best on the web, and will complete your toolset for designing stunning products. |
 | [GitHub - Open source showcases](https://github.com/showcases) | Browse popular repositories based on the topic that interests you most. |
+| [Gradient Backgrounds](https://cssgradient.io/gradient-backgrounds/) | As a curated list of the best gradient websites across the internet, Gradient Backgrounds allows you to explore, try and choose from hundreds of beautiful blended color palettes. |
 | [JavaScript Plugins Repository](https://plainjs.com/javascript/plugins/) | Vanilla JS tools for writing powerful web applications without jQuery. |
 | [Javascript Territory](http://jster.net/) | JSter Javascript catalog. |
 | [JavaScripting](http://www.javascripting.com/) | The database of JavaScript libraries, frameworks, and plugins. |
