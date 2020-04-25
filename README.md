@@ -240,6 +240,7 @@ A list of open source front-end tools and resources for web designers and develo
 |---|---|
 | [AutoDraw](https://www.autodraw.com/) | Fast drawing for everyone. AutoDraw pairs machine learning with drawings from talented artists to help you draw stuff fast. |
 | [Binary Translator](http://binarytranslator.com/) | Free binary code translator, translate binary code to text. |
+| [Colors.css](https://github.com/mrmrs/colors) | Better default colors for the web. A collection of skin classes for faster prototyping and nicer looking sites. |
 | [Color Hunt](http://www.colorhunt.co/) | Curated collection of beautiful colors, updated daily. |
 | [CSS3 Generator](http://css3generator.com/) | CSS3 classics |
 | [CSSmatic](http://www.cssmatic.com/) | The ultimate CSS tools for web designers. |
