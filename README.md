@@ -124,7 +124,7 @@ A list of open source front-end tools and resources for web designers and develo
 | [jQuery](http://jquery.com/) | The write less, do more, JavaScript library. |
 | [Modernizr](https://modernizr.com/) | Modernizr tells you what HTML, CSS and JavaScript features the user’s browser has to offer. |
 
-### [Node.js](http://nodejs.org/) feature module
+### [Node.js](http://nodejs.org/) feature module / bundler
 
 | Name | Description |
 |---|---|
@@ -133,7 +133,9 @@ A list of open source front-end tools and resources for web designers and develo
 | [Grunt](http://gruntjs.com/) | The JavaScript task runner |
 | [Gulp](http://gulpjs.com/) | The streaming build system |
 | [npm](https://www.npmjs.com/) | The package manager for JavaScript. |
-| [Webpack](https://webpack.github.io/) | Packs CommonJs/AMD modules for the browser. |
+| [Parcel](https://parceljs.org/) | Blazing fast, zero configuration web application bundler. |
+| [Rollup](https://rollupjs.org/guide/en/) | Next-generation ES module bundler. |
+| [Webpack](https://webpack.js.org/) | A bundler for javascript and friends. |
 
 ### [Vanilla JavaScript](https://plainjs.com/) plugins
 
