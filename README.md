@@ -32,6 +32,7 @@ A list of open source front-end tools and resources for web designers and develo
 * CSS tutorials
 * Infographics
 * Design inspiration
+* The type system
 * List of lists of lists
 
 ---
@@ -206,6 +207,7 @@ A list of open source front-end tools and resources for web designers and develo
 |---|---|
 | [How to work with SVG icons](https://fvsch.com/code/svg-icons/how-to/) | - |
 | [Align SVG Icons to Text and Say Goodbye to Font Icons](https://blog.prototypr.io/align-svg-icons-to-text-and-say-goodbye-to-font-icons-d44b3d7b26b4) | - |
+| [Bootstrap Icons](https://icons.getbootstrap.com/) | Bootstrap Icons are SVGs, so they scale quickly and easily and can be styled with CSS. While they're built for Bootstrap, they'll work in any project. |
 | [Creative Commons license icons](https://creativecommons.org/about/downloads/) | Download SVG, EPS, and PNG Creative Commons license icons to use in your site. |
 | [Flaticon](http://www.flaticon.com/) | The largest database of free icons available in PNG, SVG, EPS, PSD and BASE 64 formats. |
 | [Font Awesome](http://fontawesome.io/) | The iconic font and CSS toolkit. |
@@ -384,6 +386,20 @@ A list of open source front-end tools and resources for web designers and develo
 | [Very nice sites](http://www.verynicesites.com/) |
 | [Web Design Inspirations](http://www.webdesign-inspiration.com/) |
 | [webdesign - Tumblr   Search](https://www.tumblr.com/search/webdesign) |
+
+### The type system
+
+| Name | Description |
+|---|---|
+| [Exploring Responsive Type Scales](https://medium.com/sketch-app-sources/exploring-responsive-type-scales-cf1da541be54) | Finding your (Appropriate, Multi-Device and Vertical) Rhythm |
+| [Font Pair](https://fontpair.co/) | Font Pair helps designers pair Google Fonts together. Beautiful Google Font combinations and pairs. |
+| [Generate Type Scales With Stackswell](https://medium.com/sketch-app-sources/generate-type-scales-with-stackswell-8cdc27a5fed9) | Save time with Stackswell’s latest release and create type systems in seconds! |
+| [Material design type system](https://material.io/design/typography/the-type-system.html) | Use typography to present your design and content as clearly and efficiently as possible. |
+| [Type Connection](http://www.typeconnection.com/) | Type Connection is a game that helps you learn how to pair typefaces. |
+| [Typography for Developers](https://css-tricks.com/typography-for-developers/) | This is intended as a practical guide for developers to learn web typography. |
+| [Typewolf](https://www.typewolf.com/) | What’s Trending in Type |
+| [Type Scale - A Visual Calculator](https://type-scale.com/) | Preview and choose the right type scale for your project. Experiment with font size, scale and different webfonts. |
+| [WhatFont - Chrome Extension](https://chrome.google.com/webstore/detail/whatfont/jabopobgcpjmedljpbcaablpmlmfcogm?hl=en) | The easiest way to identify fonts on web pages. |
 
 ### List of lists of lists
 
