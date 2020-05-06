@@ -145,6 +145,7 @@ A list of open source front-end tools and resources for web designers and develo
 | [Anchor.js](http://bryanbraun.github.io/anchorjs/) | Add deep anchor links to your docs. |
 | [Chart.js](http://www.chartjs.org/) | Simple, clean and engaging charts for designers and developers. |
 | [Chartist.js](http://gionkunz.github.io/chartist-js/) | Simple responsive charts.|
+| [Darkmode.js](https://github.com/sandoche/Darkmode.js) | 🌓 Add a dark-mode / night-mode to your website in a few seconds |
 | [Velocity.js](http://julian.com/research/velocity/) | Accelerated JavaScript animation. |
 | [Favico.js](http://lab.ejci.net/favico.js/) | Make use of your favicon with badges, images or videos. |
 | [FluidVids.js](https://github.com/toddmotto/fluidvids) | Fluid width (responsive) videos module, 1KB, custom players, dynamic elements/XHR support. |
