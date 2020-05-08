@@ -406,6 +406,7 @@ A list of open source front-end tools and resources for web designers and develo
 
 | Name | Description |
 |---|---|
+| [56 Unique Lorem Ipsum Generators](https://mashable.com/2013/07/11/lorem-ipsum/) | Spice up your filler text and design projects with these hilarious lorem ipsum generators. |
 | [Awesome](https://github.com/sindresorhus/awesome) | A curated list of awesome lists. |
 | [Awesome Awesomeness](https://github.com/bayandin/awesome-awesomeness) | A curated list of amazingly awesome awesomeness. |
 | [Awesome Awesome](https://github.com/emijrp/awesome-awesome) | A curated list of awesome curated lists of many topics. |
