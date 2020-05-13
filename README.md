@@ -46,6 +46,8 @@ A list of open source front-end tools and resources for web designers and develo
 | [MDN Web Docs](https://developer.mozilla.org/en-US/) | Resources for developers, by developers. |
 | [Google Web Developers](https://developers.google.com/web) | Build the next generation of web experiences. |
 | [W3Schools](https://www.w3schools.com/) | Online web tutorials. |
+| [CSS-Tricks](https://css-tricks.com/) | Daily articles about CSS, HTML, JavaScript, and all things related to web design and development. |
+| [Smashing Magazine](https://www.smashingmagazine.com/) | For web designers and developers. |
 
 ### Frameworks
 
