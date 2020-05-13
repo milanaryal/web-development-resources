@@ -246,11 +246,13 @@ A list of open source front-end tools and resources for web designers and develo
 | [AutoDraw](https://www.autodraw.com/) | Fast drawing for everyone. AutoDraw pairs machine learning with drawings from talented artists to help you draw stuff fast. |
 | [Binary Translator](http://binarytranslator.com/) | Free binary code translator, translate binary code to text. |
 | [Colors.css](https://github.com/mrmrs/colors) | Better default colors for the web. A collection of skin classes for faster prototyping and nicer looking sites. |
+| [Color Hex Color Codes](https://www.color-hex.com/) | Color-hex gives information about colors including color models (RGB,HSL,HSV and CMYK), Triadic colors, monochromatic colors and analogous colors calculated in color page. |
 | [Color Hunt](http://www.colorhunt.co/) | Curated collection of beautiful colors, updated daily. |
 | [CSS3 Generator](http://css3generator.com/) | CSS3 classics |
 | [CSSmatic](http://www.cssmatic.com/) | The ultimate CSS tools for web designers. |
 | [Flat Colors](http://flatcolors.net/) | Browse over 11,000 flat colors in over 2,300 flat color palettes. Copy them or download the `.ACO` file for use in Photoshop. |
 | [Gradient Backgrounds](https://cssgradient.io/gradient-backgrounds/) | As a curated list of the best gradient websites across the internet, Gradient Backgrounds allows you to explore, try and choose from hundreds of beautiful blended color palettes. |
+| [Solarized - Precision colors for machines and people](https://github.com/altercation/solarized) | Solarized is a sixteen color palette (eight monotones, eight accent colors) designed for use with terminal and gui applications. |
 | [SRI Hash Generator](https://www.srihash.org/) | Use of SRI is recommended as a best-practice, whenever libraries are loaded from a third-party source. |
 | [Superdomain](http://superdomain.io) | Check domain availability. |
 | [Create LaTeX tables online](http://www.tablesgenerator.com/) | Quickly create even complex LaTeX tables with online generator - cells merging is supported together with borders editing. |
