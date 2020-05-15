@@ -426,6 +426,7 @@ A list of open source front-end tools and resources for web designers and develo
 | [Awesome Awesome](https://github.com/emijrp/awesome-awesome) | A curated list of awesome curated lists of many topics. |
 | [Bootstrap Resources](http://startbootstrap.com/bootstrap-resources/) | A comprehensive list of Bootstrap and related resources. |
 | [Design essentials, GitHub collections](https://github.com/collections/design-essentials) | This collection of design libraries are the best on the web, and will complete your toolset for designing stunning products. |
+| [Design Resources For Developers](https://github.com/bradtraversy/design-resources-for-developers) | A curated list of FREE design & UI resources for developers including stock photos, templates, frameworks, UI Kits, online tools and much much more. |
 | [GitHub - Open source showcases](https://github.com/showcases) | Browse popular repositories based on the topic that interests you most. |
 | [Gradient Backgrounds](https://cssgradient.io/gradient-backgrounds/) | As a curated list of the best gradient websites across the internet, Gradient Backgrounds allows you to explore, try and choose from hundreds of beautiful blended color palettes. |
 | [JavaScript Plugins Repository](https://plainjs.com/javascript/plugins/) | Vanilla JS tools for writing powerful web applications without jQuery. |
