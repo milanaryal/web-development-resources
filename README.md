@@ -410,6 +410,7 @@ A list of open source front-end tools and resources for web designers and develo
 | [Font Pair](https://fontpair.co/) | Font Pair helps designers pair Google Fonts together. Beautiful Google Font combinations and pairs. |
 | [Generate Type Scales With Stackswell](https://medium.com/sketch-app-sources/generate-type-scales-with-stackswell-8cdc27a5fed9) | Save time with Stackswell’s latest release and create type systems in seconds! |
 | [Material design type system](https://material.io/design/typography/the-type-system.html) | Use typography to present your design and content as clearly and efficiently as possible. |
+| [Modular Scale](https://www.modularscale.com/) | Calculate, visualize, and learn about modular scales. |
 | [Type Connection](http://www.typeconnection.com/) | Type Connection is a game that helps you learn how to pair typefaces. |
 | [Typography for Developers](https://css-tricks.com/typography-for-developers/) | This is intended as a practical guide for developers to learn web typography. |
 | [Typewolf](https://www.typewolf.com/) | What’s Trending in Type |
