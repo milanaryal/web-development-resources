@@ -141,14 +141,25 @@ A list of open source front-end tools and resources for web designers and develo
 
 | Name | Description |
 |---|---|
+| [npm](https://www.npmjs.com/) | The package manager for JavaScript. |
+| - | - |
 | [Bower](https://bower.io/)| A package manager for the web |
 | [Browserify](http://browserify.org/) | browser-side `require()` the node way |
 | [Grunt](http://gruntjs.com/) | The JavaScript task runner |
 | [Gulp](http://gulpjs.com/) | The streaming build system |
-| [npm](https://www.npmjs.com/) | The package manager for JavaScript. |
 | [Parcel](https://parceljs.org/) | Blazing fast, zero configuration web application bundler. |
 | [Rollup](https://rollupjs.org/guide/en/) | Next-generation ES module bundler. |
 | [Webpack](https://webpack.js.org/) | A bundler for javascript and friends. |
+| - | - |
+| [Browsersync](https://github.com/Browsersync/browser-sync) | Keep multiple browsers & devices in sync when building websites. |
+| [Concat](https://github.com/gko/concat) | Concatenate multiple files. |
+| [express](https://github.com/expressjs/express) | Fast, unopinionated, minimalist web framework for node. |
+| [node-sass](https://github.com/sass/node-sass) | It allows you to natively compile .scss files to css at incredible speed and automatically via a connect middleware. |
+| [npm-run-all](https://github.com/mysticatea/npm-run-all) | A CLI tool to run multiple npm-scripts in parallel or sequential. |
+| [onchange](https://github.com/Qard/onchange) | Use glob patterns to watch file sets and run a command when anything is added, changed or deleted. |
+| [serve](https://github.com/zeit/serve) | Static file serving and directory listing. |
+| [server.js](https://github.com/franciscop/server) | Simple and powerful server for Node.js |
+| [nodemon](https://github.com/remy/nodemon) | Monitor for any changes in your node.js application and automatically restart the server - perfect for development. |
 
 ### [Vanilla JavaScript](https://plainjs.com/) plugins
 
