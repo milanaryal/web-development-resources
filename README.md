@@ -153,6 +153,7 @@ A list of open source front-end tools and resources for web designers and develo
 | - | - |
 | [Browsersync](https://github.com/Browsersync/browser-sync) | Keep multiple browsers & devices in sync when building websites. |
 | [Concat](https://github.com/gko/concat) | Concatenate multiple files. |
+| [Concurrently](https://github.com/kimmobrunfeldt/concurrently) | Run commands concurrently. Like `npm run watch-js & npm run watch-less` but better. |
 | [express](https://github.com/expressjs/express) | Fast, unopinionated, minimalist web framework for node. |
 | [node-sass](https://github.com/sass/node-sass) | It allows you to natively compile .scss files to css at incredible speed and automatically via a connect middleware. |
 | [npm-run-all](https://github.com/mysticatea/npm-run-all) | A CLI tool to run multiple npm-scripts in parallel or sequential. |
