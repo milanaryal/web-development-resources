@@ -72,6 +72,7 @@ A list of open source front-end tools and resources for web designers and develo
 | [Semantic UI](http://semantic-ui.com/) | A development framework that helps create beautiful, responsive layouts using human-friendly HTML. |
 | [Skel](https://github.com/n33/skel) | A lightweight responsive framework for the www. |
 | [Skeleton](http://getskeleton.com/) | A dead simple, responsive boilerplate. |
+| [Tailwind CSS](https://tailwindcss.com/) | A utility-first CSS framework for rapidly building custom designs. |
 | [UIkit](http://getuikit.com/) | A lightweight and modular front-end framework for developing fast and powerful web interfaces. |
 
 ### Mobile Web apps frameworks
@@ -143,7 +144,6 @@ A list of open source front-end tools and resources for web designers and develo
 |---|---|
 | [npm](https://www.npmjs.com/) | The package manager for JavaScript. |
 | - | - |
-| [Bower](https://bower.io/)| A package manager for the web |
 | [Browserify](http://browserify.org/) | browser-side `require()` the node way |
 | [Grunt](http://gruntjs.com/) | The JavaScript task runner |
 | [Gulp](http://gulpjs.com/) | The streaming build system |
@@ -161,6 +161,8 @@ A list of open source front-end tools and resources for web designers and develo
 | [serve](https://github.com/zeit/serve) | Static file serving and directory listing. |
 | [server.js](https://github.com/franciscop/server) | Simple and powerful server for Node.js |
 | [nodemon](https://github.com/remy/nodemon) | Monitor for any changes in your node.js application and automatically restart the server - perfect for development. |
+| - | - |
+| [Bower](https://bower.io/) [*Deprecated*] | A package manager for the web |
 
 ### [Vanilla JavaScript](https://plainjs.com/) plugins
 
