@@ -152,6 +152,7 @@ A list of open source front-end tools and resources for web designers and develo
 | [Webpack](https://webpack.js.org/) | A bundler for javascript and friends. |
 | - | - |
 | [Browsersync](https://github.com/Browsersync/browser-sync) | Keep multiple browsers & devices in sync when building websites. |
+| [Chokidar ](https://github.com/paulmillr/chokidar) | An efficient wrapper around node.js fs.watch / fs.watchFile / FSEvents. |
 | [Concat](https://github.com/gko/concat) | Concatenate multiple files. |
 | [Concurrently](https://github.com/kimmobrunfeldt/concurrently) | Run commands concurrently. Like `npm run watch-js & npm run watch-less` but better. |
 | [express](https://github.com/expressjs/express) | Fast, unopinionated, minimalist web framework for node. |
@@ -159,6 +160,7 @@ A list of open source front-end tools and resources for web designers and develo
 | [node-sass](https://github.com/sass/node-sass) | It allows you to natively compile .scss files to css at incredible speed and automatically via a connect middleware. |
 | [npm-run-all](https://github.com/mysticatea/npm-run-all) | A CLI tool to run multiple npm-scripts in parallel or sequential. |
 | [onchange](https://github.com/Qard/onchange) | Use glob patterns to watch file sets and run a command when anything is added, changed or deleted. |
+| [Parallel Shell](https://github.com/darkguy2008/parallelshell) | A super simple npm module to run shell commands in parallel. |
 | [serve](https://github.com/zeit/serve) | Static file serving and directory listing. |
 | [server.js](https://github.com/franciscop/server) | Simple and powerful server for Node.js |
 | [nodemon](https://github.com/remy/nodemon) | Monitor for any changes in your node.js application and automatically restart the server - perfect for development. |
