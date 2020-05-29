@@ -158,6 +158,7 @@ A list of open source front-end tools and resources for web designers and develo
 | [express](https://github.com/expressjs/express) | Fast, unopinionated, minimalist web framework for node. |
 | [http-server](https://github.com/http-party/http-server) | A simple, zero-configuration command-line http server. |
 | [node-sass](https://github.com/sass/node-sass) | It allows you to natively compile .scss files to css at incredible speed and automatically via a connect middleware. |
+| [npm-check-updates](https://github.com/raineorshine/npm-check-updates) | Upgrades your package.json dependencies to the latest versions, ignoring specified versions. |
 | [npm-run-all](https://github.com/mysticatea/npm-run-all) | A CLI tool to run multiple npm-scripts in parallel or sequential. |
 | [onchange](https://github.com/Qard/onchange) | Use glob patterns to watch file sets and run a command when anything is added, changed or deleted. |
 | [Parallel Shell](https://github.com/darkguy2008/parallelshell) | A super simple npm module to run shell commands in parallel. |
