@@ -34,6 +34,7 @@ A list of open source front-end tools and resources for web designers and develo
 * Infographics
 * Design inspiration
 * The type system
+* Webmaster tools
 * List of lists of lists
 
 ---
@@ -390,9 +391,20 @@ A list of open source front-end tools and resources for web designers and develo
 | [Why I switched from LESS to Sass?](http://hugogiraudel.com/2012/11/13/less-to-sass/) | Post by Hugo Giraudel. |
 
 ### Infographics
+
 | Name | Description |
 |---|---|
 | [Home Office Posters](https://github.com/UKHomeOffice/posters) | Home Office repository of posters covering different topics - research, access needs, accessibility, design. |
+
+### Webmaster tools
+
+| Name | Description |
+|---|---|
+| [Schema.org](https://schema.org/) | A collaborative, community activity with a mission to create, maintain, and promote schemas for structured data on the Internet, on web pages, in email messages, and beyond. |
+| [Microformats](http://microformats.org/wiki/Main_Page) | The simplest way to markup structured information in HTML. |
+| [Understand how structured data works](https://developers.google.com/search/docs/guides/intro-structured-data) | This documentation describes which properties are required, recommended, or optional for structured data with special meaning to Google Search. |
+| [Structured Data Testing Tool](https://search.google.com/structured-data/testing-tool) by Google | Google structured data testing tool. |
+| [PageSpeed Insights ](https://developers.google.com/speed/pagespeed/insights/) by Google | Make your web pages fast on all devices. |
 
 ### Design inspiration
 
