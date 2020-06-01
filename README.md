@@ -396,16 +396,6 @@ A list of open source front-end tools and resources for web designers and develo
 |---|---|
 | [Home Office Posters](https://github.com/UKHomeOffice/posters) | Home Office repository of posters covering different topics - research, access needs, accessibility, design. |
 
-### Webmaster tools
-
-| Name | Description |
-|---|---|
-| [Schema.org](https://schema.org/) | A collaborative, community activity with a mission to create, maintain, and promote schemas for structured data on the Internet, on web pages, in email messages, and beyond. |
-| [Microformats](http://microformats.org/wiki/Main_Page) | The simplest way to markup structured information in HTML. |
-| [Understand how structured data works](https://developers.google.com/search/docs/guides/intro-structured-data) | This documentation describes which properties are required, recommended, or optional for structured data with special meaning to Google Search. |
-| [Structured Data Testing Tool](https://search.google.com/structured-data/testing-tool) by Google | Google structured data testing tool. |
-| [PageSpeed Insights ](https://developers.google.com/speed/pagespeed/insights/) by Google | Make your web pages fast on all devices. |
-
 ### Design inspiration
 
 | Name |
@@ -447,6 +437,19 @@ A list of open source front-end tools and resources for web designers and develo
 | [Typewolf](https://www.typewolf.com/) | What’s Trending in Type |
 | [Type Scale - A Visual Calculator](https://type-scale.com/) | Preview and choose the right type scale for your project. Experiment with font size, scale and different webfonts. |
 | [WhatFont - Chrome Extension](https://chrome.google.com/webstore/detail/whatfont/jabopobgcpjmedljpbcaablpmlmfcogm?hl=en) | The easiest way to identify fonts on web pages. |
+
+### Webmaster tools
+
+| Name | Description |
+|---|---|
+| [Schema.org](https://schema.org/) | A collaborative, community activity with a mission to create, maintain, and promote schemas for structured data on the Internet, on web pages, in email messages, and beyond. |
+| [Microformats](http://microformats.org/wiki/Main_Page) | The simplest way to markup structured information in HTML. |
+| [Understand how structured data works](https://developers.google.com/search/docs/guides/intro-structured-data) | This documentation describes which properties are required, recommended, or optional for structured data with special meaning to Google Search. |
+| [Structured Data Testing Tool](https://search.google.com/structured-data/testing-tool) by Google | Google structured data testing tool. |
+| [PageSpeed Insights ](https://developers.google.com/speed/pagespeed/insights/) by Google | Make your web pages fast on all devices. |
+| [JSON for Linking Data](https://json-ld.org/) | Data is messy and disconnected. JSON-LD organizes and connects it, creating a better Web. |
+| [JSON-LD](https://en.wikipedia.org/wiki/JSON-LD) | Wiki |
+| [Latitude and Longitude Finder](https://www.latlong.net/) | Latitude and Longitude are the units that represent the coordinates at geographic coordinate system. To make a search, use the name of a place, city, state, or address, or click the location on the map to find lat long coordinates. |
 
 ### List of lists of lists
 
