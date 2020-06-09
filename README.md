@@ -183,6 +183,7 @@ A list of open source front-end tools and resources for web designers and develo
 | [Headroom.js](http://wicky.nillia.ms/headroom.js/) | Hide your header until you need it. |
 | [Holder.js](http://holderjs.com/) | Client side image placeholders. |
 | [lazysizes.js](https://github.com/aFarkas/lazysizes) | High performance and SEO friendly lazy loader for images (responsive and normal), iframes and more. |
+| [littlefoot.js](https://github.com/goblindegook/littlefoot) | Littlefoot is a lightweight JavaScript library that creates exceptional footnotes. |
 | [lunr.js](http://lunrjs.com/) | Simple full-text search in your browser. |
 | [NProgress.js](http://ricostacruz.com/nprogress/) | A nanoscopic progress bar. |
 | [react-burger-menu](https://github.com/negomi/react-burger-menu) | An off-canvas sidebar React component with a collection of effects and styles using CSS transitions and SVG path animations. |
