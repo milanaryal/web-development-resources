@@ -26,7 +26,7 @@ A list of open source front-end tools and resources for web designers and develo
 * Browser compatibility wiki
 * Responsiveness testing tools
 * Performance testing tools
-* Image placeholder
+* Placeholder
 * Mockup placeholder
 * Website icons for browsers
 * Free inspirational snippets and tutorials
@@ -180,12 +180,14 @@ A list of open source front-end tools and resources for web designers and develo
 | [Velocity.js](http://julian.com/research/velocity/) | Accelerated JavaScript animation. |
 | [Favico.js](http://lab.ejci.net/favico.js/) | Make use of your favicon with badges, images or videos. |
 | [FluidVids.js](https://github.com/toddmotto/fluidvids) | Fluid width (responsive) videos module, 1KB, custom players, dynamic elements/XHR support. |
+| [Highlight.js](https://github.com/highlightjs/highlight.js) | Highlight.js is a syntax highlighter written in JavaScript. |
 | [Headroom.js](http://wicky.nillia.ms/headroom.js/) | Hide your header until you need it. |
 | [Holder.js](http://holderjs.com/) | Client side image placeholders. |
 | [lazysizes.js](https://github.com/aFarkas/lazysizes) | High performance and SEO friendly lazy loader for images (responsive and normal), iframes and more. |
 | [littlefoot.js](https://github.com/goblindegook/littlefoot) | Littlefoot is a lightweight JavaScript library that creates exceptional footnotes. |
 | [lunr.js](http://lunrjs.com/) | Simple full-text search in your browser. |
 | [NProgress.js](http://ricostacruz.com/nprogress/) | A nanoscopic progress bar. |
+| [Prism.js](https://github.com/PrismJS/prism/) | Prism is a lightweight, robust, elegant syntax highlighting library. |
 | [react-burger-menu](https://github.com/negomi/react-burger-menu) | An off-canvas sidebar React component with a collection of effects and styles using CSS transitions and SVG path animations. |
 | [Responsive nav](http://responsive-nav.com/) | Responsive navigation plugin without library dependencies and with fast touch screen support. |
 | [Slideout.js](https://slideout.js.org/) | A touch slideout navigation menu for your mobile web apps. |
@@ -194,6 +196,7 @@ A list of open source front-end tools and resources for web designers and develo
 | [Tether](http://github.hubspot.com/tether/) | A JavaScript library for efficiently making an absolutely positioned element stay next to another element on the page. |
 | [Tippy.js](https://atomiks.github.io/tippyjs/) | A lightweight, vanilla JavaScript tooltip library. |
 | [Tooltip.js](https://github.com/HubSpot/tooltip) | Tooltip.js is a Javascript and CSS library for creating styleable tooltips. |
+| [Turbolinks](https://github.com/turbolinks/turbolinks) | Turbolinks® makes navigating your web application faster. |
 | [Typeset](https://blot.im/typeset/) | A ty­po­graphic pre-proces­sor for your HTML which uses zero client-side JavaScript. |
 | [ZeroClipboard.js](http://zeroclipboard.org/) | An easy way to copy text to the clipboard. |
 
@@ -332,10 +335,12 @@ A list of open source front-end tools and resources for web designers and develo
 | [WebPagetest](http://www.webpagetest.org/) | Run a free website speed test from multiple locations around the globe using real browsers and at real consumer connection speeds. |
 | [Website speed test](http://tools.pingdom.com/) | Use this free Website Speed Test to analyze the load speed of your websites, and learn how to make them faster. |
 
-### Image placeholder
+### Placeholder
 
 | Name | Description |
 |---|---|
+| [JSONPlaceholder](https://jsonplaceholder.typicode.com/) | Fake Online REST API for Testing and Prototyping |
+| [Lorem Ipsum](https://lipsum.com/) | Lorem Ipsum is simply dummy text of the printing and typesetting industry. |
 | [lorempixel](http://lorempixel.com/) | Placeholder images for every case. |
 | [Placehold.it](https://placehold.it/) | A quick and simple image placeholder service. |
 
