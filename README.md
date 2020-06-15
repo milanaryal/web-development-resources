@@ -288,6 +288,8 @@ A list of open source front-end tools and resources for web designers and develo
 | [CSSmatic](http://www.cssmatic.com/) | The ultimate CSS tools for web designers. |
 | [Flat Colors](http://flatcolors.net/) | Browse over 11,000 flat colors in over 2,300 flat color palettes. Copy them or download the `.ACO` file for use in Photoshop. |
 | [Gradient Backgrounds](https://cssgradient.io/gradient-backgrounds/) | As a curated list of the best gradient websites across the internet, Gradient Backgrounds allows you to explore, try and choose from hundreds of beautiful blended color palettes. |
+| [Styling Wizard: Google Maps APIs](https://mapstyle.withgoogle.com/) | Customize colors, roads, labels, and more. Then use your custom style in your Google Maps Platform project.|
+| [Snazzy Maps](https://snazzymaps.com/) | A repository of different styles for Google Maps aimed towards web designers and developers. |
 | [Solarized - Precision colors for machines and people](https://github.com/altercation/solarized) | Solarized is a sixteen color palette (eight monotones, eight accent colors) designed for use with terminal and gui applications. |
 | [SRI Hash Generator](https://www.srihash.org/) | Use of SRI is recommended as a best-practice, whenever libraries are loaded from a third-party source. |
 | [Superdomain](http://superdomain.io) | Check domain availability. |
@@ -465,7 +467,8 @@ A list of open source front-end tools and resources for web designers and develo
 | [Awesome](https://github.com/sindresorhus/awesome) | A curated list of awesome lists. |
 | [Awesome Awesomeness](https://github.com/bayandin/awesome-awesomeness) | A curated list of amazingly awesome awesomeness. |
 | [Awesome Awesome](https://github.com/emijrp/awesome-awesome) | A curated list of awesome curated lists of many topics. |
-| [Bootstrap Resources](http://startbootstrap.com/bootstrap-resources/) | A comprehensive list of Bootstrap and related resources. |
+| [Bootstrap Resources](http://startbootstrap.com/bootstrap-resources/) by Start Bootstrap | A comprehensive list of Bootstrap and related resources. |
+| [Bootstrap Snippets](https://startbootstrap.com/snippets/)  by Start Bootstrap | A curated library of Bootstrap 4 code snippets, perfect for dropping into your project without downloading an entire theme! |
 | [Design essentials, GitHub collections](https://github.com/collections/design-essentials) | This collection of design libraries are the best on the web, and will complete your toolset for designing stunning products. |
 | [Design Resources For Developers](https://github.com/bradtraversy/design-resources-for-developers) | A curated list of FREE design & UI resources for developers including stock photos, templates, frameworks, UI Kits, online tools and much much more. |
 | [GitHub - Open source showcases](https://github.com/showcases) | Browse popular repositories based on the topic that interests you most. |
