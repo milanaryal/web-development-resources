@@ -4,16 +4,16 @@ A list of open source front-end tools and resources for web designers and develo
 
 ### Table of contents
 
-* Wiki
-* Frameworks
-* Mobile Web apps frameworks
-* Front-end components
-* Themes
-* HTML preprocessor
-* CSS preprocessor
-* JavaScript preprocessor
-* Sass framework
-* JavaScript library
+* [Wiki](#wiki)
+* [Frameworks](#frameworks)
+* [Mobile Web apps frameworks](#mobile-web-apps-frameworks)
+* [Front-end components](#front-end-components)
+* [HTML5 Themes](#html5-themes)
+* [HTML preprocessor](#html-preprocessor)
+* [CSS preprocessor](#css-preprocessor)
+* [JavaScript preprocessor](#javascript-preprocessor)
+* [Sass framework](#sass-frameworks)
+* [JavaScript library](#javascript-library)
 * Node.js feature module
 * Vanilla JavaScript plugins
 * jQuery plugins
@@ -33,9 +33,11 @@ A list of open source front-end tools and resources for web designers and develo
 * CSS tutorials
 * Infographics
 * Design inspiration
-* The type system
-* Webmaster tools
-* List of lists of lists
+* [The type system](#the-type-system)
+* [Webmaster tools](#webmaster-tools)
+* [Package manager](#package-manager)
+* [Staticman](#staticman)
+* [List of lists of lists](#list-of-lists-of-lists)
 
 ---
 
@@ -49,6 +51,8 @@ A list of open source front-end tools and resources for web designers and develo
 | [W3Schools](https://www.w3schools.com/) | Online web tutorials. |
 | [CSS-Tricks](https://css-tricks.com/) | Daily articles about CSS, HTML, JavaScript, and all things related to web design and development. |
 | [Smashing Magazine](https://www.smashingmagazine.com/) | For web designers and developers. |
+
+<p align="right"><a href="#web-development-resources">Back to top</a></p>
 
 ### Frameworks
 
@@ -76,11 +80,15 @@ A list of open source front-end tools and resources for web designers and develo
 | [Tailwind CSS](https://tailwindcss.com/) | A utility-first CSS framework for rapidly building custom designs. |
 | [UIkit](http://getuikit.com/) | A lightweight and modular front-end framework for developing fast and powerful web interfaces. |
 
+<p align="right"><a href="#web-development-resources">Back to top</a></p>
+
 ### Mobile Web apps frameworks
 
 | Name | Description |
 |---|---|
 | [Onsen UI](https://onsen.io/) | The most beautiful and efficient way to develop HTML5 hybrid and mobile web apps. |
+
+<p align="right"><a href="#web-development-resources">Back to top</a></p>
 
 ### Front-end components
 
@@ -89,13 +97,17 @@ A list of open source front-end tools and resources for web designers and develo
 | [Formstone](https://formstone.it/) | Formstone is a collection of front end components. |
 | [Le Wagon UI components](https://lewagon.github.io/ui-components/) | - |
 
-### Themes
+<p align="right"><a href="#web-development-resources">Back to top</a></p>
+
+### HTML5 Themes
 
 | Name | Description |
 |---|---|
 | [HTML5 Blank WordPress Theme](http://html5blank.com/) | The best HTML5 WordPress boilerplate theme, noted by Adobe, Smashing Mag, .NET mag. |
 | [HTML5 UP!](http://html5up.net/) | Responsive HTML5 and CSS3 site templates. |
 | [Start Bootstrap](http://startbootstrap.com/) | A library of free to download Bootstrap themes and templates. |
+
+<p align="right"><a href="#web-development-resources">Back to top</a></p>
 
 ### HTML preprocessor
 
@@ -106,6 +118,8 @@ A list of open source front-end tools and resources for web designers and develo
 | [Slim](http://slim-lang.com/) | A lightweight templating engine. |
 | [Jade](http://jade-lang.com/) | Node template engine. |
 
+<p align="right"><a href="#web-development-resources">Back to top</a></p>
+
 ### CSS preprocessor
 
 | Name | Description |
@@ -114,6 +128,8 @@ A list of open source front-end tools and resources for web designers and develo
 | [SCSS / Sass](http://sass-lang.com/) |  The most mature, stable, and powerful professional grade CSS extension language in the world. |
 | [Stylus](http://stylus-lang.com/) | Expressive, dynamic, robust, feature-rich CSS preprocessor. |
 | [PostCSS](http://postcss.org/) | A tool for transforming CSS with JavaScript. |
+
+<p align="right"><a href="#web-development-resources">Back to top</a></p>
 
 ### JavaScript preprocessor
 
@@ -124,6 +140,8 @@ A list of open source front-end tools and resources for web designers and develo
 | [TypeScript](https://www.typescriptlang.org/) | JavaScript that scales. |
 | [Babel](https://babeljs.io/) | The compiler for writing next generation JavaScript. |
 
+<p align="right"><a href="#web-development-resources">Back to top</a></p>
+
 ### Sass frameworks
 
 | Name | Description |
@@ -132,12 +150,16 @@ A list of open source front-end tools and resources for web designers and develo
 | [Compass](http://compass-style.org/) | An open-source CSS Authoring Framework. |
 | [Susy](http://susy.oddbird.net/) | Custom layout engine for Sass. |
 
+<p align="right"><a href="#web-development-resources">Back to top</a></p>
+
 ### JavaScript library
 
 | Name | Description |
 |---|---|
 | [jQuery](http://jquery.com/) | The write less, do more, JavaScript library. |
 | [Modernizr](https://modernizr.com/) | Modernizr tells you what HTML, CSS and JavaScript features the user’s browser has to offer. |
+
+<p align="right"><a href="#web-development-resources">Back to top</a></p>
 
 ### [Node.js](http://nodejs.org/) feature module / bundler
 
@@ -168,6 +190,8 @@ A list of open source front-end tools and resources for web designers and develo
 | [nodemon](https://github.com/remy/nodemon) | Monitor for any changes in your node.js application and automatically restart the server - perfect for development. |
 | - | - |
 | [Bower](https://bower.io/) [*Deprecated*] | A package manager for the web |
+
+<p align="right"><a href="#web-development-resources">Back to top</a></p>
 
 ### [Vanilla JavaScript](https://plainjs.com/) plugins
 
@@ -200,6 +224,8 @@ A list of open source front-end tools and resources for web designers and develo
 | [Typeset](https://blot.im/typeset/) | A ty­po­graphic pre-proces­sor for your HTML which uses zero client-side JavaScript. |
 | [ZeroClipboard.js](http://zeroclipboard.org/) | An easy way to copy text to the clipboard. |
 
+<p align="right"><a href="#web-development-resources">Back to top</a></p>
+
 ### [jQuery](http://jquery.com/) plugins
 
 | Name | Description |
@@ -212,12 +238,16 @@ A list of open source front-end tools and resources for web designers and develo
 | [Lazy Load](http://www.appelsiini.net/projects/lazyload) | Lazy Load is delays loading of images in long web pages. |
 | [Lity](http://sorgalla.com/lity/) | A ultra-lightweight, accessible and responsive lightbox plugin which supports images, iframes and inline content out of the box. |
 
+<p align="right"><a href="#web-development-resources">Back to top</a></p>
+
 ### JavaScript compressor toolkit
 
 | Name | Description |
 |---|---|
 | [Terser](https://github.com/terser/terser) | 🗜 JavaScript parser, mangler and compressor toolkit for ES6+ |
 | [UglifyJS](https://github.com/mishoo/UglifyJS2) | UglifyJS is a JavaScript parser, minifier, compressor and beautifier toolkit. |
+
+<p align="right"><a href="#web-development-resources">Back to top</a></p>
 
 ### CSS
 
@@ -236,6 +266,8 @@ A list of open source front-end tools and resources for web designers and develo
 | [Normalize.css](http://necolas.github.io/normalize.css/) | A modern, HTML5-ready alternative to CSS resets. |
 | [RTLCSS](http://rtlcss.com/) | Framework for converting Left-To-Right (LTR) Cascading Style Sheets(CSS) to Right-To-Left (RTL). |
 | [Toast](http://daneden.github.io/Toast/) | Insane, no-nonsense CSS grid. |
+
+<p align="right"><a href="#web-development-resources">Back to top</a></p>
 
 ### SVG, PNG, or Font icons
 
@@ -263,6 +295,8 @@ A list of open source front-end tools and resources for web designers and develo
 | [Vector Icons Roundup](https://tagliala.github.io/vectoriconsroundup/) | A side-by-side comparison between popular icon fonts. |
 | [We Love Icon Fonts](http://weloveiconfonts.com/) | A free & open source icon fonts hosting service for testing purposes. |
 
+<p align="right"><a href="#web-development-resources">Back to top</a></p>
+
 ### HTML forms
 
 | Name | Description |
@@ -273,6 +307,8 @@ A list of open source front-end tools and resources for web designers and develo
 | [JotForm](http://www.jotform.com/) | Form builder |
 | [WTF, forms?](http://wtfforms.com/) | Friendlier HTML form controls with a little CSS magic. Designed for IE9+, as well as the latest Chrome, Safari, and Firefox. |
 | [Wufoo](http://www.wufoo.com/) | Online form builder with cloud storage database. |
+
+<p align="right"><a href="#web-development-resources">Back to top</a></p>
 
 ### Web tools
 
@@ -300,6 +336,8 @@ A list of open source front-end tools and resources for web designers and develo
 | [What's My Screen Resolution](http://whatsmyscreenresolution.com/) | An Online tool to check screen resolution of any display device. |
 | [WebGradients](https://webgradients.com/) | Free collection of background gradients that you can use as content backdrops in any part of your website. |
 
+<p align="right"><a href="#web-development-resources">Back to top</a></p>
+
 ### CDN library
 
 | Name | Description |
@@ -315,11 +353,15 @@ A list of open source front-end tools and resources for web designers and develo
 | [Open Source Software CDN](http://osscdn.com/) | Open source software CDN by MaxCDN. |
 | [Yandex CDN](https://tech.yandex.ru/jslibs/) | Service hosts JavaScript libraries that provides site developers with access to the Yandex content delivery (CDN) and can handle a variety of open source JavaScript-frameworks and libraries from Yandex servers. |
 
+<p align="right"><a href="#web-development-resources">Back to top</a></p>
+
 ### Browser compatibility wiki
 
 | Name | Description |
 |---|---|
 | [Can I Use](http://caniuse.com/) | Check the browser compatibility of CSS3 and HTML5 properties. |
+
+<p align="right"><a href="#web-development-resources">Back to top</a></p>
 
 ### Responsiveness testing tools
 
@@ -329,6 +371,8 @@ A list of open source front-end tools and resources for web designers and develo
 | [BrowserStack](https://www.browserstack.com/) | Use the browser device tester and download Internet Explorer images for your VM. |
 | [Deviceponsive](http://deviceponsive.com/) | Show a quick preview of your website's responsive to different device resolutions like Macbook, iPad, or iPhone. share this preview with your client. |
 
+<p align="right"><a href="#web-development-resources">Back to top</a></p>
+
 ### Performance testing tools
 
 | Name | Description |
@@ -336,6 +380,8 @@ A list of open source front-end tools and resources for web designers and develo
 | [Google PageSpeed Tools](https://developers.google.com/speed/pagespeed/) | The PageSpeed tools analyze and optimize your site following web best practices. |
 | [WebPagetest](http://www.webpagetest.org/) | Run a free website speed test from multiple locations around the globe using real browsers and at real consumer connection speeds. |
 | [Website speed test](http://tools.pingdom.com/) | Use this free Website Speed Test to analyze the load speed of your websites, and learn how to make them faster. |
+
+<p align="right"><a href="#web-development-resources">Back to top</a></p>
 
 ### Placeholder
 
@@ -346,11 +392,15 @@ A list of open source front-end tools and resources for web designers and develo
 | [lorempixel](http://lorempixel.com/) | Placeholder images for every case. |
 | [Placehold.it](https://placehold.it/) | A quick and simple image placeholder service. |
 
+<p align="right"><a href="#web-development-resources">Back to top</a></p>
+
 ### Mockup placeholder
 
 | Name | Description |
 |---|---|
 | [Placeit](https://placeit.net/) | The best one to drop your project in any device context. |
+
+<p align="right"><a href="#web-development-resources">Back to top</a></p>
 
 ### Website icons for browsers
 
@@ -361,6 +411,8 @@ A list of open source front-end tools and resources for web designers and develo
 | [Pinned site enhancements on Windows](https://msdn.microsoft.com/en-us/library/bg183312(v=vs.85).aspx) / [Creating custom tiles for IE11 websites](https://msdn.microsoft.com/en-us/library/dn455106(v=vs.85).aspx) | Setting up live tiles and notifications for Windows |
 | [Configuring Web Applications for Apple](https://developer.apple.com/library/ios/documentation/AppleApplications/Reference/SafariWebContent/ConfiguringWebApplications/ConfiguringWebApplications.html) | Conceptual information and techniques on creating effective web content for Safari and WebKit using HTML and CSS. |
 | [Installable Web Apps with the Web App Manifest in Chrome for Android](https://developers.google.com/web/updates/2014/11/Support-for-installable-web-apps-with-webapp-manifest-in-chrome-38-for-Android?hl=en) / [Manifest File Format](https://developer.chrome.com/extensions/manifest) | Use the web app manifest to control how your web app launches. |
+
+<p align="right"><a href="#web-development-resources">Back to top</a></p>
 
 ### Free inspirational snippets and tutorials
 
@@ -376,6 +428,8 @@ A list of open source front-end tools and resources for web designers and develo
 | [Scotch](https://scotch.io/) | A web development blog discussing all things programming, development, web and life. |
 | [Smashing Magazine](http://www.smashingmagazine.com/) | An online magazine for professional Web designers and developers, with a focus on useful techniques, best practices and valuable resources. |
 | [W3Schools Online Web Tutorials](https://www.w3schools.com/) | The world's largest web developer site. |
+
+<p align="right"><a href="#web-development-resources">Back to top</a></p>
 
 ### CSS tutorials
 
@@ -398,11 +452,15 @@ A list of open source front-end tools and resources for web designers and develo
 | [What is the browser-default background color when selecting text?](https://stackoverflow.com/questions/16094837/what-is-the-browser-default-background-color-when-selecting-text) | Answer on Stack Overflow |
 | [Why I switched from LESS to Sass?](http://hugogiraudel.com/2012/11/13/less-to-sass/) | Post by Hugo Giraudel. |
 
+<p align="right"><a href="#web-development-resources">Back to top</a></p>
+
 ### Infographics
 
 | Name | Description |
 |---|---|
 | [Home Office Posters](https://github.com/UKHomeOffice/posters) | Home Office repository of posters covering different topics - research, access needs, accessibility, design. |
+
+<p align="right"><a href="#web-development-resources">Back to top</a></p>
 
 ### Design inspiration
 
@@ -431,6 +489,8 @@ A list of open source front-end tools and resources for web designers and develo
 | [Web Design Inspirations](http://www.webdesign-inspiration.com/) |
 | [webdesign - Tumblr   Search](https://www.tumblr.com/search/webdesign) |
 
+<p align="right"><a href="#web-development-resources">Back to top</a></p>
+
 ### The type system
 
 | Name | Description |
@@ -446,6 +506,8 @@ A list of open source front-end tools and resources for web designers and develo
 | [Type Scale - A Visual Calculator](https://type-scale.com/) | Preview and choose the right type scale for your project. Experiment with font size, scale and different webfonts. |
 | [WhatFont - Chrome Extension](https://chrome.google.com/webstore/detail/whatfont/jabopobgcpjmedljpbcaablpmlmfcogm?hl=en) | The easiest way to identify fonts on web pages. |
 
+<p align="right"><a href="#web-development-resources">Back to top</a></p>
+
 ### Webmaster tools
 
 | Name | Description |
@@ -458,6 +520,35 @@ A list of open source front-end tools and resources for web designers and develo
 | [JSON for Linking Data](https://json-ld.org/) | Data is messy and disconnected. JSON-LD organizes and connects it, creating a better Web. |
 | [JSON-LD](https://en.wikipedia.org/wiki/JSON-LD) | Wiki |
 | [Latitude and Longitude Finder](https://www.latlong.net/) | Latitude and Longitude are the units that represent the coordinates at geographic coordinate system. To make a search, use the name of a place, city, state, or address, or click the location on the map to find lat long coordinates. |
+
+<p align="right"><a href="#web-development-resources">Back to top</a></p>
+
+### Package manager
+
+| Name | Description |
+|---|---|
+| [List of software package management systems](https://en.wikipedia.org/wiki/List_of_software_package_management_systems) | This is a list of software package management systems, categorized first by package format (binary, source code, hybrid) and then by operating system family. |
+| [APT](https://en.wikipedia.org/wiki/APT_(software)) | Debian based Linux OS package manager. |
+| [Yum](https://en.wikipedia.org/wiki/Yum_(software)) | Fedora based Linux OS package manager. |
+| [Homebrew](https://en.wikipedia.org/wiki/Homebrew_(package_manager)) | [Homebrew](https://brew.sh/) is a package management system that simplifies the installation of software on Apple's macOS operating system and Linux. |
+| [npm](https://en.wikipedia.org/wiki/Npm_(software)) | [npm](https://www.npmjs.com/) (originally short for Node Package Manager) is a package manager for the JavaScript programming language. |
+| [yarn](https://en.wikipedia.org/wiki/Npm_(software)#Alternatives) | [yarn](https://yarnpkg.com/) is a alternative to npm. |
+| [rvm](https://en.wikipedia.org/wiki/Ruby_Version_Manager) | [RVM](https://rvm.io/) is a command-line tool which allows you to easily install, manage, and work with multiple ruby environments from interpreters to sets of gems. |
+| rbenv | Use [rbenv](https://github.com/rbenv/rbenv) to pick a Ruby version for your application and guarantee that your development environment matches production. |
+
+<p align="right"><a href="#web-development-resources">Back to top</a></p>
+
+### Static
+
+| Name | Description |
+|---|---|
+| [Netlify ](https://www.netlify.com/) | Deploy modern static websites with Netlify. Get CDN, Continuous deployment, 1-click HTTPS, and all the services you need. Get started for free. |
+| [StaticGen](https://www.staticgen.com/) | Top open-source static site generators list. |
+| [Staticman ](https://staticman.net/) | Staticman is a Node.js application that receives user-generated content and uploads it as data files to a GitHub and/or GitLab repository. |
+| [Gitalk](https://gitalk.github.io/) | A modern comment component based on Github Issue and Preact. |
+| [utterances ](https://utteranc.es/) | A lightweight comments widget built on GitHub issues. Use GitHub issues for blog comments, wiki pages and more! |
+
+<p align="right"><a href="#web-development-resources">Back to top</a></p>
 
 ### List of lists of lists
 
@@ -480,6 +571,7 @@ A list of open source front-end tools and resources for web designers and develo
 | [List of HTTP status codes](https://en.wikipedia.org/wiki/List_of_HTTP_status_codes) | A list of Hypertext Transfer Protocol (HTTP) response status codes. |
 | [Social Share URLs](https://github.com/bradvin/social-share-urls#readme) | This project is intended to help you integrate sharing on social media within your code. |
 | [Stock photos that don't suck](https://medium.com/@dustin/stock-photos-that-dont-suck-62ae4bcbe01b) | A list of places to find the best free stock photos. |
-| [StaticGen](https://www.staticgen.com/) | Top open-source static site generators list. |
 | [Text editors, GitHub collections](https://github.com/collections/text-editors) | A showcase of some amazingly awesome open source editors. |
 | [Unheap](http://www.unheap.com/) | A tidy repository of jQuery plugins classified in categories. |
+
+<p align="right"><a href="#web-development-resources">Back to top</a></p>
