@@ -72,6 +72,7 @@ A list of open source front-end tools and resources for web designers and develo
 | [Material Design Lite](http://www.getmdl.io/) | An implementation of Material Design components in vanilla CSS, JS, and HTML |
 | [Materialize](http://materializecss.com/) | A modern responsive front-end framework based on Material Design. |
 | [Photon](http://photonkit.com/) | The fastest way to build beautiful Electron apps using simple HTML and CSS. |
+| [Primer CSS](https://primer.style/css/) | The GitHub Design Systems team builds and maintains Primer. |
 | [Pure](http://purecss.io/)| A set of small, responsive CSS modules that you can use in every web project. |
 | [Responsive](http://responsivebp.com/) | A powerful, accessible, developer friendly framework for building responsive websites. |
 | [Semantic UI](http://semantic-ui.com/) | A development framework that helps create beautiful, responsive layouts using human-friendly HTML. |
@@ -322,6 +323,7 @@ A list of open source front-end tools and resources for web designers and develo
 | [Color Hunt](http://www.colorhunt.co/) | Curated collection of beautiful colors, updated daily. |
 | [CSS3 Generator](http://css3generator.com/) | CSS3 classics |
 | [CSSmatic](http://www.cssmatic.com/) | The ultimate CSS tools for web designers. |
+| [Draw.io](http://draw.io/ ) | [Draw.io](http://diagrams.net/) is free online diagram software for making flowcharts, process diagrams, org charts, UML, ER and network diagrams. |
 | [Flat Colors](http://flatcolors.net/) | Browse over 11,000 flat colors in over 2,300 flat color palettes. Copy them or download the `.ACO` file for use in Photoshop. |
 | [Gradient Backgrounds](https://cssgradient.io/gradient-backgrounds/) | As a curated list of the best gradient websites across the internet, Gradient Backgrounds allows you to explore, try and choose from hundreds of beautiful blended color palettes. |
 | [Styling Wizard: Google Maps APIs](https://mapstyle.withgoogle.com/) | Customize colors, roads, labels, and more. Then use your custom style in your Google Maps Platform project.|
