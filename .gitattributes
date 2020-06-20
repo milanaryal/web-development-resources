@@ -15,3 +15,16 @@
 *.PDF   diff=astextplain
 *.rtf   diff=astextplain
 *.RTF   diff=astextplain
+
+# - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+
+# ALL FILES
+* text eol=lf
+
+# DOT FILES
+.* text eol=lf
+
+# PDF FILES
+*.pdf binary
+
+# - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
