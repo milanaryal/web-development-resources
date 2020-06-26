@@ -213,6 +213,7 @@ A list of open source front-end tools and resources for web designers and develo
 | [littlefoot.js](https://github.com/goblindegook/littlefoot) | Littlefoot is a lightweight JavaScript library that creates exceptional footnotes. |
 | [lunr.js](http://lunrjs.com/) | Simple full-text search in your browser. |
 | [NProgress.js](http://ricostacruz.com/nprogress/) | A nanoscopic progress bar. |
+| [Pace.js](https://github.com/HubSpot/pace) | An automatic web page progress bar. |
 | [Prism.js](https://github.com/PrismJS/prism/) | Prism is a lightweight, robust, elegant syntax highlighting library. |
 | [react-burger-menu](https://github.com/negomi/react-burger-menu) | An off-canvas sidebar React component with a collection of effects and styles using CSS transitions and SVG path animations. |
 | [Responsive nav](http://responsive-nav.com/) | Responsive navigation plugin without library dependencies and with fast touch screen support. |
