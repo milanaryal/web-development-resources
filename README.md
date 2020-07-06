@@ -13,18 +13,18 @@
 * [Frameworks](#frameworks)
 * [Mobile Web apps frameworks](#mobile-web-apps-frameworks)
 * [Front-end components](#front-end-components)
-* [HTML5 Themes](#html5-themes)
+* [HTML5 themes](#html5-themes)
 * [HTML preprocessor](#html-preprocessor)
 * [CSS preprocessor](#css-preprocessor)
 * [JavaScript preprocessor](#javascript-preprocessor)
 * [Sass framework](#sass-frameworks)
+* [Node.js feature module and bundler](#nodejs-feature-module-and-bundler)
 * [JavaScript library](#javascript-library)
-* [Node.js feature module](#nodejs-feature-module--bundler)
 * [Vanilla JavaScript plugins](#vanilla-javascript-plugins)
 * [jQuery plugins](#jquery-plugins)
 * [JavaScript compressor toolkit](#javascript-compressor-toolkit)
 * [CSS library](#css-library)
-* [SVG, PNG, or Font icons](#svg-png-or-font-icons)
+* [SVG, PNG, and Font icons library](#svg-png-and-font-icons-library)
 * [HTML forms](#html-forms)
 * [Web tools](#web-tools)
 * [CDN library](#cdn-library)
@@ -41,7 +41,7 @@
 * [The type system](#the-type-system)
 * [Webmaster tools](#webmaster-tools)
 * [Package manager](#package-manager)
-* [Staticman](#staticman)
+* [Jamstack](#jamstack)
 * [List of lists of lists](#list-of-lists-of-lists)
 
 ---
@@ -64,6 +64,7 @@
 
 | Name | Description |
 |---|---|
+| [HTML5 Boilerplate](https://html5boilerplate.com/) | The web's most popular front-end template. |
 | [Bootstrap](http://getbootstrap.com/) | Bootstrap is the most popular HTML, CSS, and JS framework for developing responsive, mobile first projects on the web. |
 | [Foundation](http://foundation.zurb.com/) | The most advanced responsive front-end framework in the world. |
 | - | - |
@@ -73,7 +74,6 @@
 | [Concise Framework](http://concisecss.com/) | A lightweight front-end framework that provides a number of great features without the bloat. |
 | [Cardinal](http://cardinalcss.com/) | Cardinal is a modular, "mobile-first" CSS framework built with performance and scalability in mind. |
 | [Furtive CSS](http://furtive.co/) | A forward-thinking, CSS micro-framework. |
-| [HTML5 Boilerplate](https://html5boilerplate.com/) | The web's most popular front-end template. |
 | [Juiced](http://juicedcss.com/) | a Flexbox CSS Framework. |
 | [Material Design Lite](http://www.getmdl.io/) | An implementation of Material Design components in vanilla CSS, JS, and HTML |
 | [Materialize](http://materializecss.com/) | A modern responsive front-end framework based on Material Design. |
@@ -106,10 +106,11 @@
 
 <p align="right"><a href="#table-of-contents"><b>↥ Back to top</b></a></p>
 
-## HTML5 Themes
+## HTML5 themes
 
 | Name | Description |
 |---|---|
+| [Bootstrap Starter](https://bootstrapstarter.com/) | Free Bootstrap starter themes & templates to kickstart your project. |
 | [HTML5 Blank WordPress Theme](http://html5blank.com/) | The best HTML5 WordPress boilerplate theme, noted by Adobe, Smashing Mag, .NET mag. |
 | [HTML5 UP!](http://html5up.net/) | Responsive HTML5 and CSS3 site templates. |
 | [Start Bootstrap](http://startbootstrap.com/) | A library of free to download Bootstrap themes and templates. |
@@ -159,20 +160,7 @@
 
 <p align="right"><a href="#table-of-contents"><b>↥ Back to top</b></a></p>
 
-## JavaScript library
-
-| Name | Description |
-|---|---|
-| [jQuery](http://jquery.com/) | The write less, do more, JavaScript library. |
-| [Modernizr](https://modernizr.com/) | Modernizr tells you what HTML, CSS and JavaScript features the user’s browser has to offer. |
-| [Umbrella JS](https://umbrellajs.com/) | ☔ Lightweight javascript library for DOM manipulation and events. |
-| [Zepto JS](https://zeptojs.com/) | Zepto is a minimalist JavaScript library for modern browsers with a largely jQuery-compatible API. |
-| [Cash JS](https://github.com/fabiospampinato/cash) | An absurdly small jQuery alternative for modern browsers. |
-| [Chibi JS](https://github.com/kylebarrow/chibi) | A tiny JavaScript micro-library |
-
-<p align="right"><a href="#table-of-contents"><b>↥ Back to top</b></a></p>
-
-## [Node.js](http://nodejs.org/) feature module / bundler
+## [Node.js](http://nodejs.org/) feature module and bundler
 
 | Name | Description |
 |---|---|
@@ -201,6 +189,19 @@
 | [nodemon](https://github.com/remy/nodemon) | Monitor for any changes in your node.js application and automatically restart the server - perfect for development. |
 | - | - |
 | [Bower](https://bower.io/) [*Deprecated*] | A package manager for the web |
+
+<p align="right"><a href="#table-of-contents"><b>↥ Back to top</b></a></p>
+
+## JavaScript library
+
+| Name | Description |
+|---|---|
+| [jQuery](http://jquery.com/) | The write less, do more, JavaScript library. |
+| [Modernizr](https://modernizr.com/) | Modernizr tells you what HTML, CSS and JavaScript features the user’s browser has to offer. |
+| [Umbrella JS](https://umbrellajs.com/) | ☔ Lightweight javascript library for DOM manipulation and events. |
+| [Zepto JS](https://zeptojs.com/) | Zepto is a minimalist JavaScript library for modern browsers with a largely jQuery-compatible API. |
+| [Cash JS](https://github.com/fabiospampinato/cash) | An absurdly small jQuery alternative for modern browsers. |
+| [Chibi JS](https://github.com/kylebarrow/chibi) | A tiny JavaScript micro-library |
 
 <p align="right"><a href="#table-of-contents"><b>↥ Back to top</b></a></p>
 
@@ -281,7 +282,7 @@
 
 <p align="right"><a href="#table-of-contents"><b>↥ Back to top</b></a></p>
 
-## SVG, PNG, or Font icons
+## SVG, PNG, and Font icons library
 
 | Name | Description |
 |---|---|
@@ -291,6 +292,7 @@
 | [Bootstrap Icons](https://icons.getbootstrap.com/) | Bootstrap Icons are SVGs, so they scale quickly and easily and can be styled with CSS. While they're built for Bootstrap, they'll work in any project. |
 | [Creative Commons license icons](https://creativecommons.org/about/downloads/) | Download SVG, EPS, and PNG Creative Commons license icons to use in your site. |
 | [Flaticon](http://www.flaticon.com/) | The largest database of free icons available in PNG, SVG, EPS, PSD and BASE 64 formats. |
+| [Feather](https://feathericons.com/) | Feather is a collection of simply beautiful open source icons. |
 | [Font Awesome](http://fontawesome.io/) | The iconic font and CSS toolkit. |
 | [Font-Awesome-SVG-PNG](https://github.com/encharm/Font-Awesome-SVG-PNG) | Font Awesome split to individual SVG and PNG files of different sizes along with Node.JS based generator. |
 | [FontForge](https://fontforge.github.io/en-US/) | A free and open source font editor brought to you by a community of fellow type lovers. |
@@ -554,13 +556,13 @@
 
 <p align="right"><a href="#table-of-contents"><b>↥ Back to top</b></a></p>
 
-## Static
+## Jamstack
 
 | Name | Description |
 |---|---|
 | [Netlify ](https://www.netlify.com/) | Deploy modern static websites with Netlify. Get CDN, Continuous deployment, 1-click HTTPS, and all the services you need. Get started for free. |
 | [StaticGen](https://www.staticgen.com/) | Top open-source static site generators list. |
-| [Staticman ](https://staticman.net/) | Staticman is a Node.js application that receives user-generated content and uploads it as data files to a GitHub and/or GitLab repository. |
+| [Staticman](https://staticman.net/) | Staticman is a Node.js application that receives user-generated content and uploads it as data files to a GitHub and/or GitLab repository. |
 | [Gitalk](https://gitalk.github.io/) | A modern comment component based on Github Issue and Preact. |
 | [utterances ](https://utteranc.es/) | A lightweight comments widget built on GitHub issues. Use GitHub issues for blog comments, wiki pages and more! |
 
