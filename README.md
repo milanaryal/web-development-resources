@@ -14,25 +14,25 @@ A list of open source front-end tools and resources for web designers and develo
 * [JavaScript preprocessor](#javascript-preprocessor)
 * [Sass framework](#sass-frameworks)
 * [JavaScript library](#javascript-library)
-* Node.js feature module
-* Vanilla JavaScript plugins
-* jQuery plugins
-* JavaScript compressor toolkit
-* CSS
-* SVG, PNG, or Font icons
-* HTML forms
-* Web tools
-* CDN library
-* Browser compatibility wiki
-* Responsiveness testing tools
-* Performance testing tools
-* Placeholder
-* Mockup placeholder
-* Website icons for browsers
-* Free inspirational snippets and tutorials
-* CSS tutorials
-* Infographics
-* Design inspiration
+* [Node.js feature module](#nodejs-feature-module--bundler)
+* [Vanilla JavaScript plugins](#vanilla-javascript-plugins)
+* [jQuery plugins](#jquery-plugins)
+* [JavaScript compressor toolkit](#javascript-compressor-toolkit)
+* [CSS library](#css-library)
+* [SVG, PNG, or Font icons](#svg-png-or-font-icons)
+* [HTML forms](#html-forms)
+* [Web tools](#web-tools)
+* [CDN library](#cdn-library)
+* [Browser compatibility wiki](#browser-compatibility-wiki)
+* [Responsiveness testing tools](#responsiveness-testing-tools)
+* [Performance testing tools](#performance-testing-tools)
+* [Placeholder](#placeholder)
+* [Mockup placeholder](#mockup-placeholder)
+* [Website icons for browsers](#website-icons-for-browsers)
+* [Free inspirational snippets and tutorials](#free-inspirational-snippets-and-tutorials)
+* [CSS tutorials](#css-tutorials)
+* [Infographics](#infographics)
+* [Design inspiration](#design-inspiration)
 * [The type system](#the-type-system)
 * [Webmaster tools](#webmaster-tools)
 * [Package manager](#package-manager)
@@ -160,6 +160,10 @@ A list of open source front-end tools and resources for web designers and develo
 |---|---|
 | [jQuery](http://jquery.com/) | The write less, do more, JavaScript library. |
 | [Modernizr](https://modernizr.com/) | Modernizr tells you what HTML, CSS and JavaScript features the user’s browser has to offer. |
+| [Umbrella JS](https://umbrellajs.com/) | ☔ Lightweight javascript library for DOM manipulation and events. |
+| [Zepto JS](https://zeptojs.com/) | Zepto is a minimalist JavaScript library for modern browsers with a largely jQuery-compatible API. |
+| [Cash JS](https://github.com/fabiospampinato/cash) | An absurdly small jQuery alternative for modern browsers. |
+| [Chibi JS](https://github.com/kylebarrow/chibi) | A tiny JavaScript micro-library |
 
 <p align="right"><a href="#table-of-contents"><b>↥ Back to top</b></a></p>
 
@@ -252,7 +256,7 @@ A list of open source front-end tools and resources for web designers and develo
 
 <p align="right"><a href="#table-of-contents"><b>↥ Back to top</b></a></p>
 
-### CSS
+### CSS library
 
 | Name | Description |
 |---|---|
@@ -278,6 +282,7 @@ A list of open source front-end tools and resources for web designers and develo
 |---|---|
 | [How to work with SVG icons](https://fvsch.com/code/svg-icons/how-to/) | - |
 | [Align SVG Icons to Text and Say Goodbye to Font Icons](https://blog.prototypr.io/align-svg-icons-to-text-and-say-goodbye-to-font-icons-d44b3d7b26b4) | - |
+| - | - |
 | [Bootstrap Icons](https://icons.getbootstrap.com/) | Bootstrap Icons are SVGs, so they scale quickly and easily and can be styled with CSS. While they're built for Bootstrap, they'll work in any project. |
 | [Creative Commons license icons](https://creativecommons.org/about/downloads/) | Download SVG, EPS, and PNG Creative Commons license icons to use in your site. |
 | [Flaticon](http://www.flaticon.com/) | The largest database of free icons available in PNG, SVG, EPS, PSD and BASE 64 formats. |
@@ -535,6 +540,8 @@ A list of open source front-end tools and resources for web designers and develo
 | [APT](https://en.wikipedia.org/wiki/APT_(software)) | Debian based Linux OS package manager. |
 | [Yum](https://en.wikipedia.org/wiki/Yum_(software)) | Fedora based Linux OS package manager. |
 | [Homebrew](https://en.wikipedia.org/wiki/Homebrew_(package_manager)) | [Homebrew](https://brew.sh/) is a package management system that simplifies the installation of software on Apple's macOS operating system and Linux. |
+| [winget](https://en.wikipedia.org/wiki/Windows_Package_Manager) | The [Windows Package Manager](https://docs.microsoft.com/en-us/windows/package-manager/) (aka winget) is a free and open-source package manager designed for Microsoft Windows 10. |
+| [Chocolatey](https://en.wikipedia.org/wiki/NuGet#Chocolatey) | [Chocolatey](https://chocolatey.org/) is a machine-level package manager and installer for software packages, built for the Windows platform. |
 | [npm](https://en.wikipedia.org/wiki/Npm_(software)) | [npm](https://www.npmjs.com/) (originally short for Node Package Manager) is a package manager for the JavaScript programming language. |
 | [yarn](https://en.wikipedia.org/wiki/Npm_(software)#Alternatives) | [yarn](https://yarnpkg.com/) is a alternative to npm. |
 | [rvm](https://en.wikipedia.org/wiki/Ruby_Version_Manager) | [RVM](https://rvm.io/) is a command-line tool which allows you to easily install, manage, and work with multiple ruby environments from interpreters to sets of gems. |
