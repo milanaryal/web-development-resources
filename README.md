@@ -1,8 +1,16 @@
+<div align="center">
+  <a href="https://github.com/MilanAryal/web-development-resources">
+    <svg width="72" height="72" aria-hidden="true" role="img" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 640 512">
+      <path fill="currentColor" d="M255.03 261.65c6.25 6.25 16.38 6.25 22.63 0l11.31-11.31c6.25-6.25 6.25-16.38 0-22.63L253.25 192l35.71-35.72c6.25-6.25 6.25-16.38 0-22.63l-11.31-11.31c-6.25-6.25-16.38-6.25-22.63 0l-58.34 58.34c-6.25 6.25-6.25 16.38 0 22.63l58.35 58.34zm96.01-11.3l11.31 11.31c6.25 6.25 16.38 6.25 22.63 0l58.34-58.34c6.25-6.25 6.25-16.38 0-22.63l-58.34-58.34c-6.25-6.25-16.38-6.25-22.63 0l-11.31 11.31c-6.25 6.25-6.25 16.38 0 22.63L386.75 192l-35.71 35.72c-6.25 6.25-6.25 16.38 0 22.63zM624 416H381.54c-.74 19.81-14.71 32-32.74 32H288c-18.69 0-33.02-17.47-32.77-32H16c-8.8 0-16 7.2-16 16v16c0 35.2 28.8 64 64 64h512c35.2 0 64-28.8 64-64v-16c0-8.8-7.2-16-16-16zM576 48c0-26.4-21.6-48-48-48H112C85.6 0 64 21.6 64 48v336h512V48zm-64 272H128V64h384v256z" />
+    </svg>
+  </a>
+</div>
+
 # Web development resources
 
 A list of open source front-end tools and resources for web designers and developers.
 
-### Table of contents
+## Table of contents
 
 * [Wiki](#wiki)
 * [Frameworks](#frameworks)
@@ -41,7 +49,7 @@ A list of open source front-end tools and resources for web designers and develo
 
 ---
 
-### Wiki
+## Wiki
 
 | Name | Description |
 |---|---|
@@ -55,7 +63,7 @@ A list of open source front-end tools and resources for web designers and develo
 
 <p align="right"><a href="#table-of-contents"><b>↥ Back to top</b></a></p>
 
-### Frameworks
+## Frameworks
 
 | Name | Description |
 |---|---|
@@ -84,7 +92,7 @@ A list of open source front-end tools and resources for web designers and develo
 
 <p align="right"><a href="#table-of-contents"><b>↥ Back to top</b></a></p>
 
-### Mobile Web apps frameworks
+## Mobile Web apps frameworks
 
 | Name | Description |
 |---|---|
@@ -92,7 +100,7 @@ A list of open source front-end tools and resources for web designers and develo
 
 <p align="right"><a href="#table-of-contents"><b>↥ Back to top</b></a></p>
 
-### Front-end components
+## Front-end components
 
 | Name | Description |
 |---|---|
@@ -101,7 +109,7 @@ A list of open source front-end tools and resources for web designers and develo
 
 <p align="right"><a href="#table-of-contents"><b>↥ Back to top</b></a></p>
 
-### HTML5 Themes
+## HTML5 Themes
 
 | Name | Description |
 |---|---|
@@ -111,7 +119,7 @@ A list of open source front-end tools and resources for web designers and develo
 
 <p align="right"><a href="#table-of-contents"><b>↥ Back to top</b></a></p>
 
-### HTML preprocessor
+## HTML preprocessor
 
 | Name | Description |
 |---|---|
@@ -122,7 +130,7 @@ A list of open source front-end tools and resources for web designers and develo
 
 <p align="right"><a href="#table-of-contents"><b>↥ Back to top</b></a></p>
 
-### CSS preprocessor
+## CSS preprocessor
 
 | Name | Description |
 |---|---|
@@ -133,7 +141,7 @@ A list of open source front-end tools and resources for web designers and develo
 
 <p align="right"><a href="#table-of-contents"><b>↥ Back to top</b></a></p>
 
-### JavaScript preprocessor
+## JavaScript preprocessor
 
 | Name | Description |
 |---|---|
@@ -144,7 +152,7 @@ A list of open source front-end tools and resources for web designers and develo
 
 <p align="right"><a href="#table-of-contents"><b>↥ Back to top</b></a></p>
 
-### Sass frameworks
+## Sass frameworks
 
 | Name | Description |
 |---|---|
@@ -154,7 +162,7 @@ A list of open source front-end tools and resources for web designers and develo
 
 <p align="right"><a href="#table-of-contents"><b>↥ Back to top</b></a></p>
 
-### JavaScript library
+## JavaScript library
 
 | Name | Description |
 |---|---|
@@ -167,7 +175,7 @@ A list of open source front-end tools and resources for web designers and develo
 
 <p align="right"><a href="#table-of-contents"><b>↥ Back to top</b></a></p>
 
-### [Node.js](http://nodejs.org/) feature module / bundler
+## [Node.js](http://nodejs.org/) feature module / bundler
 
 | Name | Description |
 |---|---|
@@ -199,7 +207,7 @@ A list of open source front-end tools and resources for web designers and develo
 
 <p align="right"><a href="#table-of-contents"><b>↥ Back to top</b></a></p>
 
-### [Vanilla JavaScript](https://plainjs.com/) plugins
+## [Vanilla JavaScript](https://plainjs.com/) plugins
 
 | Name | Description |
 |---|---|
@@ -233,7 +241,7 @@ A list of open source front-end tools and resources for web designers and develo
 
 <p align="right"><a href="#table-of-contents"><b>↥ Back to top</b></a></p>
 
-### [jQuery](http://jquery.com/) plugins
+## [jQuery](http://jquery.com/) plugins
 
 | Name | Description |
 |---|---|
@@ -247,7 +255,7 @@ A list of open source front-end tools and resources for web designers and develo
 
 <p align="right"><a href="#table-of-contents"><b>↥ Back to top</b></a></p>
 
-### JavaScript compressor toolkit
+## JavaScript compressor toolkit
 
 | Name | Description |
 |---|---|
@@ -256,7 +264,7 @@ A list of open source front-end tools and resources for web designers and develo
 
 <p align="right"><a href="#table-of-contents"><b>↥ Back to top</b></a></p>
 
-### CSS library
+## CSS library
 
 | Name | Description |
 |---|---|
@@ -276,7 +284,7 @@ A list of open source front-end tools and resources for web designers and develo
 
 <p align="right"><a href="#table-of-contents"><b>↥ Back to top</b></a></p>
 
-### SVG, PNG, or Font icons
+## SVG, PNG, or Font icons
 
 | Name | Description |
 |---|---|
@@ -305,7 +313,7 @@ A list of open source front-end tools and resources for web designers and develo
 
 <p align="right"><a href="#table-of-contents"><b>↥ Back to top</b></a></p>
 
-### HTML forms
+## HTML forms
 
 | Name | Description |
 |---|---|
@@ -318,7 +326,7 @@ A list of open source front-end tools and resources for web designers and develo
 
 <p align="right"><a href="#table-of-contents"><b>↥ Back to top</b></a></p>
 
-### Web tools
+## Web tools
 
 | Name | Description |
 |---|---|
@@ -347,7 +355,7 @@ A list of open source front-end tools and resources for web designers and develo
 
 <p align="right"><a href="#table-of-contents"><b>↥ Back to top</b></a></p>
 
-### CDN library
+## CDN library
 
 | Name | Description |
 |---|---|
@@ -364,7 +372,7 @@ A list of open source front-end tools and resources for web designers and develo
 
 <p align="right"><a href="#table-of-contents"><b>↥ Back to top</b></a></p>
 
-### Browser compatibility wiki
+## Browser compatibility wiki
 
 | Name | Description |
 |---|---|
@@ -372,7 +380,7 @@ A list of open source front-end tools and resources for web designers and develo
 
 <p align="right"><a href="#table-of-contents"><b>↥ Back to top</b></a></p>
 
-### Responsiveness testing tools
+## Responsiveness testing tools
 
 | Name | Description |
 |---|---|
@@ -382,7 +390,7 @@ A list of open source front-end tools and resources for web designers and develo
 
 <p align="right"><a href="#table-of-contents"><b>↥ Back to top</b></a></p>
 
-### Performance testing tools
+## Performance testing tools
 
 | Name | Description |
 |---|---|
@@ -392,7 +400,7 @@ A list of open source front-end tools and resources for web designers and develo
 
 <p align="right"><a href="#table-of-contents"><b>↥ Back to top</b></a></p>
 
-### Placeholder
+## Placeholder
 
 | Name | Description |
 |---|---|
@@ -403,7 +411,7 @@ A list of open source front-end tools and resources for web designers and develo
 
 <p align="right"><a href="#table-of-contents"><b>↥ Back to top</b></a></p>
 
-### Mockup placeholder
+## Mockup placeholder
 
 | Name | Description |
 |---|---|
@@ -411,7 +419,7 @@ A list of open source front-end tools and resources for web designers and develo
 
 <p align="right"><a href="#table-of-contents"><b>↥ Back to top</b></a></p>
 
-### Website icons for browsers
+## Website icons for browsers
 
 | Name | Description |
 |---|---|
@@ -423,7 +431,7 @@ A list of open source front-end tools and resources for web designers and develo
 
 <p align="right"><a href="#table-of-contents"><b>↥ Back to top</b></a></p>
 
-### Free inspirational snippets and tutorials
+## Free inspirational snippets and tutorials
 
 | Name | Description |
 |---|---|
@@ -440,7 +448,7 @@ A list of open source front-end tools and resources for web designers and develo
 
 <p align="right"><a href="#table-of-contents"><b>↥ Back to top</b></a></p>
 
-### CSS tutorials
+## CSS tutorials
 
 | Name | Description |
 |---|---|
@@ -463,7 +471,7 @@ A list of open source front-end tools and resources for web designers and develo
 
 <p align="right"><a href="#table-of-contents"><b>↥ Back to top</b></a></p>
 
-### Infographics
+## Infographics
 
 | Name | Description |
 |---|---|
@@ -471,7 +479,7 @@ A list of open source front-end tools and resources for web designers and develo
 
 <p align="right"><a href="#table-of-contents"><b>↥ Back to top</b></a></p>
 
-### Design inspiration
+## Design inspiration
 
 | Name |
 |---|
@@ -500,7 +508,7 @@ A list of open source front-end tools and resources for web designers and develo
 
 <p align="right"><a href="#table-of-contents"><b>↥ Back to top</b></a></p>
 
-### The type system
+## The type system
 
 | Name | Description |
 |---|---|
@@ -517,7 +525,7 @@ A list of open source front-end tools and resources for web designers and develo
 
 <p align="right"><a href="#table-of-contents"><b>↥ Back to top</b></a></p>
 
-### Webmaster tools
+## Webmaster tools
 
 | Name | Description |
 |---|---|
@@ -532,7 +540,7 @@ A list of open source front-end tools and resources for web designers and develo
 
 <p align="right"><a href="#table-of-contents"><b>↥ Back to top</b></a></p>
 
-### Package manager
+## Package manager
 
 | Name | Description |
 |---|---|
@@ -549,7 +557,7 @@ A list of open source front-end tools and resources for web designers and develo
 
 <p align="right"><a href="#table-of-contents"><b>↥ Back to top</b></a></p>
 
-### Static
+## Static
 
 | Name | Description |
 |---|---|
@@ -561,7 +569,7 @@ A list of open source front-end tools and resources for web designers and develo
 
 <p align="right"><a href="#table-of-contents"><b>↥ Back to top</b></a></p>
 
-### List of lists of lists
+## List of lists of lists
 
 | Name | Description |
 |---|---|
