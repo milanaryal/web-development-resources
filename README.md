@@ -173,20 +173,32 @@
 | [Rollup](https://rollupjs.org/guide/en/) | Next-generation ES module bundler. |
 | [Webpack](https://webpack.js.org/) | A bundler for javascript and friends. |
 | - | - |
+| [ESLint](https://eslint.org/) | Find and fix problems in your JavaScript code. |
+| [Prettier](https://prettier.io/) | Prettier is an opinionated code formatter. |
+| [stylelint](https://stylelint.io/) | A mighty, modern linter that helps you avoid errors and enforce conventions in your styles. |
+| [commitlint](https://commitlint.js.org/) | 📓 Lint commit messages |
+| - | - |
 | [Browsersync](https://github.com/Browsersync/browser-sync) | Keep multiple browsers & devices in sync when building websites. |
-| [Chokidar ](https://github.com/paulmillr/chokidar) | An efficient wrapper around node.js fs.watch / fs.watchFile / FSEvents. |
-| [Concat](https://github.com/gko/concat) | Concatenate multiple files. |
-| [Concurrently](https://github.com/kimmobrunfeldt/concurrently) | Run commands concurrently. Like `npm run watch-js & npm run watch-less` but better. |
-| [express](https://github.com/expressjs/express) | Fast, unopinionated, minimalist web framework for node. |
 | [http-server](https://github.com/http-party/http-server) | A simple, zero-configuration command-line http server. |
-| [node-sass](https://github.com/sass/node-sass) | It allows you to natively compile .scss files to css at incredible speed and automatically via a connect middleware. |
-| [npm-check-updates](https://github.com/raineorshine/npm-check-updates) | Upgrades your package.json dependencies to the latest versions, ignoring specified versions. |
-| [npm-run-all](https://github.com/mysticatea/npm-run-all) | A CLI tool to run multiple npm-scripts in parallel or sequential. |
-| [onchange](https://github.com/Qard/onchange) | Use glob patterns to watch file sets and run a command when anything is added, changed or deleted. |
-| [Parallel Shell](https://github.com/darkguy2008/parallelshell) | A super simple npm module to run shell commands in parallel. |
 | [serve](https://github.com/zeit/serve) | Static file serving and directory listing. |
 | [server.js](https://github.com/franciscop/server) | Simple and powerful server for Node.js |
+| - | - |
+| [Chokidar ](https://github.com/paulmillr/chokidar) | An efficient wrapper around node.js fs.watch / fs.watchFile / FSEvents. |
 | [nodemon](https://github.com/remy/nodemon) | Monitor for any changes in your node.js application and automatically restart the server - perfect for development. |
+| [onchange](https://github.com/Qard/onchange) | Use glob patterns to watch file sets and run a command when anything is added, changed or deleted. |
+| - | - |
+| [Concurrently](https://github.com/kimmobrunfeldt/concurrently) | Run commands concurrently. Like `npm run watch-js & npm run watch-less` but better. |
+| [npm-run-all](https://github.com/mysticatea/npm-run-all) | A CLI tool to run multiple npm-scripts in parallel or sequential. |
+| [Parallel Shell](https://github.com/darkguy2008/parallelshell) | A super simple npm module to run shell commands in parallel. |
+| - | - |
+| [Concat](https://github.com/gko/concat) | Concatenate multiple files. |
+| [cpy-cli](https://github.com/sindresorhus/cpy-cli) | Copy files for node. |
+| [del](https://github.com/sindresorhus/del) | Delete files and directories using globs. |
+| [express](https://github.com/expressjs/express) | Fast, unopinionated, minimalist web framework for node. |
+| [node-sass](https://github.com/sass/node-sass) | It allows you to natively compile .scss files to css at incredible speed and automatically via a connect middleware. |
+| [npm-check-updates](https://github.com/raineorshine/npm-check-updates) | Upgrades your package.json dependencies to the latest versions, ignoring specified versions. |
+| [PurgeCSS](https://purgecss.com/) | PurgeCSS is a tool to remove unused CSS. |
+| [rimraf](https://github.com/isaacs/rimraf) | The UNIX command `rm -rf` for node. |
 | - | - |
 | [Bower](https://bower.io/) [*Deprecated*] | A package manager for the web |
 
