@@ -200,7 +200,7 @@
 | [PurgeCSS](https://purgecss.com/) | PurgeCSS is a tool to remove unused CSS. |
 | [rimraf](https://github.com/isaacs/rimraf) | The UNIX command `rm -rf` for node. |
 | - | - |
-| [Bower](https://bower.io/) [*Deprecated*] | A package manager for the web |
+| [Bower](https://bower.io/) [*Depreciated*] | A package manager for the web. |
 
 <p align="right"><a href="#table-of-contents"><b>↥ Back to top</b></a></p>
 
