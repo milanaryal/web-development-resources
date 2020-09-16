@@ -341,6 +341,7 @@
 
 | Name | Description |
 |---|---|
+| [Abstract API's](https://www.abstractapi.com/) | A suite of simple yet powerful utility API's for developers, such as email validation, user avatar generator, image compression, and more. All API's have a free version. |
 | [AutoDraw](https://www.autodraw.com/) | Fast drawing for everyone. AutoDraw pairs machine learning with drawings from talented artists to help you draw stuff fast. |
 | [Binary Translator](http://binarytranslator.com/) | Free binary code translator, translate binary code to text. |
 | [Base16](https://github.com/chriskempson/base16) | An architecture for building themes based on carefully chosen syntax highlighting using a base of sixteen colors. |
@@ -585,6 +586,7 @@
 | Name | Description |
 |---|---|
 | [56 Unique Lorem Ipsum Generators](https://mashable.com/2013/07/11/lorem-ipsum/) | Spice up your filler text and design projects with these hilarious lorem ipsum generators. |
+| [Abstract Guide to HTTP Status Codes](https://www.abstractapi.com/http-status-codes) | A list and explanation of HTTP Status Codes |
 | [Awesome](https://github.com/sindresorhus/awesome) | A curated list of awesome lists. |
 | [Awesome Awesomeness](https://github.com/bayandin/awesome-awesomeness) | A curated list of amazingly awesome awesomeness. |
 | [Awesome Awesome](https://github.com/emijrp/awesome-awesome) | A curated list of awesome curated lists of many topics. |
