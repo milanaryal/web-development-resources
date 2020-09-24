@@ -291,6 +291,11 @@
 | [Normalize.css](http://necolas.github.io/normalize.css/) | A modern, HTML5-ready alternative to CSS resets. |
 | [RTLCSS](http://rtlcss.com/) | Framework for converting Left-To-Right (LTR) Cascading Style Sheets(CSS) to Right-To-Left (RTL). |
 | [Toast](http://daneden.github.io/Toast/) | Insane, no-nonsense CSS grid. |
+| [CSSWand](https://www.csswand.dev/)|It’s really just a handful of simple, pure CSS-based animation library|
+| [Water.css](https://watercss.netlify.app/)|collection of styles to make simple websites|
+| [Raisin CSS](https://github.com/tretapey/raisincss)|An Utility CSS only library.|
+| [Spectrum CSS](https://github.com/adobe/spectrum-css)|standard CSS implementation of the Spectrum design language for internal and 3rd party|
+| [Box-shadows.css](https://madeas.github.io/box-shadows/)|Mianly based on box shadows|
 
 <p align="right"><a href="#table-of-contents"><b>↥ Back to top</b></a></p>
 
