@@ -326,6 +326,7 @@
 | [SVG Icons](http://svgicons.sparkk.fr/) | Ready to use SVG icons for the web. |
 | [Vector Icons Roundup](https://tagliala.github.io/vectoriconsroundup/) | A side-by-side comparison between popular icon fonts. |
 | [We Love Icon Fonts](http://weloveiconfonts.com/) | A free & open source icon fonts hosting service for testing purposes. |
+| [Icons8](https://icons8.com/) | Free Icons, Photos, Vectors, Music and Tools |
 
 <p align="right"><a href="#table-of-contents"><b>↥ Back to top</b></a></p>
 
@@ -369,6 +370,7 @@
 | [Web Code Tools](http://webcodetools.com/) | CSS3, HTML5, Microdata, Open Graph and Twitter Card Generators |
 | [What's My Screen Resolution](http://whatsmyscreenresolution.com/) | An Online tool to check screen resolution of any display device. |
 | [WebGradients](https://webgradients.com/) | Free collection of background gradients that you can use as content backdrops in any part of your website. |
+| [Change SVG Color](https://change-svg-color.edrini.xyz/) | Change SVG Color Using CSS Filter
 
 <p align="right"><a href="#table-of-contents"><b>↥ Back to top</b></a></p>
 
