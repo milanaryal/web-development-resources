@@ -177,6 +177,7 @@
 | [Prettier](https://prettier.io/) | Prettier is an opinionated code formatter. |
 | [stylelint](https://stylelint.io/) | A mighty, modern linter that helps you avoid errors and enforce conventions in your styles. |
 | [commitlint](https://commitlint.js.org/) | 📓 Lint commit messages |
+| [linkinator](https://github.com/JustinBeckwith/linkinator) | A super simple site crawler and broken link checker. |
 | - | - |
 | [Browsersync](https://github.com/Browsersync/browser-sync) | Keep multiple browsers & devices in sync when building websites. |
 | [http-server](https://github.com/http-party/http-server) | A simple, zero-configuration command-line http server. |
