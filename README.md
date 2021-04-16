@@ -35,6 +35,7 @@
 * [Mockup placeholder](#mockup-placeholder)
 * [Website icons for browsers](#website-icons-for-browsers)
 * [Free inspirational snippets and tutorials](#free-inspirational-snippets-and-tutorials)
+* [CSS reference](#css-reference)
 * [CSS tutorials](#css-tutorials)
 * [Infographics](#infographics)
 * [Design inspiration](#design-inspiration)
@@ -463,6 +464,26 @@
 | [Scotch](https://scotch.io/) | A web development blog discussing all things programming, development, web and life. |
 | [Smashing Magazine](http://www.smashingmagazine.com/) | An online magazine for professional Web designers and developers, with a focus on useful techniques, best practices and valuable resources. |
 | [W3Schools Online Web Tutorials](https://www.w3schools.com/) | The world's largest web developer site. |
+
+<p align="right"><a href="#table-of-contents"><b>↥ Back to top</b></a></p>
+
+## CSS reference
+
+| Name |
+|---|
+| [Mozilla Web Docs](https://developer.mozilla.org/en-US/docs/Web/CSS) |
+| [CSS Reference](https://cssreference.io/) |
+| [CSS Dev Docs](https://devdocs.io/css/) |
+| [CSS Reference - Codrops](https://tympanus.net/codrops/css_reference/) |
+| **Layout**: |
+| [Flexbox - CSS Tricks](https://css-tricks.com/snippets/css/a-guide-to-flexbox/) |
+| [CSS Grid - CSS Tricks](https://css-tricks.com/snippets/css/complete-guide-grid/) |
+| [CSS Flexbox Playground by Gabi](https://codepen.io/enxaneta/pen/adLPwv) |
+| [Flexbox Froggy](https://flexboxfroggy.com/) |
+| [CSS Grid Garden](https://cssgridgarden.com/) |
+| **CSS animations**: |
+|  [Using CSS Animation - MDN](https://developer.mozilla.org/en-US/docs/Web/CSS/CSS_Animations/Using_CSS_animations) |
+|  [Animation - CSS Tricks](https://css-tricks.com/almanac/properties/a/animation/) |
 
 <p align="right"><a href="#table-of-contents"><b>↥ Back to top</b></a></p>
 
