@@ -396,6 +396,7 @@
 | Name | Description |
 |---|---|
 | [Can I Use](http://caniuse.com/) | Check the browser compatibility of CSS3 and HTML5 properties. |
+| [Should I Prefix](http://shouldiprefix.com/) | Simply show what prefixes are needed for a newer CSS property. |
 
 <p align="right"><a href="#table-of-contents"><b>↥ Back to top</b></a></p>
 
