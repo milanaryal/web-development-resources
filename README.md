@@ -212,6 +212,8 @@
 |---|---|
 | [jQuery](http://jquery.com/) | The write less, do more, JavaScript library. |
 | [Modernizr](https://modernizr.com/) | Modernizr tells you what HTML, CSS and JavaScript features the user’s browser has to offer. |
+| - | - |
+| [Bliss.js](https://blissfuljs.com/) | Want to use Vanilla JS but find native APIs a bit unwieldy? Bliss is for you. |
 | [Umbrella JS](https://umbrellajs.com/) | ☔ Lightweight javascript library for DOM manipulation and events. |
 | [Zepto JS](https://zeptojs.com/) | Zepto is a minimalist JavaScript library for modern browsers with a largely jQuery-compatible API. |
 | [Cash JS](https://github.com/fabiospampinato/cash) | An absurdly small jQuery alternative for modern browsers. |
@@ -224,6 +226,7 @@
 | Name | Description |
 |---|---|
 | [Anchor.js](http://bryanbraun.github.io/anchorjs/) | Add deep anchor links to your docs. |
+| [Anime.js](https://animejs.com/) | Anime.js (/ˈæn.ə.meɪ/) is a lightweight JavaScript animation library with a simple, yet powerful API. It works with CSS properties, SVG, DOM attributes and JavaScript Objects. |
 | [Chart.js](http://www.chartjs.org/) | Simple, clean and engaging charts for designers and developers. |
 | [Chartist.js](http://gionkunz.github.io/chartist-js/) | Simple responsive charts.|
 | (a) [Darkmode.js](https://github.com/sandoche/Darkmode.js) <br> (b) [Dark Mode Switch](https://github.com/coliff/dark-mode-switch) | 🌓 Add a dark-mode / night-mode to your website in a few seconds |
