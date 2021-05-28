@@ -410,6 +410,7 @@
 | [Am I Responsive?](http://ami.responsivedesign.is/) | See how your site looks on desktop, laptop, ipad & iphone. |
 | [BrowserStack](https://www.browserstack.com/) | Use the browser device tester and download Internet Explorer images for your VM. |
 | [Deviceponsive](http://deviceponsive.com/) | Show a quick preview of your website's responsive to different device resolutions like Macbook, iPad, or iPhone. share this preview with your client. |
+| [Responsively App](https://github.com/responsively-org/responsively-app) | A must-have devtool for web developers for quicker responsive web development. 🚀 |
 
 <p align="right"><a href="#table-of-contents"><b>↥ Back to top</b></a></p>
 
