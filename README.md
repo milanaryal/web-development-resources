@@ -594,7 +594,10 @@
 | [Homebrew](https://en.wikipedia.org/wiki/Homebrew_(package_manager)) | [Homebrew](https://brew.sh/) is a package management system that simplifies the installation of software on Apple's macOS operating system and Linux. |
 | [winget](https://en.wikipedia.org/wiki/Windows_Package_Manager) | The [Windows Package Manager](https://docs.microsoft.com/en-us/windows/package-manager/) (aka winget) is a free and open-source package manager designed for Microsoft Windows 10. |
 | [Chocolatey](https://en.wikipedia.org/wiki/NuGet#Chocolatey) | [Chocolatey](https://chocolatey.org/) is a machine-level package manager and installer for software packages, built for the Windows platform. |
+| goenv | [goenv](https://github.com/syndbg/goenv) aims to be as simple as possible and follow the already established successful version management model of pyenv and rbenv. |
 | [npm](https://en.wikipedia.org/wiki/Npm_(software)) | [npm](https://www.npmjs.com/) (originally short for Node Package Manager) is a package manager for the JavaScript programming language. |
+| nodenv | Use [nodenv](https://github.com/nodenv/nodenv) to pick a Node version for your application and guarantee that your development environment matches production.  |
+| pyenv  | [pyenv](https://github.com/pyenv/pyenv) lets you easily switch between multiple versions of Python. |
 | [yarn](https://en.wikipedia.org/wiki/Npm_(software)#Alternatives) | [yarn](https://yarnpkg.com/) is a alternative to npm. |
 | [rvm](https://en.wikipedia.org/wiki/Ruby_Version_Manager) | [RVM](https://rvm.io/) is a command-line tool which allows you to easily install, manage, and work with multiple ruby environments from interpreters to sets of gems. |
 | rbenv | Use [rbenv](https://github.com/rbenv/rbenv) to pick a Ruby version for your application and guarantee that your development environment matches production. |
