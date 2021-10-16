@@ -363,6 +363,7 @@
 | [Draw.io](http://draw.io/ ) | [Draw.io](http://diagrams.net/) is free online diagram software for making flowcharts, process diagrams, org charts, UML, ER and network diagrams. |
 | [Flat Colors](http://flatcolors.net/) | Browse over 11,000 flat colors in over 2,300 flat color palettes. Copy them or download the `.ACO` file for use in Photoshop. |
 | [Gradient Backgrounds](https://cssgradient.io/gradient-backgrounds/) | As a curated list of the best gradient websites across the internet, Gradient Backgrounds allows you to explore, try and choose from hundreds of beautiful blended color palettes. |
+| [Linkz.ai](https://linkz.ai) | Immersive hyperlink previews to keep visitors on your website |
 | [Styling Wizard: Google Maps APIs](https://mapstyle.withgoogle.com/) | Customize colors, roads, labels, and more. Then use your custom style in your Google Maps Platform project.|
 | [Snazzy Maps](https://snazzymaps.com/) | A repository of different styles for Google Maps aimed towards web designers and developers. |
 | [Solarized - Precision colors for machines and people](https://github.com/altercation/solarized) | Solarized is a sixteen color palette (eight monotones, eight accent colors) designed for use with terminal and gui applications. |
