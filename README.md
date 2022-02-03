@@ -58,6 +58,7 @@
 | [W3Schools](https://www.w3schools.com/) | Online web tutorials. |
 | [CSS-Tricks](https://css-tricks.com/) | Daily articles about CSS, HTML, JavaScript, and all things related to web design and development. |
 | [Smashing Magazine](https://www.smashingmagazine.com/) | For web designers and developers. |
+| [CodePen](https://codepen.io/) | CodePen is a social development environment for front-end designers and developers. |
 
 <p align="right"><a href="#table-of-contents"><b>↥ Back to top</b></a></p>
 
