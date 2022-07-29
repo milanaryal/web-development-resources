@@ -513,6 +513,7 @@
 | [Smarter link underlines for every website](https://eager.io/blog/smarter-link-underlines/) | Post by Adam Schwartz. |
 | [What is the browser-default background color when selecting text?](https://stackoverflow.com/questions/16094837/what-is-the-browser-default-background-color-when-selecting-text) | Answer on Stack Overflow |
 | [Why I switched from LESS to Sass?](http://hugogiraudel.com/2012/11/13/less-to-sass/) | Post by Hugo Giraudel. |
+| [Complete CSS Tutorial](https://www.scaler.com/topics/css/) | Learn CSS from scratch, for beginner and intermediate learner - Scaler Topics. |
 
 <p align="right"><a href="#table-of-contents"><b>↥ Back to top</b></a></p>
 
