@@ -355,6 +355,7 @@
 | [AutoDraw](https://www.autodraw.com/) | Fast drawing for everyone. AutoDraw pairs machine learning with drawings from talented artists to help you draw stuff fast. |
 | [Binary Translator](http://binarytranslator.com/) | Free binary code translator, translate binary code to text. |
 | [Base16](https://github.com/chriskempson/base16) | An architecture for building themes based on carefully chosen syntax highlighting using a base of sixteen colors. |
+| [Branition Colors](https://branition.com/colors/) | Hand-curated collection of color palettes best fitted for branding. |
 | [Colors.css](https://github.com/mrmrs/colors) | Better default colors for the web. A collection of skin classes for faster prototyping and nicer looking sites. |
 | [Color Hex Color Codes](https://www.color-hex.com/) | Color-hex gives information about colors including color models (RGB,HSL,HSV and CMYK), Triadic colors, monochromatic colors and analogous colors calculated in color page. |
 | [Color Hunt](http://www.colorhunt.co/) | Curated collection of beautiful colors, updated daily. |
