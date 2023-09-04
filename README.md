@@ -58,6 +58,7 @@
 | [W3Schools](https://www.w3schools.com/) | Online web tutorials. |
 | [CSS-Tricks](https://css-tricks.com/) | Daily articles about CSS, HTML, JavaScript, and all things related to web design and development. |
 | [Smashing Magazine](https://www.smashingmagazine.com/) | For web designers and developers. |
+| [WebGlossary.info](https://webglossary.info/) | Extensive glossary of web development and design terms. |
 
 <p align="right"><a href="#table-of-contents"><b>↥ Back to top</b></a></p>
 
@@ -134,7 +135,7 @@
 | Name | Description |
 |---|---|
 | [LESS](http://lesscss.org/) | Node CSS pre-processor |
-| [SCSS / Sass](http://sass-lang.com/) |  The most mature, stable, and powerful professional grade CSS extension language in the world. |
+| [SCSS / Sass](http://sass-lang.com/) | The most mature, stable, and powerful professional grade CSS extension language in the world. |
 | [Stylus](http://stylus-lang.com/) | Expressive, dynamic, robust, feature-rich CSS preprocessor. |
 | [PostCSS](http://postcss.org/) | A tool for transforming CSS with JavaScript. |
 
@@ -283,7 +284,7 @@
 
 | Name | Description |
 |---|---|
-| [Animate.css](http://daneden.github.io/animate.css/) |  A cross-browser library of CSS animations. |
+| [Animate.css](http://daneden.github.io/animate.css/) | A cross-browser library of CSS animations. |
 | [CSSgram](https://una.im/CSSgram/) | A tiny `(<1kb gzipped!)` library for recreating Instagram filters with CSS filters and blend modes. |
 | [CSS Filters Playground](http://bennettfeely.com/filters/) | Play with the new CSS3 Filter Effects. |
 | [EQCSS](http://elementqueries.com/) | A spec for a container-style element query syntax in CSS. |
@@ -355,6 +356,7 @@
 | [AutoDraw](https://www.autodraw.com/) | Fast drawing for everyone. AutoDraw pairs machine learning with drawings from talented artists to help you draw stuff fast. |
 | [Binary Translator](http://binarytranslator.com/) | Free binary code translator, translate binary code to text. |
 | [Base16](https://github.com/chriskempson/base16) | An architecture for building themes based on carefully chosen syntax highlighting using a base of sixteen colors. |
+| [Bootstrap 5 Cheat Sheet](https://bootstrap-cheatsheet.themeselection.com/) | An interactive list of Bootstrap 5 classes, variables, and mixins. |
 | [Colors.css](https://github.com/mrmrs/colors) | Better default colors for the web. A collection of skin classes for faster prototyping and nicer looking sites. |
 | [Color Hex Color Codes](https://www.color-hex.com/) | Color-hex gives information about colors including color models (RGB,HSL,HSV and CMYK), Triadic colors, monochromatic colors and analogous colors calculated in color page. |
 | [Color Hunt](http://www.colorhunt.co/) | Curated collection of beautiful colors, updated daily. |
@@ -362,6 +364,7 @@
 | [CSSmatic](http://www.cssmatic.com/) | The ultimate CSS tools for web designers. |
 | [Draw.io](http://draw.io/ ) | [Draw.io](http://diagrams.net/) is free online diagram software for making flowcharts, process diagrams, org charts, UML, ER and network diagrams. |
 | [Flat Colors](http://flatcolors.net/) | Browse over 11,000 flat colors in over 2,300 flat color palettes. Copy them or download the `.ACO` file for use in Photoshop. |
+| [Frontend Dogma frontend development tools](https://frontenddogma.com/tools/) | Curated web-based tools for website developers and owners, for analysis and exploration. |
 | [Gradient Backgrounds](https://cssgradient.io/gradient-backgrounds/) | As a curated list of the best gradient websites across the internet, Gradient Backgrounds allows you to explore, try and choose from hundreds of beautiful blended color palettes. |
 | [Styling Wizard: Google Maps APIs](https://mapstyle.withgoogle.com/) | Customize colors, roads, labels, and more. Then use your custom style in your Google Maps Platform project.|
 | [Snazzy Maps](https://snazzymaps.com/) | A repository of different styles for Google Maps aimed towards web designers and developers. |
@@ -374,7 +377,6 @@
 | [Web Code Tools](http://webcodetools.com/) | CSS3, HTML5, Microdata, Open Graph and Twitter Card Generators |
 | [What's My Screen Resolution](http://whatsmyscreenresolution.com/) | An Online tool to check screen resolution of any display device. |
 | [WebGradients](https://webgradients.com/) | Free collection of background gradients that you can use as content backdrops in any part of your website. |
-| [Bootstrap 5 Cheat Sheet](https://bootstrap-cheatsheet.themeselection.com/) | An interactive list of Bootstrap 5 classes, variables, and mixins.  |
 
 <p align="right"><a href="#table-of-contents"><b>↥ Back to top</b></a></p>
 
@@ -385,7 +387,7 @@
 | [BootstrapCDN](http://www.bootstrapcdn.com/) | The recommended CDN for Bootstrap, Font Awesome and Bootswatch. |
 | [cdnjs](https://cdnjs.com/) | The free and open source CDN for web related libraries to speed up your website!
 | [CoralCDN](http://www.coralcdn.org/) | A free and open content distribution network based around peer-to-peer technologies, comprised of a world-wide network of web proxies and nameservers. |
-| [FontCDN](http://fontcdn.org/) | A search tool for Google web fonts.  |
+| [FontCDN](http://fontcdn.org/) | A search tool for Google web fonts. |
 | [Google Fonts](https://www.google.com/fonts) | Hundreds of free, open-source fonts optimized for the web. |
 | [Google Hosted Libraries](https://developers.google.com/speed/libraries/) | A stable, reliable, high-speed, globally available content distribution network for the most popular, open-source JavaScript libraries. |
 | [jsDelivr](http://www.jsdelivr.com/) | A free super-fast CDN for developers and webmasters. |
@@ -478,8 +480,9 @@
 | Name |
 |---|
 | [Mozilla Web Docs](https://developer.mozilla.org/en-US/docs/Web/CSS) |
-| [CSS Reference](https://cssreference.io/) |
 | [CSS Dev Docs](https://devdocs.io/css/) |
+| [CSS properties index](https://meiert.com/en/indices/css-properties/) |
+| [CSS Reference](https://cssreference.io/) |
 | [CSS Reference - Codrops](https://tympanus.net/codrops/css_reference/) |
 | **Layout**: |
 | [Flexbox - CSS Tricks](https://css-tricks.com/snippets/css/a-guide-to-flexbox/) |
@@ -488,8 +491,8 @@
 | [Flexbox Froggy](https://flexboxfroggy.com/) |
 | [CSS Grid Garden](https://cssgridgarden.com/) |
 | **CSS animations**: |
-|  [Using CSS Animation - MDN](https://developer.mozilla.org/en-US/docs/Web/CSS/CSS_Animations/Using_CSS_animations) |
-|  [Animation - CSS Tricks](https://css-tricks.com/almanac/properties/a/animation/) |
+| [Using CSS Animation - MDN](https://developer.mozilla.org/en-US/docs/Web/CSS/CSS_Animations/Using_CSS_animations) |
+| [Animation - CSS Tricks](https://css-tricks.com/almanac/properties/a/animation/) |
 
 <p align="right"><a href="#table-of-contents"><b>↥ Back to top</b></a></p>
 
@@ -549,7 +552,7 @@
 | [The Best Designs](https://www.thebestdesigns.com/) |
 | [Very nice sites](http://www.verynicesites.com/) |
 | [Web Design Inspirations](http://www.webdesign-inspiration.com/) |
-| [webdesign - Tumblr   Search](https://www.tumblr.com/search/webdesign) |
+| [webdesign - Tumblr Search](https://www.tumblr.com/search/webdesign) |
 
 <p align="right"><a href="#table-of-contents"><b>↥ Back to top</b></a></p>
 
@@ -597,8 +600,8 @@
 | [Chocolatey](https://en.wikipedia.org/wiki/NuGet#Chocolatey) | [Chocolatey](https://chocolatey.org/) is a machine-level package manager and installer for software packages, built for the Windows platform. |
 | goenv | [goenv](https://github.com/syndbg/goenv) aims to be as simple as possible and follow the already established successful version management model of pyenv and rbenv. |
 | [npm](https://en.wikipedia.org/wiki/Npm_(software)) | [npm](https://www.npmjs.com/) (originally short for Node Package Manager) is a package manager for the JavaScript programming language. |
-| nodenv | Use [nodenv](https://github.com/nodenv/nodenv) to pick a Node version for your application and guarantee that your development environment matches production.  |
-| pyenv  | [pyenv](https://github.com/pyenv/pyenv) lets you easily switch between multiple versions of Python. |
+| nodenv | Use [nodenv](https://github.com/nodenv/nodenv) to pick a Node version for your application and guarantee that your development environment matches production. |
+| pyenv | [pyenv](https://github.com/pyenv/pyenv) lets you easily switch between multiple versions of Python. |
 | [yarn](https://en.wikipedia.org/wiki/Npm_(software)#Alternatives) | [yarn](https://yarnpkg.com/) is a alternative to npm. |
 | [rvm](https://en.wikipedia.org/wiki/Ruby_Version_Manager) | [RVM](https://rvm.io/) is a command-line tool which allows you to easily install, manage, and work with multiple ruby environments from interpreters to sets of gems. |
 | rbenv | Use [rbenv](https://github.com/rbenv/rbenv) to pick a Ruby version for your application and guarantee that your development environment matches production. |
@@ -627,7 +630,7 @@
 | [Awesome Awesomeness](https://github.com/bayandin/awesome-awesomeness) | A curated list of amazingly awesome awesomeness. |
 | [Awesome Awesome](https://github.com/emijrp/awesome-awesome) | A curated list of awesome curated lists of many topics. |
 | [Bootstrap Resources](http://startbootstrap.com/bootstrap-resources/) by Start Bootstrap | A comprehensive list of Bootstrap and related resources. |
-| [Bootstrap Snippets](https://startbootstrap.com/snippets/)  by Start Bootstrap | A curated library of Bootstrap 4 code snippets, perfect for dropping into your project without downloading an entire theme! |
+| [Bootstrap Snippets](https://startbootstrap.com/snippets/) by Start Bootstrap | A curated library of Bootstrap 4 code snippets, perfect for dropping into your project without downloading an entire theme! |
 | [Design essentials, GitHub collections](https://github.com/collections/design-essentials) | This collection of design libraries are the best on the web, and will complete your toolset for designing stunning products. |
 | [Design Resources For Developers](https://github.com/bradtraversy/design-resources-for-developers) | A curated list of FREE design & UI resources for developers including stock photos, templates, frameworks, UI Kits, online tools and much much more. |
 | [GitHub - Open source showcases](https://github.com/showcases) | Browse popular repositories based on the topic that interests you most. |
