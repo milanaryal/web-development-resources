@@ -375,6 +375,7 @@
 | [uiGradients](http://uigradients.com/) | A handpicked collection of beautiful colour gradients for designers and developers. |
 | [Unminify](http://unminify.com/) | Free online tool to unminify (unpack, deobfuscate) JavaScript, CSS and HTML code, making it readable and pretty. |
 | [Web Code Tools](http://webcodetools.com/) | CSS3, HTML5, Microdata, Open Graph and Twitter Card Generators |
+| [Vue CheatSheet](https://vue-cheatsheet.themeselection.com/) | An interactive cheatsheet of Vue, Vue Router, and Pinia |
 | [What's My Screen Resolution](http://whatsmyscreenresolution.com/) | An Online tool to check screen resolution of any display device. |
 | [WebGradients](https://webgradients.com/) | Free collection of background gradients that you can use as content backdrops in any part of your website. |
 
