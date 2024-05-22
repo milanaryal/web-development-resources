@@ -469,6 +469,7 @@
 | [NavNav](http://navnav.co/) | A ton of CSS, jQuery, and JavaScript responsive navigation examples, demos, and tutorials from all over the web. |
 | [Papersizes.io - The best resource for Paper Sizes](http://papersizes.io/) | A simple, free resource for finding the international standards for paper sizes in metric and imperial. |
 | [PDF Candy](https://pdfcandy.com/) | Edit PDF files with PDF Candy - a free online PDF editor. Convert PDF to Word, PDF to JPG, merge PDF, split PDF, compress PDF, etc. |
+| [Scaler](https://www.scaler.com/blog/web-development-roadmap/) | A blog about the latest trends and skills to stay ahead in the ever-changing world of web development. |
 | [Scotch](https://scotch.io/) | A web development blog discussing all things programming, development, web and life. |
 | [Smashing Magazine](http://www.smashingmagazine.com/) | An online magazine for professional Web designers and developers, with a focus on useful techniques, best practices and valuable resources. |
 | [W3Schools Online Web Tutorials](https://www.w3schools.com/) | The world's largest web developer site. |
