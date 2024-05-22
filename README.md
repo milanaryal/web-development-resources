@@ -25,7 +25,7 @@
 * [JavaScript compressor toolkit](#javascript-compressor-toolkit)
 * [CSS library](#css-library)
 * [SVG, PNG, and Font icons library](#svg-png-and-font-icons-library)
-* [PNG, JPEG compressor toolkit](#PNG-JPEG-compressor-toolkit)
+* [PNG, JPEG , GIF compressor toolkit](#PNG-JPEG-compressor-toolkit)
 * [HTML forms](#html-forms)
 * [Web tools](#web-tools)
 * [CDN library](#cdn-library)
