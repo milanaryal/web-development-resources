@@ -25,6 +25,7 @@
 * [JavaScript compressor toolkit](#javascript-compressor-toolkit)
 * [CSS library](#css-library)
 * [SVG, PNG, and Font icons library](#svg-png-and-font-icons-library)
+* [PNG, JPEG compressor toolkit](#PNG-JPEG-compressor-toolkit)
 * [HTML forms](#html-forms)
 * [Web tools](#web-tools)
 * [CDN library](#cdn-library)
@@ -332,6 +333,17 @@
 | [SVG Icons](http://svgicons.sparkk.fr/) | Ready to use SVG icons for the web. |
 | [Vector Icons Roundup](https://tagliala.github.io/vectoriconsroundup/) | A side-by-side comparison between popular icon fonts. |
 | [We Love Icon Fonts](http://weloveiconfonts.com/) | A free & open source icon fonts hosting service for testing purposes. |
+
+<p align="right"><a href="#table-of-contents"><b>↥ Back to top</b></a></p>
+
+## PNG, JPEG, GIF compressor toolkit
+
+| Name | Description |
+|---|---|
+| [TinyJPG](https://tinyjpg.com/) | Smart WebP, JPEG and PNG compression |
+| [Compress PNG](https://compresspng.com/) | - |
+| [Compress JPEG](https://compressjpeg.com/) | - |
+| [Compress GIF](https://compressgif.com/) | - |
 
 <p align="right"><a href="#table-of-contents"><b>↥ Back to top</b></a></p>
 
