@@ -632,9 +632,10 @@
 
 <p align="right"><a href="#table-of-contents"><b>↥ Back to top</b></a></p>
 
-## Cheatsheet
+## CheatSheet😎
 
 | Name | Description |
+|---|---|
 | [tldr pages](https://tldr.sh/) |
 | [tldr InBrowser.App](https://tldr.inbrowser.app/) |
 | [tldr-book.pdf](https://tldr.sh/assets/tldr-book.pdf) |
@@ -643,6 +644,10 @@
 | [Devhints](https://devhints.io/) |
 | [Homebrew cheatsheet](https://devhints.io/homebrew) |
 | [Manual GitHub CLi](https://cli.github.com/manual/) |
+| [Markdown Cheatsheet](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet) |
+| [github-cheat-sheet](https://github.com/tiimgreen/github-cheat-sheet) |
+| [cheatsheet.md](https://cheatsheet.md/) |
+| [Octonator on Twitter: "Add .pibb to the end of any Gist URL in order to get the HTML only version suitable for embedding in any other site. http://t.co/HYtfQBM2DO" / Twitter](https://twitter.com/octonator/status/459370937344086016) |
 
 <p align="right"><a href="#table-of-contents"><b>↥ Back to top</b></a></p>
 
