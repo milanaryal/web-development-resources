@@ -634,8 +634,8 @@
 
 ## CheatSheet😎
 
-| Name | Description |
-|---|---|
+| Name |
+|---|
 | [tldr pages](https://tldr.sh/) |
 | [tldr InBrowser.App](https://tldr.inbrowser.app/) |
 | [tldr-book.pdf](https://tldr.sh/assets/tldr-book.pdf) |
