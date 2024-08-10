@@ -632,6 +632,20 @@
 
 <p align="right"><a href="#table-of-contents"><b>↥ Back to top</b></a></p>
 
+## Cheatsheet
+
+| Name | Description |
+| [tldr pages](https://tldr.sh/) |
+| [tldr InBrowser.App](https://tldr.inbrowser.app/) |
+| [tldr-book.pdf](https://tldr.sh/assets/tldr-book.pdf) |
+| [Brew basic commands](https://devsheet.com/code-snippet/brew-basic-commands/) - Devsheet |
+| [cheat.sh](https://cheat.sh/) |
+| [Devhints](https://devhints.io/) |
+| [Homebrew cheatsheet](https://devhints.io/homebrew) |
+| [Manual GitHub CLi](https://cli.github.com/manual/) |
+
+<p align="right"><a href="#table-of-contents"><b>↥ Back to top</b></a></p>
+
 ## List of lists of lists
 
 | Name | Description |
