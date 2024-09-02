@@ -666,6 +666,7 @@
 | [Design Resources For Developers](https://github.com/bradtraversy/design-resources-for-developers) | A curated list of FREE design & UI resources for developers including stock photos, templates, frameworks, UI Kits, online tools and much much more. |
 | [GitHub - Open source showcases](https://github.com/showcases) | Browse popular repositories based on the topic that interests you most. |
 | [Gradient Backgrounds](https://cssgradient.io/gradient-backgrounds/) | As a curated list of the best gradient websites across the internet, Gradient Backgrounds allows you to explore, try and choose from hundreds of beautiful blended color palettes. |
+| [HTMLrev](https://htmlrev.com/) | HTMLrev provides free HTML templates for websites and landing pages. |
 | [JavaScript Plugins Repository](https://plainjs.com/javascript/plugins/) | Vanilla JS tools for writing powerful web applications without jQuery. |
 | [Javascript Territory](http://jster.net/) | JSter Javascript catalog. |
 | [JavaScripting](http://www.javascripting.com/) | The database of JavaScript libraries, frameworks, and plugins. |
