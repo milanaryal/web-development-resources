@@ -386,6 +386,7 @@
 | [Create LaTeX tables online](http://www.tablesgenerator.com/) | Quickly create even complex LaTeX tables with online generator - cells merging is supported together with borders editing. |
 | [uiGradients](http://uigradients.com/) | A handpicked collection of beautiful colour gradients for designers and developers. |
 | [Unminify](http://unminify.com/) | Free online tool to unminify (unpack, deobfuscate) JavaScript, CSS and HTML code, making it readable and pretty. |
+| [Vue CheatSheet](https://vue-cheatsheet.themeselection.com/) | The only Vue cheatsheet you will ever need. |
 | [Web Code Tools](http://webcodetools.com/) | CSS3, HTML5, Microdata, Open Graph and Twitter Card Generators |
 | [What's My Screen Resolution](http://whatsmyscreenresolution.com/) | An Online tool to check screen resolution of any display device. |
 | [WebGradients](https://webgradients.com/) | Free collection of background gradients that you can use as content backdrops in any part of your website. |
