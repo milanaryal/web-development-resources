@@ -106,6 +106,7 @@
 |---|---|
 | [Formstone](https://formstone.it/) | Formstone is a collection of front end components. |
 | [Le Wagon UI components](https://lewagon.github.io/ui-components/) | - |
+| [FlyonUI](https://flyonui.com/) | The Easiest Components Library For Tailwind CSS. |
 
 <p align="right"><a href="#table-of-contents"><b>↥ Back to top</b></a></p>
 
