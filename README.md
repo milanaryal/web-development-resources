@@ -484,6 +484,8 @@
 | [Scotch](https://scotch.io/) | A web development blog discussing all things programming, development, web and life. |
 | [Smashing Magazine](http://www.smashingmagazine.com/) | An online magazine for professional Web designers and developers, with a focus on useful techniques, best practices and valuable resources. |
 | [W3Schools Online Web Tutorials](https://www.w3schools.com/) | The world's largest web developer site. |
+| [PDFsail](https://www.pdfsail.com/) | is an online PDF tool that supports conversion, editing, OCR recognition, and more for efficient and convenient document processing. |
+
 
 <p align="right"><a href="#table-of-contents"><b>↥ Back to top</b></a></p>
 
