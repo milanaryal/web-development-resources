@@ -382,6 +382,7 @@
 | [Snazzy Maps](https://snazzymaps.com/) | A repository of different styles for Google Maps aimed towards web designers and developers. |
 | [Solarized - Precision colors for machines and people](https://github.com/altercation/solarized) | Solarized is a sixteen color palette (eight monotones, eight accent colors) designed for use with terminal and gui applications. |
 | [SRI Hash Generator](https://www.srihash.org/) | Use of SRI is recommended as a best-practice, whenever libraries are loaded from a third-party source. |
+| [Toolunify](https://www.toolunify.com/en/) | The ultimate suite of 40+ free online developer & utility tools (JSON Formatter, Base64, QR Codes, Unit Converter & more). |
 | [Superdomain](http://superdomain.io) | Check domain availability. |
 | [Create LaTeX tables online](http://www.tablesgenerator.com/) | Quickly create even complex LaTeX tables with online generator - cells merging is supported together with borders editing. |
 | [uiGradients](http://uigradients.com/) | A handpicked collection of beautiful colour gradients for designers and developers. |
