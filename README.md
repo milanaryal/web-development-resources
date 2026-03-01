@@ -434,6 +434,7 @@
 | Name | Description |
 |---|---|
 | [Google PageSpeed Tools](https://developers.google.com/speed/pagespeed/) | The PageSpeed tools analyze and optimize your site following web best practices. |
+| [PageGuard](https://pageguard.org/) | Free website health scanner — ADA/WCAG accessibility, SEO, performance & best practices in one scan. |
 | [WebPagetest](http://www.webpagetest.org/) | Run a free website speed test from multiple locations around the globe using real browsers and at real consumer connection speeds. |
 | [Website speed test](http://tools.pingdom.com/) | Use this free Website Speed Test to analyze the load speed of your websites, and learn how to make them faster. |
 
