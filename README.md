@@ -389,6 +389,7 @@
 | [Web Code Tools](http://webcodetools.com/) | CSS3, HTML5, Microdata, Open Graph and Twitter Card Generators |
 | [What's My Screen Resolution](http://whatsmyscreenresolution.com/) | An Online tool to check screen resolution of any display device. |
 | [WebGradients](https://webgradients.com/) | Free collection of background gradients that you can use as content backdrops in any part of your website. |
+| [BeginThings](https://beginthings.com/) | 96+ free browser-based tools for developers & freelancers — JSON formatter, regex tester, base64 encoder, image compressor, QR code maker, invoice generator & more. No login required. |
 
 <p align="right"><a href="#table-of-contents"><b>↥ Back to top</b></a></p>
 
