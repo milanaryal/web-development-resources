@@ -351,6 +351,7 @@
 
 | Name | Description |
 |---|---|
+| [Ansel Forms](https://anselforms.com) | Secure, privacy focused headless form backend and HTML visual builder. |
 | [Chartspree](http://chartspree.io/) | Make charts in seconds. |
 | [Formspree](https://formspree.io/) | Functional HTML forms for static sites. |
 | [Gridspree](http://gridspree.io/) | Display your spreadsheet data however you like right on your static site with Google Spreadsheet. |
