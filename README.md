@@ -383,6 +383,7 @@
 | [Solarized - Precision colors for machines and people](https://github.com/altercation/solarized) | Solarized is a sixteen color palette (eight monotones, eight accent colors) designed for use with terminal and gui applications. |
 | [SRI Hash Generator](https://www.srihash.org/) | Use of SRI is recommended as a best-practice, whenever libraries are loaded from a third-party source. |
 | [Superdomain](http://superdomain.io) | Check domain availability. |
+| [TextFaker](https://textfaker.com/) | Create realistic iPhone-style text message screenshots for demos, lessons, stories, and UI mockups. |
 | [Create LaTeX tables online](http://www.tablesgenerator.com/) | Quickly create even complex LaTeX tables with online generator - cells merging is supported together with borders editing. |
 | [uiGradients](http://uigradients.com/) | A handpicked collection of beautiful colour gradients for designers and developers. |
 | [Unminify](http://unminify.com/) | Free online tool to unminify (unpack, deobfuscate) JavaScript, CSS and HTML code, making it readable and pretty. |
