@@ -379,6 +379,7 @@
 | [Frontend Dogma frontend development tools](https://frontenddogma.com/tools/) | Curated web-based tools for website developers and owners, for analysis and exploration. |
 | [Gradient Backgrounds](https://cssgradient.io/gradient-backgrounds/) | As a curated list of the best gradient websites across the internet, Gradient Backgrounds allows you to explore, try and choose from hundreds of beautiful blended color palettes. |
 | [Styling Wizard: Google Maps APIs](https://mapstyle.withgoogle.com/) | Customize colors, roads, labels, and more. Then use your custom style in your Google Maps Platform project.|
+| [Nutilz](https://nutilz.com) | Free browser-based developer utilities including regex tester, JSON formatter, unit converter, diff checker, and calculators. No sign-up required. |
 | [Snazzy Maps](https://snazzymaps.com/) | A repository of different styles for Google Maps aimed towards web designers and developers. |
 | [Solarized - Precision colors for machines and people](https://github.com/altercation/solarized) | Solarized is a sixteen color palette (eight monotones, eight accent colors) designed for use with terminal and gui applications. |
 | [SRI Hash Generator](https://www.srihash.org/) | Use of SRI is recommended as a best-practice, whenever libraries are loaded from a third-party source. |
