@@ -60,6 +60,7 @@
 | [CSS-Tricks](https://css-tricks.com/) | Daily articles about CSS, HTML, JavaScript, and all things related to web design and development. |
 | [Smashing Magazine](https://www.smashingmagazine.com/) | For web designers and developers. |
 | [WebGlossary.info](https://webglossary.info/) | Extensive glossary of web development and design terms. |
+| [The Concise TypeScript Book](https://github.com/gibbok/typescript-book) | A free and open-source TypeScript book covering fundamentals through advanced concepts, including TypeScript 7. |
 
 <p align="right"><a href="#table-of-contents"><b>↥ Back to top</b></a></p>
 
