@@ -4,17 +4,25 @@
   </a>
 </p>
 <h1 align="center">Web development resources</h1>
-<p align="center"><i>A list of open source front-end tools and resources for web designers and developers.</i></p>
+<p align="center"><i>Curated front-end tools, references, and learning resources for web designers and developers.</i></p>
+<p align="center">
+  <a href="https://github.com/milanaryal/web-development-resources/stargazers"><img alt="GitHub stars" src="https://img.shields.io/github/stars/milanaryal/web-development-resources?style=social" /></a>
+  <a href="LICENSE"><img alt="CC0-1.0 license" src="https://img.shields.io/badge/license-CC0--1.0-blue" /></a>
+</p>
 <p align="center"><br /></p>
 
-This repository is a maintained reference for people learning or practicing
-front-end development. Resources are curated for usefulness, a working
-canonical link, and a clear fit within an existing section. See
-[CONTRIBUTING.md](CONTRIBUTING.md) before proposing an addition, replacement,
-or removal.
+This repository is a maintained reference for people learning or practicing front-end development. Resources are curated for usefulness, a working canonical link, and a clear fit within an existing section. See [CONTRIBUTING.md](CONTRIBUTING.md) before proposing an addition, replacement, or removal.
+
+## How to use this list
+
+- **Learn the platform:** Start with [Wiki](#wiki), [CSS reference](#css-reference), and [CSS tutorials](#css-tutorials).
+- **Build interfaces:** Explore [Frameworks](#frameworks), [Front-end components](#front-end-components), and [SVG, PNG, and Font icons library](#svg-png-and-font-icons-library).
+- **Test and improve:** Use [Browser compatibility wiki](#browser-compatibility-wiki), [Responsiveness testing tools](#responsiveness-testing-tools), and [Performance testing tools](#performance-testing-tools).
+- **Ship projects:** Review [Package manager](#package-manager), [CDN library](#cdn-library), and [Jamstack](#jamstack).
 
 ## Table of contents
 
+* [How to use this list](#how-to-use-this-list)
 * [Wiki](#wiki)
 * [Frameworks](#frameworks)
 * [Mobile Web apps frameworks](#mobile-web-apps-frameworks)
