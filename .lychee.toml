@@ -1,0 +1,15 @@
+accept = ["200..=299", "403", "429"]
+accept_timeouts = true
+max_concurrency = 12
+max_redirects = 10
+max_retries = 2
+method = "get"
+no_progress = true
+timeout = 20
+user_agent = "Mozilla/5.0 (compatible; web-development-resources-link-check/1.0)"
+
+exclude = [
+  '^https://chrome\.google\.com/webstore/',
+  '^https://medium\.com/',
+  '^https://twitter\.com/',
+]

@@ -4,11 +4,25 @@
   </a>
 </p>
 <h1 align="center">Web development resources</h1>
-<p align="center"><i>A list of open source front-end tools and resources for web designers and developers.</i></p>
+<p align="center"><i>Curated front-end tools, references, and learning resources for web designers and developers.</i></p>
+<p align="center">
+  <a href="https://github.com/milanaryal/web-development-resources/stargazers"><img alt="GitHub stars" src="https://img.shields.io/github/stars/milanaryal/web-development-resources?style=social" /></a>
+  <a href="LICENSE"><img alt="CC0-1.0 license" src="https://img.shields.io/badge/license-CC0--1.0-blue" /></a>
+</p>
 <p align="center"><br /></p>
+
+This repository is a maintained reference for people learning or practicing front-end development. Resources are curated for usefulness, a working canonical link, and a clear fit within an existing section. See [CONTRIBUTING.md](CONTRIBUTING.md) before proposing an addition, replacement, or removal.
+
+## How to use this list
+
+- **Learn the platform:** Start with [Wiki](#wiki), [CSS reference](#css-reference), and [CSS tutorials](#css-tutorials).
+- **Build interfaces:** Explore [Frameworks](#frameworks), [Front-end components](#front-end-components), and [SVG, PNG, and Font icons library](#svg-png-and-font-icons-library).
+- **Test and improve:** Use [Browser compatibility wiki](#browser-compatibility-wiki), [Responsiveness testing tools](#responsiveness-testing-tools), and [Performance testing tools](#performance-testing-tools).
+- **Ship projects:** Review [Package manager](#package-manager), [CDN library](#cdn-library), and [Jamstack](#jamstack).
 
 ## Table of contents
 
+* [How to use this list](#how-to-use-this-list)
 * [Wiki](#wiki)
 * [Frameworks](#frameworks)
 * [Mobile Web apps frameworks](#mobile-web-apps-frameworks)
@@ -25,7 +39,7 @@
 * [JavaScript compressor toolkit](#javascript-compressor-toolkit)
 * [CSS library](#css-library)
 * [SVG, PNG, and Font icons library](#svg-png-and-font-icons-library)
-* [PNG, JPEG , GIF compressor toolkit](#PNG-JPEG-compressor-toolkit)
+* [PNG, JPEG, and GIF compressor toolkit](#png-jpeg-and-gif-compressor-toolkit)
 * [HTML forms](#html-forms)
 * [Web tools](#web-tools)
 * [CDN library](#cdn-library)
@@ -44,7 +58,9 @@
 * [Webmaster tools](#webmaster-tools)
 * [Package manager](#package-manager)
 * [Jamstack](#jamstack)
+* [Cheat sheets](#cheat-sheets)
 * [List of lists of lists](#list-of-lists-of-lists)
+* [License](#license)
 
 ---
 
@@ -68,15 +84,14 @@
 | Name | Description |
 |---|---|
 | [HTML5 Boilerplate](https://html5boilerplate.com/) | The web's most popular front-end template. |
-| [Bootstrap](http://getbootstrap.com/) | Bootstrap is the most popular HTML, CSS, and JS framework for developing responsive, mobile first projects on the web. |
-| [Foundation](http://foundation.zurb.com/) | The most advanced responsive front-end framework in the world. |
+| [Bootstrap](https://getbootstrap.com/) | A front-end toolkit for building responsive, mobile-first sites. |
+| [Foundation](https://get.foundation/) | A responsive front-end framework for sites, apps, and email. |
 | - | - |
 | [Base](http://getbase.org/) | A Rock Solid, Responsive HTML/CSS Framework. |
-| [Basscss](http://www.basscss.com/) | Low-level CSS toolkit. |
+| [Basscss](https://basscss.com/) | Low-level CSS toolkit. |
 | [Bulma](http://bulma.io/) | A modern CSS framework based on Flexbox. |
 | [Concise Framework](http://concisecss.com/) | A lightweight front-end framework that provides a number of great features without the bloat. |
-| [Cardinal](http://cardinalcss.com/) | Cardinal is a modular, "mobile-first" CSS framework built with performance and scalability in mind. |
-| [Furtive CSS](http://furtive.co/) | A forward-thinking, CSS micro-framework. |
+| [Cardinal](https://github.com/cardinalcss/cardinalcss) | A modular, mobile-first CSS framework focused on performance and scalability. |
 | [Juiced](http://juicedcss.com/) | a Flexbox CSS Framework. |
 | [Material Design Lite](http://www.getmdl.io/) | An implementation of Material Design components in vanilla CSS, JS, and HTML |
 | [Materialize](http://materializecss.com/) | A modern responsive front-end framework based on Material Design. |
@@ -104,7 +119,7 @@
 
 | Name | Description |
 |---|---|
-| [Formstone](https://formstone.it/) | Formstone is a collection of front end components. |
+| [Formstone](https://github.com/Formstone/Formstone) | A collection of modular front-end components. |
 | [Le Wagon UI components](https://lewagon.github.io/ui-components/) | - |
 
 <p align="right"><a href="#table-of-contents"><b>↥ Back to top</b></a></p>
@@ -113,8 +128,7 @@
 
 | Name | Description |
 |---|---|
-| [Bootstrap Starter](https://bootstrapstarter.com/) | Free Bootstrap starter themes & templates to kickstart your project. |
-| [HTML5 Blank WordPress Theme](http://html5blank.com/) | The best HTML5 WordPress boilerplate theme, noted by Adobe, Smashing Mag, .NET mag. |
+| [Bootstrap Starter](https://github.com/aazahrou/bootstrapstarter.com) | Open-source Bootstrap starter templates. |
 | [HTML5 UP!](http://html5up.net/) | Responsive HTML5 and CSS3 site templates. |
 | [Start Bootstrap](http://startbootstrap.com/) | A library of free to download Bootstrap themes and templates. |
 
@@ -124,10 +138,10 @@
 
 | Name | Description |
 |---|---|
-| [Haml](http://haml.info/) | HTML abstraction markup language |
+| [Haml](https://github.com/haml/haml) | An HTML abstraction markup language. |
 | [Markdown](https://daringfireball.net/projects/markdown/) | A text-to-HTML conversion tool for web writers. |
 | [Slim](http://slim-lang.com/) | A lightweight templating engine. |
-| [Jade](http://jade-lang.com/) | Node template engine. |
+| [Pug](https://pugjs.org/) | A template engine for Node.js, formerly known as Jade. |
 
 <p align="right"><a href="#table-of-contents"><b>↥ Back to top</b></a></p>
 
@@ -158,7 +172,7 @@
 | Name | Description |
 |---|---|
 | [Bourbon](http://bourbon.io/) | A simple and lightweight mixin library for Sass. |
-| [Compass](http://compass-style.org/) | An open-source CSS Authoring Framework. |
+| [Compass](https://github.com/Compass/compass) | An open-source CSS authoring framework. |
 | [Susy](http://susy.oddbird.net/) | Custom layout engine for Sass. |
 
 <p align="right"><a href="#table-of-contents"><b>↥ Back to top</b></a></p>
@@ -249,7 +263,7 @@
 | [Slideout.js](https://slideout.js.org/) | A touch slideout navigation menu for your mobile web apps. |
 | [Smartcrop.js](https://github.com/jwagner/smartcrop.js/) | Content aware image cropping. |
 | [Tabella.js](http://iliketomatoes.github.io/tabellajs/) | Responsive table. |
-| [Tether](http://github.hubspot.com/tether/) | A JavaScript library for efficiently making an absolutely positioned element stay next to another element on the page. |
+| [Tether](https://github.com/shipshapecode/tether) | A JavaScript library for positioning an element next to another element on a page. |
 | [Tippy.js](https://atomiks.github.io/tippyjs/) | A lightweight, vanilla JavaScript tooltip library. |
 | [Tooltip.js](https://github.com/HubSpot/tooltip) | Tooltip.js is a Javascript and CSS library for creating styleable tooltips. |
 | [Turbolinks](https://github.com/turbolinks/turbolinks) | Turbolinks® makes navigating your web application faster. |
@@ -262,8 +276,7 @@
 
 | Name | Description |
 |---|---|
-| [Formstone - Background](https://formstone.it/components/background/) | A jQuery plugin for full-frame image and video backgrounds.|
-| [Bigfoot.js](http://www.bigfootjs.com/) | A jQuery plugin for empowering footnotes. |
+| [Formstone - Background](https://github.com/Formstone/Formstone) | Formstone's full-frame image and video background component. |
 | [bigSlide.js](https://ascott1.github.io/bigSlide.js/) | A tiny slide panel navigation jQuery plugin with big dreams. |
 | [FitVids.js](http://fitvidsjs.com/) | A lightweight, easy-to-use jQuery plugin for fluid width video embeds. |
 | [fullPage.js](http://alvarotrigo.com/fullPage/) | One page scroll sections site plugin. |
@@ -286,13 +299,10 @@
 | Name | Description |
 |---|---|
 | [Animate.css](http://daneden.github.io/animate.css/) | A cross-browser library of CSS animations. |
-| [CSSgram](https://una.im/CSSgram/) | A tiny `(<1kb gzipped!)` library for recreating Instagram filters with CSS filters and blend modes. |
-| [CSS Filters Playground](http://bennettfeely.com/filters/) | Play with the new CSS3 Filter Effects. |
+| [CSSgram](https://github.com/una/CSSgram) | A CSS library for recreating Instagram-style filters. |
 | [EQCSS](http://elementqueries.com/) | A spec for a container-style element query syntax in CSS. |
 | [Flex Grid](http://flexboxgrid.com/) | A grid system based on the flex display property. |
-| [Mastering the `:nth-child`](http://nthmaster.com/) | CSS3 pseudo classes and :nth-child ranges. |
 | [Eric Meyer CSS reset](http://meyerweb.com/eric/tools/css/reset/) | Eric Meyer CSS reset |
-| [Graaf](http://graaf.space/) | Pure CSS grid overlays for designing. |
 | [Hamburgers](https://jonsuh.com/hamburgers/) | Tasty CSS-animated Hamburgers. |
 | [Mueller Grid System](http://muellergridsystem.com/) | A modular grid system for responsive/adaptive and non–responsive layouts, based on Compass. |
 | [Normalize.css](http://necolas.github.io/normalize.css/) | A modern, HTML5-ready alternative to CSS resets. |
@@ -317,7 +327,7 @@
 | [Creative Commons license icons](https://creativecommons.org/about/downloads/) | Download SVG, EPS, and PNG Creative Commons license icons to use in your site. |
 | [Flaticon](http://www.flaticon.com/) | The largest database of free icons available in PNG, SVG, EPS, PSD and BASE 64 formats. |
 | [Feather](https://feathericons.com/) | Feather is a collection of simply beautiful open source icons. |
-| [Font Awesome](http://fontawesome.io/) | The iconic font and CSS toolkit. |
+| [Font Awesome](https://fontawesome.com/) | Icons and a supporting web toolkit. |
 | [Font-Awesome-SVG-PNG](https://github.com/encharm/Font-Awesome-SVG-PNG) | Font Awesome split to individual SVG and PNG files of different sizes along with Node.JS based generator. |
 | [FontForge](https://fontforge.github.io/en-US/) | A free and open source font editor brought to you by a community of fellow type lovers. |
 | [Fontello](http://fontello.com/) | An easy way to create a custom icon font for your site. Select images from our large collection, and make a webfont pack with one click. |
@@ -327,16 +337,15 @@
 | [The Big List of Flat Icons & Icon Fonts](https://css-tricks.com/flat-icons-icon-fonts/) by CSS-Triks | There are many such roundups. This one is mine. |
 | [Noun Project - Icons for everything](https://thenounproject.com/) | Nearly a million curated icons, created by a global community. |
 | [Octicons](https://octicons.github.com/) | A scalable icon font handcrafted with &lt;3 by GitHub. |
-| [Perfect Icons](http://perfecticons.com/) | The easiest way to create resolution independent social icons. |
 | [Simple Icons](https://simpleicons.org/) | Free SVG icons for popular brands. |
 | [svg-icon](https://leungwensen.github.io/svg-icon/) | An ultimate SVG icons collection DONE RIGHT. |
 | [SVG Icons](http://svgicons.sparkk.fr/) | Ready to use SVG icons for the web. |
 | [Vector Icons Roundup](https://tagliala.github.io/vectoriconsroundup/) | A side-by-side comparison between popular icon fonts. |
-| [We Love Icon Fonts](http://weloveiconfonts.com/) | A free & open source icon fonts hosting service for testing purposes. |
+| [We Love Icon Fonts](https://github.com/TimPietrusky/weloveiconfonts) | An open-source icon-font hosting project. |
 
 <p align="right"><a href="#table-of-contents"><b>↥ Back to top</b></a></p>
 
-## PNG, JPEG, GIF compressor toolkit
+## PNG, JPEG, and GIF compressor toolkit
 
 | Name | Description |
 |---|---|
@@ -351,9 +360,7 @@
 
 | Name | Description |
 |---|---|
-| [Chartspree](http://chartspree.io/) | Make charts in seconds. |
 | [Formspree](https://formspree.io/) | Functional HTML forms for static sites. |
-| [Gridspree](http://gridspree.io/) | Display your spreadsheet data however you like right on your static site with Google Spreadsheet. |
 | [JotForm](http://www.jotform.com/) | Form builder |
 | [WTF, forms?](http://wtfforms.com/) | Friendlier HTML form controls with a little CSS magic. Designed for IE9+, as well as the latest Chrome, Safari, and Firefox. |
 | [Wufoo](http://www.wufoo.com/) | Online form builder with cloud storage database. |
@@ -375,7 +382,6 @@
 | [CSS3 Generator](http://css3generator.com/) | CSS3 classics |
 | [CSSmatic](http://www.cssmatic.com/) | The ultimate CSS tools for web designers. |
 | [Draw.io](http://draw.io/ ) | [Draw.io](http://diagrams.net/) is free online diagram software for making flowcharts, process diagrams, org charts, UML, ER and network diagrams. |
-| [Flat Colors](http://flatcolors.net/) | Browse over 11,000 flat colors in over 2,300 flat color palettes. Copy them or download the `.ACO` file for use in Photoshop. |
 | [Frontend Dogma frontend development tools](https://frontenddogma.com/tools/) | Curated web-based tools for website developers and owners, for analysis and exploration. |
 | [Gradient Backgrounds](https://cssgradient.io/gradient-backgrounds/) | As a curated list of the best gradient websites across the internet, Gradient Backgrounds allows you to explore, try and choose from hundreds of beautiful blended color palettes. |
 | [Styling Wizard: Google Maps APIs](https://mapstyle.withgoogle.com/) | Customize colors, roads, labels, and more. Then use your custom style in your Google Maps Platform project.|
@@ -400,7 +406,7 @@
 | [cdnjs](https://cdnjs.com/) | The free and open source CDN for web related libraries to speed up your website!
 | [CoralCDN](http://www.coralcdn.org/) | A free and open content distribution network based around peer-to-peer technologies, comprised of a world-wide network of web proxies and nameservers. |
 | [FontCDN](http://fontcdn.org/) | A search tool for Google web fonts. |
-| [Google Fonts](https://www.google.com/fonts) | Hundreds of free, open-source fonts optimized for the web. |
+| [Google Fonts](https://fonts.google.com/) | A library of fonts for use on the web and in applications. |
 | [Google Hosted Libraries](https://developers.google.com/speed/libraries/) | A stable, reliable, high-speed, globally available content distribution network for the most popular, open-source JavaScript libraries. |
 | [jsDelivr](http://www.jsdelivr.com/) | A free super-fast CDN for developers and webmasters. |
 | [Microsoft Ajax CDN](http://www.asp.net/ajax/cdn) | Popular third party JavaScript libraries such as jQuery and enables you to easily add them to your Web applications. |
@@ -422,9 +428,7 @@
 
 | Name | Description |
 |---|---|
-| [Am I Responsive?](http://ami.responsivedesign.is/) | See how your site looks on desktop, laptop, ipad & iphone. |
 | [BrowserStack](https://www.browserstack.com/) | Use the browser device tester and download Internet Explorer images for your VM. |
-| [Deviceponsive](http://deviceponsive.com/) | Show a quick preview of your website's responsive to different device resolutions like Macbook, iPad, or iPhone. share this preview with your client. |
 | [Responsively App](https://github.com/responsively-org/responsively-app) | A must-have devtool for web developers for quicker responsive web development. 🚀 |
 
 <p align="right"><a href="#table-of-contents"><b>↥ Back to top</b></a></p>
@@ -522,10 +526,8 @@
 | [Griddy](http://griddy.io/) | Learn the CSS Grid! |
 | [Hash tag links that don't headbutt the browser window](https://css-tricks.com/hash-tag-links-padding/) | CSS-Tricks post by Chris Coyier. |
 | [Learn CSS Grid](http://learncssgrid.com/) | A guide to learning CSS grid. |
-| [Learn CSS Grid](http://jensimmons.com/post/feb-27-2017/learn-css-grid) | A lot of fantastic resources out there by Jen Simmons. |
 | [Learn CSS Layout](http://learnlayout.com/) | This site teaches the CSS fundamentals that are used in any website's layout. |
 | [Overriding the default text selection color with CSS](https://css-tricks.com/overriding-the-default-text-selection-color-with-css/) | CSS-Tricks post by Chris Coyier. |
-| [Smarter link underlines for every website](https://eager.io/blog/smarter-link-underlines/) | Post by Adam Schwartz. |
 | [What is the browser-default background color when selecting text?](https://stackoverflow.com/questions/16094837/what-is-the-browser-default-background-color-when-selecting-text) | Answer on Stack Overflow |
 | [Why I switched from LESS to Sass?](http://hugogiraudel.com/2012/11/13/less-to-sass/) | Post by Hugo Giraudel. |
 
@@ -548,9 +550,7 @@
 | [Behance](https://www.behance.net/) |
 | [Best Website Gallery](http://bestwebsite.gallery/) |
 | [CodePen](http://codepen.io/) |
-| [CSS Gallery](http://www.cssdsgn.com/) |
 | [CSS Winner](http://www.csswinner.com/) |
-| [Design Fridge](http://www.designfridge.co.uk/) |
 | [DeviantArt](http://www.deviantart.com/) |
 | [Dribble](https://dribbble.com/) |
 | [Favourite Website Awards (FWA)](http://www.thefwa.com/) |
@@ -561,8 +561,6 @@
 | [One Page Love](https://onepagelove.com/) |
 | [Nice One I Like](http://www.niceoneilike.com/) |
 | [Siiimple](http://www.siiimple.com/) |
-| [The Best Designs](https://www.thebestdesigns.com/) |
-| [Very nice sites](http://www.verynicesites.com/) |
 | [Web Design Inspirations](http://www.webdesign-inspiration.com/) |
 | [webdesign - Tumblr Search](https://www.tumblr.com/search/webdesign) |
 
@@ -625,20 +623,19 @@
 | Name | Description |
 |---|---|
 | [Netlify ](https://www.netlify.com/) | Deploy modern static websites with Netlify. Get CDN, Continuous deployment, 1-click HTTPS, and all the services you need. Get started for free. |
-| [StaticGen](https://www.staticgen.com/) | Top open-source static site generators list. |
-| [Staticman](https://staticman.net/) | Staticman is a Node.js application that receives user-generated content and uploads it as data files to a GitHub and/or GitLab repository. |
+| [Jamstack Generators](https://jamstack.org/generators/) | A directory of static site generators and related tools. |
+| [Staticman](https://github.com/eduardoboucas/staticman) | A Node.js application that stores user-generated content as data files in a GitHub or GitLab repository. |
 | [Gitalk](https://gitalk.github.io/) | A modern comment component based on Github Issue and Preact. |
 | [utterances ](https://utteranc.es/) | A lightweight comments widget built on GitHub issues. Use GitHub issues for blog comments, wiki pages and more! |
 
 <p align="right"><a href="#table-of-contents"><b>↥ Back to top</b></a></p>
 
-## CheatSheet😎
+## Cheat sheets
 
 | Name |
 |---|
 | [tldr pages](https://tldr.sh/) |
 | [tldr InBrowser.App](https://tldr.inbrowser.app/) |
-| [tldr-book.pdf](https://tldr.sh/assets/tldr-book.pdf) |
 | [Brew basic commands](https://devsheet.com/code-snippet/brew-basic-commands/) - Devsheet |
 | [cheat.sh](https://cheat.sh/) |
 | [Devhints](https://devhints.io/) |
@@ -646,7 +643,6 @@
 | [Manual GitHub CLi](https://cli.github.com/manual/) |
 | [Markdown Cheatsheet](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet) |
 | [github-cheat-sheet](https://github.com/tiimgreen/github-cheat-sheet) |
-| [cheatsheet.md](https://cheatsheet.md/) |
 | [Octonator on Twitter: "Add .pibb to the end of any Gist URL in order to get the HTML only version suitable for embedding in any other site. http://t.co/HYtfQBM2DO" / Twitter](https://twitter.com/octonator/status/459370937344086016) |
 
 <p align="right"><a href="#table-of-contents"><b>↥ Back to top</b></a></p>
@@ -666,9 +662,7 @@
 | [Design Resources For Developers](https://github.com/bradtraversy/design-resources-for-developers) | A curated list of FREE design & UI resources for developers including stock photos, templates, frameworks, UI Kits, online tools and much much more. |
 | [GitHub - Open source showcases](https://github.com/showcases) | Browse popular repositories based on the topic that interests you most. |
 | [Gradient Backgrounds](https://cssgradient.io/gradient-backgrounds/) | As a curated list of the best gradient websites across the internet, Gradient Backgrounds allows you to explore, try and choose from hundreds of beautiful blended color palettes. |
-| [JavaScript Plugins Repository](https://plainjs.com/javascript/plugins/) | Vanilla JS tools for writing powerful web applications without jQuery. |
 | [Javascript Territory](http://jster.net/) | JSter Javascript catalog. |
-| [JavaScripting](http://www.javascripting.com/) | The database of JavaScript libraries, frameworks, and plugins. |
 | [Libraries.io](https://libraries.io/) | The Open Source Discovery Service. |
 | [List of HTTP status codes](https://en.wikipedia.org/wiki/List_of_HTTP_status_codes) | A list of Hypertext Transfer Protocol (HTTP) response status codes. |
 | [Social Share URLs](https://github.com/bradvin/social-share-urls#readme) | This project is intended to help you integrate sharing on social media within your code. |
@@ -677,3 +671,9 @@
 | [Unheap](http://www.unheap.com/) | A tidy repository of jQuery plugins classified in categories. |
 
 <p align="right"><a href="#table-of-contents"><b>↥ Back to top</b></a></p>
+
+## License
+
+This collection is dedicated to the public domain under
+[CC0 1.0 Universal](LICENSE). Listed projects retain their own licenses and
+terms.
