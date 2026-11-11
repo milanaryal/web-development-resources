@@ -106,6 +106,7 @@
 |---|---|
 | [Formstone](https://formstone.it/) | Formstone is a collection of front end components. |
 | [Le Wagon UI components](https://lewagon.github.io/ui-components/) | - |
+| [Markstream](https://github.com/Simon-He95/markstream-vue) | Streaming Markdown components for Vue, React, Solid, Svelte and Angular AI chat interfaces. |
 
 <p align="right"><a href="#table-of-contents"><b>↥ Back to top</b></a></p>
 
